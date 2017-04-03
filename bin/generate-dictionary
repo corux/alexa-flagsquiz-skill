@@ -1,0 +1,29 @@
+#!/usr/bin/env babel-node
+
+import fs from 'fs';
+import path from 'path';
+import nomnom from 'nomnom';
+import process from 'process';
+import countries from 'i18n-iso-countries';
+import availableFlags from 'svg-country-flags/countries.json';
+
+const exists = (filename) => fs.existsSync(filename)
+  ? undefined
+  : `${filename} does not exist`;
+
+let { destination } = nomnom
+  .script('generate-dictionary')
+  .option('destination', { required: true, callback: exists })
+  .parse();
+
+const destinationFile = path.join(process.cwd(), destination, 'dictionary.json');
+const dictionary = {
+  COUNTRY: Object.keys(availableFlags).map((value) => countries.getName(value, 'de'))
+};
+
+fs.writeFile(destinationFile, JSON.stringify(dictionary, null, 2), 'utf8', (err) => {
+  if (err) {
+    process.exit(1);
+  }
+  process.exit(0);
+});
