@@ -1,0 +1,20 @@
+service: alexa-flagsquiz-skill
+
+provider:
+  name: aws
+  runtime: nodejs6.10
+  region: eu-west-1
+
+package:
+  individually: true
+  exclude:
+    - '**'
+
+functions:
+  skill:
+    handler: build/skill.handler
+    package:
+      include:
+        - build/skill*
+    events:
+      - alexaSkill
