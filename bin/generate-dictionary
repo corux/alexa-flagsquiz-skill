@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import nomnom from 'nomnom';
 import process from 'process';
-import countries from 'i18n-iso-countries';
+import countryjs from 'countryjs';
 import availableFlags from 'svg-country-flags/countries.json';
 
 const exists = (filename) => fs.existsSync(filename)
@@ -18,7 +18,12 @@ let { destination } = nomnom
 
 const destinationFile = path.join(process.cwd(), destination, 'dictionary.json');
 const dictionary = {
-  COUNTRY: Object.keys(availableFlags).map((value) => countries.getName(value, 'de'))
+  COUNTRY: Object.keys(availableFlags).map(value => {
+    const translations = countryjs.translations(value);
+    if (translations && translations['de']) {
+      return translations['de'];
+    }
+  }).filter(value => !!value)
 };
 
 fs.writeFile(destinationFile, JSON.stringify(dictionary, null, 2), 'utf8', (err) => {
