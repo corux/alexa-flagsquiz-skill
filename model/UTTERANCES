@@ -1,5 +1,5 @@
-CountryIntent {das ist|} {das Land|} {-|COUNTRY}
-ContinentIntent {das ist|} {der Kontinent|} {-|CONTINENT}
+CountryIntent {das ist|} {das Land|} {-|country}
+ContinentIntent {das ist|} {der Kontinent|} {-|continent}
 HintIntent {gib mir|} {ein|} Hinweis
 HintIntent Hilf mir {weiter|}
 StatisticsIntent {wie|was|} {ist|} {meine|die|} Statistik
