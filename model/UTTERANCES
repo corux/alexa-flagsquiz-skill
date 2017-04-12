@@ -1,1 +1,6 @@
 CountryIntent {das ist|} {das Land|} {-|COUNTRY}
+ContinentIntent {das ist|} {der Kontinent|} {-|CONTINENT}
+HintIntent {gib mir|} {ein|} Hinweis
+HintIntent Hilf mir {weiter|}
+StatisticsIntent {wie|was|} {ist|} {meine|die|} Statistik
+StatisticsIntent wie viele Fragen {habe ich|sind|waren} {richtig|falsch} {beantwortet|}

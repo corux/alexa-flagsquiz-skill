@@ -13,11 +13,23 @@
       "intent": "StatisticsIntent"
     },
     {
+      "intent": "HintIntent"
+    },
+    {
       "intent": "CountryIntent",
       "slots": [
         {
           "name": "country",
           "type": "COUNTRY"
+        }
+      ]
+    },
+    {
+      "intent": "ContinentIntent",
+      "slots": [
+        {
+          "name": "continent",
+          "type": "CONTINENT"
         }
       ]
     }
