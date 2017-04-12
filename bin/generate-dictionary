@@ -5,6 +5,7 @@ import path from 'path';
 import nomnom from 'nomnom';
 import process from 'process';
 import countryjs from 'countryjs';
+import continent from '../src/continent';
 
 const exists = (filename) => fs.existsSync(filename)
   ? undefined
@@ -14,14 +15,6 @@ let { destination } = nomnom
   .script('generate-dictionary')
   .option('destination', { required: true, callback: exists })
   .parse();
-
-const i18nContinents = {
-  Asia: "Asien",
-  Europe: "Europa",
-  Africa: "Afrika",
-  Oceania: "Ozeanien",
-  Americas: "Amerika"
-};
 
 const all = countryjs.all();
 const destinationFile = path.join(process.cwd(), destination, 'dictionary.json');
@@ -33,7 +26,7 @@ const dictionary = {
   CURRENCY: [...new Set([].concat(...all.map(country => country.currencies)))]
     .filter(value => !!value),
   CONTINENT: [...new Set(all.map(country => country.region))]
-    .map(continent => i18nContinents[continent])
+    .map(value => continent.getTranslation(value))
     .filter(value => !!value)
 };
 
