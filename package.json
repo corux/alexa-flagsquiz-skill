@@ -1,5 +1,5 @@
 {
-  "name": "alexa-flagsquiz-skill",
+  "name": "alexa-countryquiz-skill",
   "version": "0.0.0",
   "description": "An Alexa skill for the Amazon Echo.",
   "main": "build/index.js",

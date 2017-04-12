@@ -1,4 +1,4 @@
-service: alexa-flagsquiz-skill
+service: alexa-countryquiz-skill
 
 provider:
   name: aws

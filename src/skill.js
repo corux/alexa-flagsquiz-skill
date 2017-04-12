@@ -1,3 +1,3 @@
-import AlexaFlagsQuizSkill from './alexa-flagsquiz-skill';
+import AlexaCountryQuizSkill from './alexa-countryquiz-skill';
 
-module.exports = AlexaFlagsQuizSkill;
+module.exports = AlexaCountryQuizSkill;
