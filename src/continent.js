@@ -7,6 +7,9 @@ const i18nContinents = {
 };
 
 export default {
+  getAll: () => {
+    return Object.values(i18nContinents);
+  },
   getTranslation: (en) => {
     return i18nContinents[en];
   }

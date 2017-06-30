@@ -135,7 +135,7 @@ export default class AlexaCountryQuizSkill {
   _getCard(isoCode) {
     const image = `https://cdn.rawgit.com/hjnilsson/country-flags/9e827754/png1000px/${isoCode.toLowerCase()}.png`;
     return {
-      title: 'Flaggen Quiz',
+      title: 'Länder Quiz',
       type: 'Standard',
       image: {
         smallImageUrl: image,

@@ -1,10 +1,11 @@
 #!/usr/bin/env babel-node
 
 import fs from 'fs';
+import request from 'request';
 import path from 'path';
 import nomnom from 'nomnom';
 import process from 'process';
-import countryjs from 'countryjs';
+import cheerio from 'cheerio';
 import continent from '../src/continent';
 
 const exists = (filename) => fs.existsSync(filename)
@@ -16,23 +17,67 @@ let { destination } = nomnom
   .option('destination', { required: true, callback: exists })
   .parse();
 
-const all = countryjs.all();
-const destinationFile = path.join(process.cwd(), destination, 'dictionary.json');
-const dictionary = {
-  COUNTRY: all.map(country => country.translations && country.translations['de'])
-    .filter(value => !!value),
-  CAPITAL: all.map(country => country.capital)
-    .filter(value => !!value),
-  CURRENCY: [...new Set([].concat(...all.map(country => country.currencies)))]
-    .filter(value => !!value),
-  CONTINENT: [...new Set(all.map(country => country.region))]
-    .map(value => continent.getTranslation(value))
-    .filter(value => !!value)
-};
+function fixCountryName(name) {
+  const fixedNames = {
+    'Korea, Süd': 'Südkorea',
+    'Korea, Nord': 'Nordkorea',
+    'Kongo, Demokratische Republik': 'Demokratische Republik Kongo',
+    'Kongo, Republik': 'Republik Kongo',
+    'Vereinigtes Königreich': 'England',
+    'Vereinigte Staaten': 'USA'
+  };
+  return fixedNames[name] || name;
+}
 
-fs.writeFile(destinationFile, JSON.stringify(dictionary, null, 2), 'utf8', (err) => {
-  if (err) {
-    process.exit(1);
-  }
-  process.exit(0);
+request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, response, body) => {
+  var $ = cheerio.load(body);
+  var parsed = $('.wikitable tbody tr:not([class])').map((i, elem) => {
+    const get = position => {
+      let text = $(elem).children().eq(position).text();
+      text = text.split('\n')[0];
+      text = text.replace(/\[.*\]/, '');
+      return text;
+    };
+    const toNumber = value => {
+      value = value.replace('.', '');
+      return parseInt(value, 10);
+    };
+    return {
+      name: fixCountryName(get(0)),
+      longName: get(1),
+      capital: get(2),
+      population: toNumber(get(3)),
+      area: toNumber(get(4)),
+      populationPerSquareKm: toNumber(get(5)),
+      iso3: get(7),
+      iso2: get(8),
+      tld: get(9),
+      englishName: get(10),
+      localeNames: get(11).split(',').map(Function.prototype.call, String.prototype.trim)
+    };
+  }).get();
+  writeFile(parsed);
 });
+
+function writeFile(all) {
+  const dictionaryFile = path.join(process.cwd(), destination, 'dictionary.json');
+  const dataFile = path.join(process.cwd(), destination, 'data.json');
+  const dictionary = {
+    COUNTRY: all.map(country => country.name)
+      .filter(value => !!value),
+    CAPITAL: all.map(country => country.capital)
+      .filter(value => !!value),
+    CONTINENT: continent.getAll()
+  };
+
+  fs.writeFile(dictionaryFile, JSON.stringify(dictionary, null, 2), 'utf8', (err) => {
+    if (err) {
+      process.exit(1);
+    }
+  });
+  fs.writeFile(dataFile, JSON.stringify(all, null, 2), 'utf8', (err) => {
+    if (err) {
+      process.exit(1);
+    }
+  });
+}
