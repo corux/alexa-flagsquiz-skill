@@ -5,6 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "lint": "eslint src/**/*.js test/**/*.js",
+    "generate-data": "bin/generate-data --destination src/",
     "generate-dictionary": "bin/generate-dictionary --destination model/",
     "prebuild": "npm run generate-dictionary",
     "build": "npm-run-all --parallel build:skill build:utterances",
@@ -42,7 +43,7 @@
     "chai": "^4.0.0",
     "chai-subset": "^1.5.0",
     "cheerio": "^1.0.0-rc.1",
-    "countryjs": "^1.6.1",
+    "countryjs": "^1.8.0",
     "eslint": "^4.1.0",
     "isomorphic-fetch": "^2.2.1",
     "json-loader": "^0.5.4",

@@ -1,0 +1,93 @@
+#!/usr/bin/env babel-node
+
+import fs from 'fs';
+import request from 'request';
+import path from 'path';
+import nomnom from 'nomnom';
+import process from 'process';
+import cheerio from 'cheerio';
+import countryjs from 'countryjs'
+import continent from '../src/continent';
+
+const exists = (filename) => fs.existsSync(filename)
+  ? undefined
+  : `${filename} does not exist`;
+
+let { destination } = nomnom
+  .script('generate-data')
+  .option('destination', { required: true, callback: exists })
+  .parse();
+
+function fixCountryName(name) {
+  const fixedNames = {
+    'Korea, Süd': 'Südkorea',
+    'Korea, Nord': 'Nordkorea',
+    'Kongo, Demokratische Republik': 'Demokratische Republik Kongo',
+    'Kongo, Republik': 'Republik Kongo',
+    'Vereinigtes Königreich': 'England',
+    'Vereinigte Staaten': 'USA'
+  };
+  return fixedNames[name] || name;
+}
+
+request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, response, body) => {
+  // parse wikipedia table
+  var $ = cheerio.load(body);
+  var data = $('.wikitable tbody tr:not([class])').map((i, elem) => {
+    const get = position => {
+      let text = $(elem).children().eq(position).text();
+      text = text.split('\n')[0];
+      text = text.replace(/\[.*\]/, '');
+      return text;
+    };
+    const toNumber = value => {
+      value = value.replace('.', '');
+      return parseInt(value, 10);
+    };
+    const getFlag = size => 'https:' + $(elem).children().eq(6).find('img').attr('src').replace(/\/[0-9]*px-/, '/' + size + 'px-');
+    return {
+      name: fixCountryName(get(0)),
+      longName: get(1),
+      capital: get(2),
+      //population: toNumber(get(3)),
+      //area: toNumber(get(4)),
+      //populationPerSquareKm: toNumber(get(5)),
+      flag: {
+        smallImageUrl: getFlag(720),
+        largeImageUrl: getFlag(1200),
+      },
+      iso3: /^[a-zA-Z]{3}$/.test(get(7)) && get(7),
+      iso2: /^[a-zA-Z]{2}$/.test(get(8)) && get(8),
+      //tld: get(9),
+      //englishName: get(10),
+      //localeNames: get(11).split(',').map(Function.prototype.call, String.prototype.trim)
+    };
+  }).get();
+
+  // amend with information from countryjs
+  for (let country of data) {
+    const countryJsData = countryjs.info(country.iso3, 'ISO3');
+    if (countryJsData) {
+      country.region = continent.getTranslation(countryJsData.region);
+      country.languages = countryJsData.languages;
+      country.currencies = countryJsData.currencies;
+      country.borders = countryJsData.borders;
+    }
+  }
+
+  // filter out countries without enough information
+  data = data.filter(val => val.region);
+
+  // write data.json file
+  writeFile(data);
+});
+
+function writeFile(all) {
+  const dataFile = path.join(process.cwd(), destination, 'data.json');
+
+  fs.writeFile(dataFile, JSON.stringify(all, null, 2), 'utf8', (err) => {
+    if (err) {
+      process.exit(1);
+    }
+  });
+}
