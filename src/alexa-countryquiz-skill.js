@@ -41,7 +41,7 @@ export default class AlexaCountryQuizSkill {
     let country;
     do {
       country = this._getNextCountry();
-    } while(!country.borders);
+    } while(country.borders.length === 0);
 
     return {
       type: 'neighbour',
