@@ -16,6 +16,9 @@
       "intent": "HintIntent"
     },
     {
+      "intent": "SkipIntent"
+    },
+    {
       "intent": "CountryIntent",
       "slots": [
         {

@@ -2,5 +2,10 @@ CountryIntent {das ist|} {das Land|} {-|country}
 ContinentIntent {das ist|} {der Kontinent|} {-|continent}
 HintIntent {gib mir|} {ein|} Hinweis
 HintIntent Hilf mir {weiter|}
+SkipIntent {ich|} weiss nicht
+SkipIntent keine Ahnung
+SkipIntent weiter
+SkipIntent nächste Frage
+SkipIntent überspringe {diese|} {Frage|}
 StatisticsIntent {wie|was|} {ist|} {meine|die|} Statistik
 StatisticsIntent wie viele Fragen {habe ich|sind|waren} {richtig|falsch} {beantwortet|}

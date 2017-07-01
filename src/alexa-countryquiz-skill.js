@@ -131,6 +131,14 @@ export default class AlexaCountryQuizSkill {
   @Intent('ContinentIntent')
   countryIntent({ continent }) {
     return this._handleAnswer(continent);
+
+  @Intent('SkipIntent')
+  skipIntent({ session }) {
+    const data = this._getQuestion();
+    data.numQuestions = session.attributes.numQuestions++;
+    return ask(`Hier ist die nächste Frage: ${data.question}`)
+      .reprompt(data.question)
+      .attributes(data);
   }
 
   @Intent('HintIntent')
