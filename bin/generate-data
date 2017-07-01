@@ -25,7 +25,8 @@ function fixCountryName(name) {
     'Kongo, Demokratische Republik': 'Demokratische Republik Kongo',
     'Kongo, Republik': 'Republik Kongo',
     'Vereinigtes Königreich': 'England',
-    'Vereinigte Staaten': 'USA'
+    'Vereinigte Staaten': 'USA',
+    'Volksrepublik China': 'China'
   };
   return fixedNames[name] || name;
 }
