@@ -1,0 +1,4543 @@
+[
+  {
+    "name": "Afghanistan",
+    "longName": "Islamische Republik Afghanistan",
+    "capital": "Kabul",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/720px-Flag_of_Afghanistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/1200px-Flag_of_Afghanistan.svg.png"
+    },
+    "iso3": "AFG",
+    "iso2": "AF",
+    "region": "Asien",
+    "languages": [
+      "ps",
+      "uz",
+      "tk"
+    ],
+    "currencies": [
+      "AFN"
+    ],
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ]
+  },
+  {
+    "name": "Ägypten",
+    "longName": "Arabische Republik Ägypten",
+    "capital": "Kairo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/720px-Flag_of_Egypt.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
+    },
+    "iso3": "EGY",
+    "iso2": "EG",
+    "region": "Afrika",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "EGP"
+    ],
+    "borders": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ]
+  },
+  {
+    "name": "Albanien",
+    "longName": "Republik Albanien",
+    "capital": "Tirana",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/720px-Flag_of_Albania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1200px-Flag_of_Albania.svg.png"
+    },
+    "iso3": "ALB",
+    "iso2": "AL",
+    "region": "Europa",
+    "languages": [
+      "sq"
+    ],
+    "currencies": [
+      "ALL"
+    ],
+    "borders": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "KOS"
+    ]
+  },
+  {
+    "name": "Algerien",
+    "longName": "Demokratische Volksrepublik Algerien",
+    "capital": "Algier",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/720px-Flag_of_Algeria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png"
+    },
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "region": "Afrika",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "DZD"
+    ],
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ]
+  },
+  {
+    "name": "Angola",
+    "longName": "Republik Angola",
+    "capital": "Luanda",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/720px-Flag_of_Angola.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png"
+    },
+    "iso3": "AGO",
+    "iso2": "AO",
+    "region": "Afrika",
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "AOA"
+    ],
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ]
+  },
+  {
+    "name": "Antigua und Barbuda",
+    "longName": "Antigua und Barbuda",
+    "capital": "Saint John’s",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/720px-Flag_of_Antigua_and_Barbuda.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png"
+    },
+    "iso3": "ATG",
+    "iso2": "AG",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Äquatorialguinea",
+    "longName": "Republik Äquatorial­guinea",
+    "capital": "Malabo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/720px-Flag_of_Equatorial_Guinea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/1200px-Flag_of_Equatorial_Guinea.svg.png"
+    },
+    "iso3": "GNQ",
+    "iso2": "GQ",
+    "region": "Afrika",
+    "languages": [
+      "es",
+      "fr"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CMR",
+      "GAB"
+    ]
+  },
+  {
+    "name": "Argentinien",
+    "longName": "Argentinische Republik",
+    "capital": "Buenos Aires",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/720px-Flag_of_Argentina.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    "iso3": "ARG",
+    "iso2": "AR",
+    "region": "Amerika",
+    "languages": [
+      "es",
+      "gn"
+    ],
+    "currencies": [
+      "ARS"
+    ],
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ]
+  },
+  {
+    "name": "Armenien",
+    "longName": "Republik Armenien",
+    "capital": "Jerewan",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/720px-Flag_of_Armenia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1200px-Flag_of_Armenia.svg.png"
+    },
+    "iso3": "ARM",
+    "iso2": "AM",
+    "region": "Asien",
+    "languages": [
+      "hy",
+      "ru"
+    ],
+    "currencies": [
+      "AMD"
+    ],
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ]
+  },
+  {
+    "name": "Aserbaidschan",
+    "longName": "Republik Aserbaidschan",
+    "capital": "Baku",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/720px-Flag_of_Azerbaijan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png"
+    },
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "region": "Asien",
+    "languages": [
+      "az",
+      "hy"
+    ],
+    "currencies": [
+      "AZN"
+    ],
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ]
+  },
+  {
+    "name": "Äthiopien",
+    "longName": "Demokratische Bundesrepublik Äthiopien",
+    "capital": "Addis Abeba",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/720px-Flag_of_Ethiopia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1200px-Flag_of_Ethiopia.svg.png"
+    },
+    "iso3": "ETH",
+    "iso2": "ET",
+    "region": "Afrika",
+    "languages": [
+      "am"
+    ],
+    "currencies": [
+      "ETB"
+    ],
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ]
+  },
+  {
+    "name": "Australien",
+    "longName": "Australien",
+    "capital": "Canberra",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/720px-Flag_of_Australia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1200px-Flag_of_Australia.svg.png"
+    },
+    "iso3": "AUS",
+    "iso2": "AU",
+    "region": "Ozeanien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Bahamas",
+    "longName": "Commonwealth der Bahamas",
+    "capital": "Nassau",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/720px-Flag_of_the_Bahamas.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1200px-Flag_of_the_Bahamas.svg.png"
+    },
+    "iso3": "BHS",
+    "iso2": "BS",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "BSD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Bahrain",
+    "longName": "Königreich Bahrain",
+    "capital": "Manama",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/720px-Flag_of_Bahrain.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1200px-Flag_of_Bahrain.svg.png"
+    },
+    "iso3": "BHR",
+    "iso2": "BH",
+    "region": "Asien",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "BHD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Bangladesch",
+    "longName": "Volksrepublik Bangladesch",
+    "capital": "Dhaka",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/720px-Flag_of_Bangladesh.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png"
+    },
+    "iso3": "BGD",
+    "iso2": "BD",
+    "region": "Asien",
+    "languages": [
+      "bn"
+    ],
+    "currencies": [
+      "BDT"
+    ],
+    "borders": [
+      "MMR",
+      "IND"
+    ]
+  },
+  {
+    "name": "Barbados",
+    "longName": "Barbados",
+    "capital": "Bridgetown",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/720px-Flag_of_Barbados.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/1200px-Flag_of_Barbados.svg.png"
+    },
+    "iso3": "BRB",
+    "iso2": "BB",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "BBD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Belgien",
+    "longName": "Königreich Belgien",
+    "capital": "Brüssel",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/720px-Flag_of_Belgium_%28civil%29.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/1200px-Flag_of_Belgium_%28civil%29.svg.png"
+    },
+    "iso3": "BEL",
+    "iso2": "BE",
+    "region": "Europa",
+    "languages": [
+      "nl",
+      "fr",
+      "de"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ]
+  },
+  {
+    "name": "Belize",
+    "longName": "Belize",
+    "capital": "Belmopan",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/720px-Flag_of_Belize.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1200px-Flag_of_Belize.svg.png"
+    },
+    "iso3": "BLZ",
+    "iso2": "BZ",
+    "region": "Amerika",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "currencies": [
+      "BZD"
+    ],
+    "borders": [
+      "GTM",
+      "MEX"
+    ]
+  },
+  {
+    "name": "Benin",
+    "longName": "Republik Benin",
+    "capital": "Porto-Novo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/720px-Flag_of_Benin.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/1200px-Flag_of_Benin.svg.png"
+    },
+    "iso3": "BEN",
+    "iso2": "BJ",
+    "region": "Afrika",
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "longName": "Königreich Bhutan",
+    "capital": "Thimphu",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/720px-Flag_of_Bhutan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1200px-Flag_of_Bhutan.svg.png"
+    },
+    "iso3": "BTN",
+    "iso2": "BT",
+    "region": "Asien",
+    "languages": [
+      "dz"
+    ],
+    "currencies": [
+      "BTN",
+      "INR"
+    ],
+    "borders": [
+      "CHN",
+      "IND"
+    ]
+  },
+  {
+    "name": "Bolivien",
+    "longName": "Plurinationaler Staat Bolivien",
+    "capital": "Sucre",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/720px-Flag_of_Bolivia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1200px-Flag_of_Bolivia.svg.png"
+    },
+    "iso3": "BOL",
+    "iso2": "BO",
+    "region": "Amerika",
+    "languages": [
+      "es",
+      "ay",
+      "qu"
+    ],
+    "currencies": [
+      "BOB",
+      "BOV"
+    ],
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ]
+  },
+  {
+    "name": "Bosnien und Herzegowina",
+    "longName": "Bosnien und Herzegowina",
+    "capital": "Sarajevo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/720px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1200px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+    },
+    "iso3": "BIH",
+    "iso2": "BA",
+    "region": "Europa",
+    "languages": [
+      "bs",
+      "hr",
+      "sr"
+    ],
+    "currencies": [
+      "BAM"
+    ],
+    "borders": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ]
+  },
+  {
+    "name": "Botswana",
+    "longName": "Republik Botsuana",
+    "capital": "Gaborone",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/720px-Flag_of_Botswana.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1200px-Flag_of_Botswana.svg.png"
+    },
+    "iso3": "BWA",
+    "iso2": "BW",
+    "region": "Afrika",
+    "languages": [
+      "en",
+      "tn"
+    ],
+    "currencies": [
+      "BWP"
+    ],
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ]
+  },
+  {
+    "name": "Brasilien",
+    "longName": "Föderative Republik Brasilien",
+    "capital": "Brasília",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
+    },
+    "iso3": "BRA",
+    "iso2": "BR",
+    "region": "Amerika",
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "BRL"
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ]
+  },
+  {
+    "name": "Brunei",
+    "longName": "Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/720px-Flag_of_Brunei.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1200px-Flag_of_Brunei.svg.png"
+    },
+    "iso3": "BRN",
+    "iso2": "BN",
+    "region": "Asien",
+    "languages": [
+      "ms"
+    ],
+    "currencies": [
+      "BND"
+    ],
+    "borders": [
+      "MYS"
+    ]
+  },
+  {
+    "name": "Bulgarien",
+    "longName": "Republik Bulgarien",
+    "capital": "Sofia",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/720px-Flag_of_Bulgaria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1200px-Flag_of_Bulgaria.svg.png"
+    },
+    "iso3": "BGR",
+    "iso2": "BG",
+    "region": "Europa",
+    "languages": [
+      "bg"
+    ],
+    "currencies": [
+      "BGN"
+    ],
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "longName": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/720px-Flag_of_Burkina_Faso.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1200px-Flag_of_Burkina_Faso.svg.png"
+    },
+    "iso3": "BFA",
+    "iso2": "BF",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "ff"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ]
+  },
+  {
+    "name": "Burundi",
+    "longName": "Republik Burundi",
+    "capital": "Bujumbura",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/720px-Flag_of_Burundi.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1200px-Flag_of_Burundi.svg.png"
+    },
+    "iso3": "BDI",
+    "iso2": "BI",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "rn"
+    ],
+    "currencies": [
+      "BIF"
+    ],
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ]
+  },
+  {
+    "name": "Chile",
+    "longName": "Republik Chile",
+    "capital": "Santiago de Chile",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/720px-Flag_of_Chile.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png"
+    },
+    "iso3": "CHL",
+    "iso2": "CL",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "CLF",
+      "CLP"
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ]
+  },
+  {
+    "name": "Republik China",
+    "longName": "Republik China (Taiwan)",
+    "capital": "Taipeh",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/720px-Flag_of_the_Republic_of_China.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png"
+    },
+    "iso3": "TWN",
+    "iso2": "TW",
+    "region": "Asien",
+    "languages": [
+      "zh"
+    ],
+    "currencies": [
+      "TWD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Volksrepublik China",
+    "longName": "Volksrepublik China",
+    "capital": "Peking",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/720px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+    },
+    "iso3": "CHN",
+    "iso2": "CN",
+    "region": "Asien",
+    "languages": [
+      "zh"
+    ],
+    "currencies": [
+      "CNY"
+    ],
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ]
+  },
+  {
+    "name": "Cookinseln",
+    "longName": "Cookinseln",
+    "capital": "Avarua",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/720px-Flag_of_the_Cook_Islands.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/1200px-Flag_of_the_Cook_Islands.svg.png"
+    },
+    "iso3": "COK",
+    "iso2": "CK",
+    "region": "Ozeanien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Costa Rica",
+    "longName": "Republik Costa Rica",
+    "capital": "San José",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/720px-Flag_of_Costa_Rica.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1200px-Flag_of_Costa_Rica.svg.png"
+    },
+    "iso3": "CRI",
+    "iso2": "CR",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "CRC"
+    ],
+    "borders": [
+      "NIC",
+      "PAN"
+    ]
+  },
+  {
+    "name": "Dänemark",
+    "longName": "Königreich Dänemark",
+    "capital": "Kopenhagen",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/720px-Flag_of_Denmark.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png"
+    },
+    "iso3": "DNK",
+    "iso2": "DK",
+    "region": "Europa",
+    "languages": [
+      "da"
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "borders": [
+      "DEU"
+    ]
+  },
+  {
+    "name": "Deutschland",
+    "longName": "Bundesrepublik Deutschland",
+    "capital": "Berlin",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/720px-Flag_of_Germany.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
+    },
+    "iso3": "DEU",
+    "iso2": "DE",
+    "region": "Europa",
+    "languages": [
+      "de"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ]
+  },
+  {
+    "name": "Dominica",
+    "longName": "Commonwealth Dominica",
+    "capital": "Roseau",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/720px-Flag_of_Dominica.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1200px-Flag_of_Dominica.svg.png"
+    },
+    "iso3": "DMA",
+    "iso2": "DM",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Dominikanische Republik",
+    "longName": "Dominikanische Republik",
+    "capital": "Santo Domingo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/720px-Flag_of_the_Dominican_Republic.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1200px-Flag_of_the_Dominican_Republic.svg.png"
+    },
+    "iso3": "DOM",
+    "iso2": "DO",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "DOP"
+    ],
+    "borders": [
+      "HTI"
+    ]
+  },
+  {
+    "name": "Dschibuti",
+    "longName": "Republik Dschibuti",
+    "capital": "Dschibuti-Stadt",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/720px-Flag_of_Djibouti.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1200px-Flag_of_Djibouti.svg.png"
+    },
+    "iso3": "DJI",
+    "iso2": "DJ",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "ar"
+    ],
+    "currencies": [
+      "DJF"
+    ],
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "longName": "Republik Ecuador",
+    "capital": "Quito",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/720px-Flag_of_Ecuador.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1200px-Flag_of_Ecuador.svg.png"
+    },
+    "iso3": "ECU",
+    "iso2": "EC",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": [
+      "COL",
+      "PER"
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "longName": "Republik El Salvador",
+    "capital": "San Salvador",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/720px-Flag_of_El_Salvador.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1200px-Flag_of_El_Salvador.svg.png"
+    },
+    "iso3": "SLV",
+    "iso2": "SV",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "SVC",
+      "USD"
+    ],
+    "borders": [
+      "GTM",
+      "HND"
+    ]
+  },
+  {
+    "name": "Elfenbeinküste",
+    "longName": "Republik Côte d’Ivoire",
+    "capital": "Yamoussoukro",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/720px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+    },
+    "iso3": "CIV",
+    "iso2": "CI",
+    "region": "Afrika",
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "longName": "Staat Eritrea",
+    "capital": "Asmara",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/720px-Flag_of_Eritrea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1200px-Flag_of_Eritrea.svg.png"
+    },
+    "iso3": "ERI",
+    "iso2": "ER",
+    "region": "Afrika",
+    "languages": [
+      "ti",
+      "ar",
+      "en"
+    ],
+    "currencies": [
+      "ERN"
+    ],
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ]
+  },
+  {
+    "name": "Estland",
+    "longName": "Republik Estland",
+    "capital": "Tallinn",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/720px-Flag_of_Estonia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1200px-Flag_of_Estonia.svg.png"
+    },
+    "iso3": "EST",
+    "iso2": "EE",
+    "region": "Europa",
+    "languages": [
+      "et"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "LVA",
+      "RUS"
+    ]
+  },
+  {
+    "name": "Fidschi",
+    "longName": "Republik Fidschi",
+    "capital": "Suva",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/720px-Flag_of_Fiji.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/1200px-Flag_of_Fiji.svg.png"
+    },
+    "iso3": "FJI",
+    "iso2": "FJ",
+    "region": "Ozeanien",
+    "languages": [
+      "en",
+      "fj",
+      "hi",
+      "ur"
+    ],
+    "currencies": [
+      "FJD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Finnland",
+    "longName": "Republik Finnland",
+    "capital": "Helsinki",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/720px-Flag_of_Finland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png"
+    },
+    "iso3": "FIN",
+    "iso2": false,
+    "region": "Europa",
+    "languages": [
+      "fi",
+      "sv"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ]
+  },
+  {
+    "name": "Frankreich",
+    "longName": "Französische Republik",
+    "capital": "Paris",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/720px-Flag_of_France.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
+    },
+    "iso3": "FRA",
+    "iso2": "FR",
+    "region": "Europa",
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ]
+  },
+  {
+    "name": "Gabun",
+    "longName": "Gabunische Republik",
+    "capital": "Libreville",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/720px-Flag_of_Gabon.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1200px-Flag_of_Gabon.svg.png"
+    },
+    "iso3": "GAB",
+    "iso2": "GA",
+    "region": "Afrika",
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ]
+  },
+  {
+    "name": "Gambia",
+    "longName": "Republik Gambia",
+    "capital": "Banjul",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/720px-Flag_of_The_Gambia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1200px-Flag_of_The_Gambia.svg.png"
+    },
+    "iso3": "GMB",
+    "iso2": "GM",
+    "region": "Afrika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "GMD"
+    ],
+    "borders": [
+      "SEN"
+    ]
+  },
+  {
+    "name": "Georgien",
+    "longName": "Georgien",
+    "capital": "Tiflis",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/720px-Flag_of_Georgia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png"
+    },
+    "iso3": "GEO",
+    "iso2": "GE",
+    "region": "Asien",
+    "languages": [
+      "ka"
+    ],
+    "currencies": [
+      "GEL"
+    ],
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ]
+  },
+  {
+    "name": "Ghana",
+    "longName": "Republik Ghana",
+    "capital": "Accra",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/720px-Flag_of_Ghana.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png"
+    },
+    "iso3": "GHA",
+    "iso2": "GH",
+    "region": "Afrika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "GHS"
+    ],
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ]
+  },
+  {
+    "name": "Grenada",
+    "longName": "Grenada",
+    "capital": "St. George’s",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/720px-Flag_of_Grenada.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1200px-Flag_of_Grenada.svg.png"
+    },
+    "iso3": "GRD",
+    "iso2": "GD",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Griechenland",
+    "longName": "Hellenische Republik",
+    "capital": "Athen",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/720px-Flag_of_Greece.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png"
+    },
+    "iso3": "GRC",
+    "iso2": "GR",
+    "region": "Europa",
+    "languages": [
+      "el"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "longName": "Republik Guatemala",
+    "capital": "Guatemala-Stadt",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/720px-Flag_of_Guatemala.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1200px-Flag_of_Guatemala.svg.png"
+    },
+    "iso3": "GTM",
+    "iso2": "GT",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "GTQ"
+    ],
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ]
+  },
+  {
+    "name": "Guinea",
+    "longName": "Republik Guinea",
+    "capital": "Conakry",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/720px-Flag_of_Guinea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/1200px-Flag_of_Guinea.svg.png"
+    },
+    "iso3": "GIN",
+    "iso2": "GN",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "ff"
+    ],
+    "currencies": [
+      "GNF"
+    ],
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "longName": "Republik Guinea-Bissau",
+    "capital": "Bissau",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/720px-Flag_of_Guinea-Bissau.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1200px-Flag_of_Guinea-Bissau.svg.png"
+    },
+    "iso3": "GNB",
+    "iso2": "GW",
+    "region": "Afrika",
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "GIN",
+      "SEN"
+    ]
+  },
+  {
+    "name": "Guyana",
+    "longName": "Kooperative Republik Guyana",
+    "capital": "Georgetown",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/720px-Flag_of_Guyana.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1200px-Flag_of_Guyana.svg.png"
+    },
+    "iso3": "GUY",
+    "iso2": "GY",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "GYD"
+    ],
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ]
+  },
+  {
+    "name": "Haiti",
+    "longName": "Republik Haiti",
+    "capital": "Port-au-Prince",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/720px-Flag_of_Haiti.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1200px-Flag_of_Haiti.svg.png"
+    },
+    "iso3": "HTI",
+    "iso2": "HT",
+    "region": "Amerika",
+    "languages": [
+      "fr",
+      "ht"
+    ],
+    "currencies": [
+      "HTG",
+      "USD"
+    ],
+    "borders": [
+      "DOM"
+    ]
+  },
+  {
+    "name": "Honduras",
+    "longName": "Republik Honduras",
+    "capital": "Tegucigalpa",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/720px-Flag_of_Honduras.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1200px-Flag_of_Honduras.svg.png"
+    },
+    "iso3": "HND",
+    "iso2": "HN",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "HNL"
+    ],
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ]
+  },
+  {
+    "name": "Indien",
+    "longName": "Republik Indien",
+    "capital": "Neu-Delhi",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/720px-Flag_of_India.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    },
+    "iso3": "IND",
+    "iso2": "IN",
+    "region": "Asien",
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "currencies": [
+      "INR"
+    ],
+    "borders": [
+      "AFG",
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK",
+      "LKA"
+    ]
+  },
+  {
+    "name": "Indonesien",
+    "longName": "Republik Indonesien",
+    "capital": "Jakarta",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/720px-Flag_of_Indonesia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1200px-Flag_of_Indonesia.svg.png"
+    },
+    "iso3": "IDN",
+    "iso2": "ID",
+    "region": "Asien",
+    "languages": [
+      "id"
+    ],
+    "currencies": [
+      "IDR"
+    ],
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ]
+  },
+  {
+    "name": "Irak",
+    "longName": "Republik Irak",
+    "capital": "Bagdad",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/720px-Flag_of_Iraq.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1200px-Flag_of_Iraq.svg.png"
+    },
+    "iso3": "IRQ",
+    "iso2": "IQ",
+    "region": "Asien",
+    "languages": [
+      "ar",
+      "ku"
+    ],
+    "currencies": [
+      "IQD"
+    ],
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ]
+  },
+  {
+    "name": "Iran",
+    "longName": "Islamische Republik Iran",
+    "capital": "Teheran",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/720px-Flag_of_Iran.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1200px-Flag_of_Iran.svg.png"
+    },
+    "iso3": "IRN",
+    "iso2": "IR",
+    "region": "Asien",
+    "languages": [
+      "fa"
+    ],
+    "currencies": [
+      "IRR"
+    ],
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ]
+  },
+  {
+    "name": "Irland",
+    "longName": "Irland",
+    "capital": "Dublin",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/720px-Flag_of_Ireland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png"
+    },
+    "iso3": "IRL",
+    "iso2": "IE",
+    "region": "Europa",
+    "languages": [
+      "ga",
+      "en"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "GBR"
+    ]
+  },
+  {
+    "name": "Island",
+    "longName": "Republik Island",
+    "capital": "Reykjavík",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/720px-Flag_of_Iceland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1200px-Flag_of_Iceland.svg.png"
+    },
+    "iso3": "ISL",
+    "iso2": "IS",
+    "region": "Europa",
+    "languages": [
+      "is"
+    ],
+    "currencies": [
+      "ISK"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Israel",
+    "longName": "Staat Israel",
+    "capital": "Jerusalem",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/720px-Flag_of_Israel.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png"
+    },
+    "iso3": "ISR",
+    "iso2": "IL",
+    "region": "Asien",
+    "languages": [
+      "he",
+      "ar"
+    ],
+    "currencies": [
+      "ILS"
+    ],
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "SYR"
+    ]
+  },
+  {
+    "name": "Italien",
+    "longName": "Italienische Republik",
+    "capital": "Rom",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/720px-Flag_of_Italy.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png"
+    },
+    "iso3": "ITA",
+    "iso2": "IT",
+    "region": "Europa",
+    "languages": [
+      "it"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ]
+  },
+  {
+    "name": "Jamaika",
+    "longName": "Jamaika",
+    "capital": "Kingston",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/720px-Flag_of_Jamaica.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1200px-Flag_of_Jamaica.svg.png"
+    },
+    "iso3": "JAM",
+    "iso2": "JM",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "JMD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Japan",
+    "longName": "Japan",
+    "capital": "Tokio",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/720px-Flag_of_Japan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+    },
+    "iso3": "JPN",
+    "iso2": "JP",
+    "region": "Asien",
+    "languages": [
+      "ja"
+    ],
+    "currencies": [
+      "JPY"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Jemen",
+    "longName": "Republik Jemen",
+    "capital": "Sanaa (de jure)",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/720px-Flag_of_Yemen.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1200px-Flag_of_Yemen.svg.png"
+    },
+    "iso3": "YEM",
+    "iso2": "YE",
+    "region": "Asien",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "YER"
+    ],
+    "borders": [
+      "OMN",
+      "SAU"
+    ]
+  },
+  {
+    "name": "Jordanien",
+    "longName": "Haschemitisches Königreich Jordanien",
+    "capital": "Amman",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/720px-Flag_of_Jordan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1200px-Flag_of_Jordan.svg.png"
+    },
+    "iso3": "JOR",
+    "iso2": "JO",
+    "region": "Asien",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "JOD"
+    ],
+    "borders": [
+      "IRQ",
+      "ISR",
+      "SAU",
+      "SYR"
+    ]
+  },
+  {
+    "name": "Kambodscha",
+    "longName": "Königreich Kambodscha",
+    "capital": "Phnom Penh",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/720px-Flag_of_Cambodia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1200px-Flag_of_Cambodia.svg.png"
+    },
+    "iso3": "KHM",
+    "iso2": "KH",
+    "region": "Asien",
+    "languages": [
+      "km"
+    ],
+    "currencies": [
+      "KHR"
+    ],
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ]
+  },
+  {
+    "name": "Kamerun",
+    "longName": "Republik Kamerun",
+    "capital": "Yaoundé",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/720px-Flag_of_Cameroon.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png"
+    },
+    "iso3": "CMR",
+    "iso2": "CM",
+    "region": "Afrika",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ]
+  },
+  {
+    "name": "Kanada",
+    "longName": "Kanada",
+    "capital": "Ottawa",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/720px-Flag_of_Canada.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1200px-Flag_of_Canada.svg.png"
+    },
+    "iso3": "CAN",
+    "iso2": "CA",
+    "region": "Amerika",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "currencies": [
+      "CAD"
+    ],
+    "borders": [
+      "USA"
+    ]
+  },
+  {
+    "name": "Kap Verde",
+    "longName": "Republik Cabo Verde",
+    "capital": "Praia",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/720px-Flag_of_Cape_Verde.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png"
+    },
+    "iso3": "CPV",
+    "iso2": "CV",
+    "region": "Afrika",
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "CVE"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Kasachstan",
+    "longName": "Republik Kasachstan",
+    "capital": "Astana",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/720px-Flag_of_Kazakhstan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1200px-Flag_of_Kazakhstan.svg.png"
+    },
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "region": "Asien",
+    "languages": [
+      "kk",
+      "ru"
+    ],
+    "currencies": [
+      "KZT"
+    ],
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ]
+  },
+  {
+    "name": "Katar",
+    "longName": "Staat Katar",
+    "capital": "Doha",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/720px-Flag_of_Qatar.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1200px-Flag_of_Qatar.svg.png"
+    },
+    "iso3": "QAT",
+    "iso2": "QA",
+    "region": "Asien",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "QAR"
+    ],
+    "borders": [
+      "SAU"
+    ]
+  },
+  {
+    "name": "Kenia",
+    "longName": "Republik Kenia",
+    "capital": "Nairobi",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/720px-Flag_of_Kenya.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1200px-Flag_of_Kenya.svg.png"
+    },
+    "iso3": "KEN",
+    "iso2": "KE",
+    "region": "Afrika",
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "currencies": [
+      "KES"
+    ],
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ]
+  },
+  {
+    "name": "Kirgisistan",
+    "longName": "Kirgisische Republik",
+    "capital": "Bischkek",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/720px-Flag_of_Kyrgyzstan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1200px-Flag_of_Kyrgyzstan.svg.png"
+    },
+    "iso3": "KGZ",
+    "iso2": "KG",
+    "region": "Asien",
+    "languages": [
+      "ky",
+      "ru"
+    ],
+    "currencies": [
+      "KGS"
+    ],
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "longName": "Republik Kiribati",
+    "capital": "South Tarawa",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/720px-Flag_of_Kiribati.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1200px-Flag_of_Kiribati.svg.png"
+    },
+    "iso3": "KIR",
+    "iso2": "KI",
+    "region": "Ozeanien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Kolumbien",
+    "longName": "Republik Kolumbien",
+    "capital": "Bogotá",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/720px-Flag_of_Colombia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png"
+    },
+    "iso3": "COL",
+    "iso2": "CO",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "COP"
+    ],
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ]
+  },
+  {
+    "name": "Komoren",
+    "longName": "Union der Komoren",
+    "capital": "Moroni",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/720px-Flag_of_the_Comoros.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1200px-Flag_of_the_Comoros.svg.png"
+    },
+    "iso3": "COM",
+    "iso2": "KM",
+    "region": "Afrika",
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "currencies": [
+      "KMF"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Demokratische Republik Kongo",
+    "longName": "Demokratische Republik Kongo",
+    "capital": "Kinshasa",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/720px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1200px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
+    },
+    "iso3": "COD",
+    "iso2": "CD",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "ln",
+      "kg",
+      "sw",
+      "lu"
+    ],
+    "currencies": [
+      "CDF"
+    ],
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ]
+  },
+  {
+    "name": "Republik Kongo",
+    "longName": "Republik Kongo",
+    "capital": "Brazzaville",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/720px-Flag_of_the_Republic_of_the_Congo.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1200px-Flag_of_the_Republic_of_the_Congo.svg.png"
+    },
+    "iso3": "COG",
+    "iso2": "CG",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "ln"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ]
+  },
+  {
+    "name": "Nordkorea",
+    "longName": "Demokratische Volksrepublik Korea",
+    "capital": "Pjöngjang",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/720px-Flag_of_North_Korea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1200px-Flag_of_North_Korea.svg.png"
+    },
+    "iso3": "PRK",
+    "iso2": "KP",
+    "region": "Asien",
+    "languages": [
+      "ko"
+    ],
+    "currencies": [
+      "KPW"
+    ],
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ]
+  },
+  {
+    "name": "Südkorea",
+    "longName": "Republik Korea",
+    "capital": "Seoul",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/720px-Flag_of_South_Korea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png"
+    },
+    "iso3": "KOR",
+    "iso2": "KR",
+    "region": "Asien",
+    "languages": [
+      "ko"
+    ],
+    "currencies": [
+      "KRW"
+    ],
+    "borders": [
+      "PRK"
+    ]
+  },
+  {
+    "name": "Kroatien",
+    "longName": "Republik Kroatien",
+    "capital": "Zagreb",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/720px-Flag_of_Croatia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1200px-Flag_of_Croatia.svg.png"
+    },
+    "iso3": "HRV",
+    "iso2": "HR",
+    "region": "Europa",
+    "languages": [
+      "hr"
+    ],
+    "currencies": [
+      "HRK"
+    ],
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ]
+  },
+  {
+    "name": "Kuba",
+    "longName": "Republik Kuba",
+    "capital": "Havanna",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/720px-Flag_of_Cuba.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1200px-Flag_of_Cuba.svg.png"
+    },
+    "iso3": "CUB",
+    "iso2": "CU",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "CUC",
+      "CUP"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Kuwait",
+    "longName": "Staat Kuwait",
+    "capital": "Kuwait-Stadt",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/720px-Flag_of_Kuwait.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1200px-Flag_of_Kuwait.svg.png"
+    },
+    "iso3": "KWT",
+    "iso2": "KW",
+    "region": "Asien",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "KWD"
+    ],
+    "borders": [
+      "IRN",
+      "SAU"
+    ]
+  },
+  {
+    "name": "Laos",
+    "longName": "Demokratische Volksrepublik Laos",
+    "capital": "Vientiane",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/720px-Flag_of_Laos.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1200px-Flag_of_Laos.svg.png"
+    },
+    "iso3": "LAO",
+    "iso2": "LA",
+    "region": "Asien",
+    "languages": [
+      "lo"
+    ],
+    "currencies": [
+      "LAK"
+    ],
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "longName": "Königreich Lesotho",
+    "capital": "Maseru",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/720px-Flag_of_Lesotho.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1200px-Flag_of_Lesotho.svg.png"
+    },
+    "iso3": "LSO",
+    "iso2": "LS",
+    "region": "Afrika",
+    "languages": [
+      "en",
+      "st"
+    ],
+    "currencies": [
+      "LSL",
+      "ZAR"
+    ],
+    "borders": [
+      "ZAF"
+    ]
+  },
+  {
+    "name": "Lettland",
+    "longName": "Republik Lettland",
+    "capital": "Riga",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/720px-Flag_of_Latvia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1200px-Flag_of_Latvia.svg.png"
+    },
+    "iso3": "LVA",
+    "iso2": "LV",
+    "region": "Europa",
+    "languages": [
+      "lv"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ]
+  },
+  {
+    "name": "Libanon",
+    "longName": "Libanesische Republik",
+    "capital": "Beirut",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/720px-Flag_of_Lebanon.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/1200px-Flag_of_Lebanon.svg.png"
+    },
+    "iso3": "LBN",
+    "iso2": "LB",
+    "region": "Asien",
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "currencies": [
+      "LBP"
+    ],
+    "borders": [
+      "ISR",
+      "SYR"
+    ]
+  },
+  {
+    "name": "Liberia",
+    "longName": "Republik Liberia",
+    "capital": "Monrovia",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/720px-Flag_of_Liberia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1200px-Flag_of_Liberia.svg.png"
+    },
+    "iso3": "LBR",
+    "iso2": "LR",
+    "region": "Afrika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "LRD"
+    ],
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ]
+  },
+  {
+    "name": "Libyen",
+    "longName": "Libyen",
+    "capital": "Tripolis",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/720px-Flag_of_Libya.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1200px-Flag_of_Libya.svg.png"
+    },
+    "iso3": "LBY",
+    "iso2": "LY",
+    "region": "Afrika",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "LYD"
+    ],
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "longName": "Fürstentum Liechtenstein",
+    "capital": "Vaduz",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/720px-Flag_of_Liechtenstein.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1200px-Flag_of_Liechtenstein.svg.png"
+    },
+    "iso3": "LIE",
+    "iso2": "LI",
+    "region": "Europa",
+    "languages": [
+      "de"
+    ],
+    "currencies": [
+      "CHF"
+    ],
+    "borders": [
+      "AUT",
+      "CHE"
+    ]
+  },
+  {
+    "name": "Litauen",
+    "longName": "Republik Litauen",
+    "capital": "Vilnius",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/720px-Flag_of_Lithuania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png"
+    },
+    "iso3": "LTU",
+    "iso2": "LT",
+    "region": "Europa",
+    "languages": [
+      "lt"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ]
+  },
+  {
+    "name": "Luxemburg",
+    "longName": "Großherzogtum Luxemburg",
+    "capital": "Luxemburg",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/720px-Flag_of_Luxembourg.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1200px-Flag_of_Luxembourg.svg.png"
+    },
+    "iso3": "LUX",
+    "iso2": "LU",
+    "region": "Europa",
+    "languages": [
+      "fr",
+      "de",
+      "lb"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ]
+  },
+  {
+    "name": "Madagaskar",
+    "longName": "Republik Madagaskar",
+    "capital": "Antananarivo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/720px-Flag_of_Madagascar.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1200px-Flag_of_Madagascar.svg.png"
+    },
+    "iso3": "MDG",
+    "iso2": "MG",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "mg"
+    ],
+    "currencies": [
+      "MGA"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Malawi",
+    "longName": "Republik Malawi",
+    "capital": "Lilongwe",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/720px-Flag_of_Malawi.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1200px-Flag_of_Malawi.svg.png"
+    },
+    "iso3": "MWI",
+    "iso2": "MW",
+    "region": "Afrika",
+    "languages": [
+      "en",
+      "ny"
+    ],
+    "currencies": [
+      "MWK"
+    ],
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "longName": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/720px-Flag_of_Malaysia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1200px-Flag_of_Malaysia.svg.png"
+    },
+    "iso3": "MYS",
+    "iso2": "MY",
+    "region": "Asien",
+    "languages": [],
+    "currencies": [
+      "MYR"
+    ],
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ]
+  },
+  {
+    "name": "Malediven",
+    "longName": "Republik Malediven",
+    "capital": "Malé",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/720px-Flag_of_Maldives.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/1200px-Flag_of_Maldives.svg.png"
+    },
+    "iso3": "MDV",
+    "iso2": "MV",
+    "region": "Asien",
+    "languages": [
+      "dv"
+    ],
+    "currencies": [
+      "MVR"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Mali",
+    "longName": "Republik Mali",
+    "capital": "Bamako",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/720px-Flag_of_Mali.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1200px-Flag_of_Mali.svg.png"
+    },
+    "iso3": "MLI",
+    "iso2": "ML",
+    "region": "Afrika",
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ]
+  },
+  {
+    "name": "Malta",
+    "longName": "Republik Malta",
+    "capital": "Valletta",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/720px-Flag_of_Malta.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1200px-Flag_of_Malta.svg.png"
+    },
+    "iso3": "MLT",
+    "iso2": "MT",
+    "region": "Europa",
+    "languages": [
+      "mt",
+      "en"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Marokko",
+    "longName": "Königreich Marokko",
+    "capital": "Rabat",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/720px-Flag_of_Morocco.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1200px-Flag_of_Morocco.svg.png"
+    },
+    "iso3": "MAR",
+    "iso2": "MA",
+    "region": "Afrika",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "MAD"
+    ],
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ]
+  },
+  {
+    "name": "Marshallinseln",
+    "longName": "Republik Marshallinseln",
+    "capital": "Majuro",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/720px-Flag_of_the_Marshall_Islands.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1200px-Flag_of_the_Marshall_Islands.svg.png"
+    },
+    "iso3": "MHL",
+    "iso2": "MH",
+    "region": "Ozeanien",
+    "languages": [
+      "en",
+      "mh"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Mauretanien",
+    "longName": "Islamische Republik Mauretanien",
+    "capital": "Nouakchott",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/720px-Flag_of_Mauritania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/1200px-Flag_of_Mauritania.svg.png"
+    },
+    "iso3": "MRT",
+    "iso2": "MR",
+    "region": "Afrika",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "MRO"
+    ],
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "longName": "Republik Mauritius",
+    "capital": "Port Louis",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/720px-Flag_of_Mauritius.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1200px-Flag_of_Mauritius.svg.png"
+    },
+    "iso3": "MUS",
+    "iso2": "MU",
+    "region": "Afrika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "MUR"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Mazedonien",
+    "longName": "Ehemalige jugoslawische Republik Mazedonien",
+    "capital": "Skopje",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/720px-Flag_of_Macedonia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/1200px-Flag_of_Macedonia.svg.png"
+    },
+    "iso3": "MKD",
+    "iso2": "MK",
+    "region": "Europa",
+    "languages": [
+      "mk"
+    ],
+    "currencies": [
+      "MKD"
+    ],
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "KOS",
+      "SRB"
+    ]
+  },
+  {
+    "name": "Mexiko",
+    "longName": "Vereinigte Mexikanische Staaten",
+    "capital": "Mexiko-Stadt",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/720px-Flag_of_Mexico.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png"
+    },
+    "iso3": "MEX",
+    "iso2": "MX",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "MXN"
+    ],
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ]
+  },
+  {
+    "name": "Mikronesien",
+    "longName": "Föderierte Staaten von Mikronesien",
+    "capital": "Palikir",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/720px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1200px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
+    },
+    "iso3": "FSM",
+    "iso2": "FM",
+    "region": "Ozeanien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Moldawien",
+    "longName": "Republik Moldau",
+    "capital": "Chișinău",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/720px-Flag_of_Moldova.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1200px-Flag_of_Moldova.svg.png"
+    },
+    "iso3": "MDA",
+    "iso2": "MD",
+    "region": "Europa",
+    "languages": [
+      "ro"
+    ],
+    "currencies": [
+      "MDL"
+    ],
+    "borders": [
+      "ROU",
+      "UKR"
+    ]
+  },
+  {
+    "name": "Monaco",
+    "longName": "Fürstentum Monaco",
+    "capital": "Stadtstaat",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/720px-Flag_of_Monaco.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/1200px-Flag_of_Monaco.svg.png"
+    },
+    "iso3": "MCO",
+    "iso2": "MC",
+    "region": "Europa",
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "FRA"
+    ]
+  },
+  {
+    "name": "Mongolei",
+    "longName": "Mongolei",
+    "capital": "Ulaanbaatar",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/720px-Flag_of_Mongolia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1200px-Flag_of_Mongolia.svg.png"
+    },
+    "iso3": "MNG",
+    "iso2": "MN",
+    "region": "Asien",
+    "languages": [
+      "mn"
+    ],
+    "currencies": [
+      "MNT"
+    ],
+    "borders": [
+      "CHN",
+      "RUS"
+    ]
+  },
+  {
+    "name": "Mosambik",
+    "longName": "Republik Mosambik",
+    "capital": "Maputo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/720px-Flag_of_Mozambique.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/1200px-Flag_of_Mozambique.svg.png"
+    },
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "region": "Afrika",
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "MZN"
+    ],
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ]
+  },
+  {
+    "name": "Namibia",
+    "longName": "Republik Namibia",
+    "capital": "Windhoek",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/720px-Flag_of_Namibia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png"
+    },
+    "iso3": "NAM",
+    "iso2": "NA",
+    "region": "Afrika",
+    "languages": [
+      "en",
+      "af"
+    ],
+    "currencies": [
+      "NAD",
+      "ZAR"
+    ],
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ]
+  },
+  {
+    "name": "Nauru",
+    "longName": "Republik Nauru",
+    "capital": "Yaren",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/720px-Flag_of_Nauru.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/1200px-Flag_of_Nauru.svg.png"
+    },
+    "iso3": "NRU",
+    "iso2": "NR",
+    "region": "Ozeanien",
+    "languages": [
+      "en",
+      "na"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Nepal",
+    "longName": "Demokratische Bundesrepublik Nepal",
+    "capital": "Kathmandu",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nepal_%28with_spacing%29.svg/720px-Flag_of_Nepal_%28with_spacing%29.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nepal_%28with_spacing%29.svg/1200px-Flag_of_Nepal_%28with_spacing%29.svg.png"
+    },
+    "iso3": "NPL",
+    "iso2": "NP",
+    "region": "Asien",
+    "languages": [
+      "ne"
+    ],
+    "currencies": [
+      "NPR"
+    ],
+    "borders": [
+      "CHN",
+      "IND"
+    ]
+  },
+  {
+    "name": "Neuseeland",
+    "longName": "Neuseeland",
+    "capital": "Wellington",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/720px-Flag_of_New_Zealand.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1200px-Flag_of_New_Zealand.svg.png"
+    },
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "region": "Ozeanien",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Nicaragua",
+    "longName": "Republik Nicaragua",
+    "capital": "Managua",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/720px-Flag_of_Nicaragua.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/1200px-Flag_of_Nicaragua.svg.png"
+    },
+    "iso3": "NIC",
+    "iso2": "NI",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "NIO"
+    ],
+    "borders": [
+      "CRI",
+      "HND"
+    ]
+  },
+  {
+    "name": "Niederlande",
+    "longName": "Königreich der Niederlande",
+    "capital": "Amsterdam",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/720px-Flag_of_the_Netherlands.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
+    },
+    "iso3": "NLD",
+    "iso2": "NL",
+    "region": "Europa",
+    "languages": [
+      "nl"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "BEL",
+      "DEU"
+    ]
+  },
+  {
+    "name": "Niger",
+    "longName": "Republik Niger",
+    "capital": "Niamey",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/720px-Flag_of_Niger.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1200px-Flag_of_Niger.svg.png"
+    },
+    "iso3": "NER",
+    "iso2": "NE",
+    "region": "Afrika",
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "longName": "Bundesrepublik Nigeria",
+    "capital": "Abuja",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/720px-Flag_of_Nigeria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png"
+    },
+    "iso3": "NGA",
+    "iso2": "NG",
+    "region": "Afrika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "NGN"
+    ],
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ]
+  },
+  {
+    "name": "Niue",
+    "longName": "Niue",
+    "capital": "Alofi",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/720px-Flag_of_Niue.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/1200px-Flag_of_Niue.svg.png"
+    },
+    "iso3": "NIU",
+    "iso2": "NU",
+    "region": "Ozeanien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Norwegen",
+    "longName": "Königreich Norwegen",
+    "capital": "Oslo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/720px-Flag_of_Norway.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png"
+    },
+    "iso3": "NOR",
+    "iso2": "NO",
+    "region": "Europa",
+    "languages": [
+      "no",
+      "nb",
+      "nn"
+    ],
+    "currencies": [
+      "NOK"
+    ],
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ]
+  },
+  {
+    "name": "Oman",
+    "longName": "Sultanat Oman",
+    "capital": "Maskat",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/720px-Flag_of_Oman.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1200px-Flag_of_Oman.svg.png"
+    },
+    "iso3": "OMN",
+    "iso2": "OM",
+    "region": "Asien",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "OMR"
+    ],
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ]
+  },
+  {
+    "name": "Österreich",
+    "longName": "Republik Österreich",
+    "capital": "Wien",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/720px-Flag_of_Austria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png"
+    },
+    "iso3": "AUT",
+    "iso2": "AT",
+    "region": "Europa",
+    "languages": [
+      "de"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ]
+  },
+  {
+    "name": "Osttimor / Timor-Leste",
+    "longName": "Demokratische Republik Timor-Leste",
+    "capital": "Dili",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/720px-Flag_of_East_Timor.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1200px-Flag_of_East_Timor.svg.png"
+    },
+    "iso3": "TLS",
+    "iso2": false,
+    "region": "Asien",
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": [
+      "IDN"
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "longName": "Islamische Republik Pakistan",
+    "capital": "Islamabad",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/720px-Flag_of_Pakistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png"
+    },
+    "iso3": "PAK",
+    "iso2": "PK",
+    "region": "Asien",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "currencies": [
+      "PKR"
+    ],
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ]
+  },
+  {
+    "name": "Palau",
+    "longName": "Republik Palau",
+    "capital": "Melekeok",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/720px-Flag_of_Palau.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/1200px-Flag_of_Palau.svg.png"
+    },
+    "iso3": "PLW",
+    "iso2": "PW",
+    "region": "Ozeanien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Panama",
+    "longName": "Republik Panama",
+    "capital": "Panama-Stadt",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/720px-Flag_of_Panama.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png"
+    },
+    "iso3": "PAN",
+    "iso2": "PA",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "PAB",
+      "USD"
+    ],
+    "borders": [
+      "COL",
+      "CRI"
+    ]
+  },
+  {
+    "name": "Papua-Neuguinea",
+    "longName": "Unabhängiger Staat Papua-Neuguinea",
+    "capital": "Port Moresby",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/720px-Flag_of_Papua_New_Guinea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png"
+    },
+    "iso3": "PNG",
+    "iso2": "PG",
+    "region": "Ozeanien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "PGK"
+    ],
+    "borders": [
+      "IDN"
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "longName": "Republik Paraguay",
+    "capital": "Asunción",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/720px-Flag_of_Paraguay.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1200px-Flag_of_Paraguay.svg.png"
+    },
+    "iso3": "PRY",
+    "iso2": "PY",
+    "region": "Amerika",
+    "languages": [
+      "es",
+      "gn"
+    ],
+    "currencies": [
+      "PYG"
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ]
+  },
+  {
+    "name": "Peru",
+    "longName": "Republik Peru",
+    "capital": "Lima",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/720px-Flag_of_Peru.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1200px-Flag_of_Peru.svg.png"
+    },
+    "iso3": "PER",
+    "iso2": "PE",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "PEN"
+    ],
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ]
+  },
+  {
+    "name": "Philippinen",
+    "longName": "Republik der Philippinen",
+    "capital": "Manila",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/720px-Flag_of_the_Philippines.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1200px-Flag_of_the_Philippines.svg.png"
+    },
+    "iso3": "PHL",
+    "iso2": "PH",
+    "region": "Asien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "PHP"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Polen",
+    "longName": "Republik Polen",
+    "capital": "Warschau",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/720px-Flag_of_Poland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1200px-Flag_of_Poland.svg.png"
+    },
+    "iso3": "POL",
+    "iso2": "PL",
+    "region": "Europa",
+    "languages": [
+      "pl"
+    ],
+    "currencies": [
+      "PLN"
+    ],
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ]
+  },
+  {
+    "name": "Portugal",
+    "longName": "Portugiesische Republik",
+    "capital": "Lissabon",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/720px-Flag_of_Portugal.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png"
+    },
+    "iso3": "PRT",
+    "iso2": "PT",
+    "region": "Europa",
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "ESP"
+    ]
+  },
+  {
+    "name": "Ruanda",
+    "longName": "Republik Ruanda",
+    "capital": "Kigali",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/720px-Flag_of_Rwanda.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1200px-Flag_of_Rwanda.svg.png"
+    },
+    "iso3": "RWA",
+    "iso2": "RW",
+    "region": "Afrika",
+    "languages": [
+      "rw",
+      "en",
+      "fr"
+    ],
+    "currencies": [
+      "RWF"
+    ],
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ]
+  },
+  {
+    "name": "Rumänien",
+    "longName": "Republik Rumänien",
+    "capital": "Bukarest",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/720px-Flag_of_Romania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1200px-Flag_of_Romania.svg.png"
+    },
+    "iso3": "ROU",
+    "iso2": "RO",
+    "region": "Europa",
+    "languages": [
+      "ro"
+    ],
+    "currencies": [
+      "RON"
+    ],
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ]
+  },
+  {
+    "name": "Russland",
+    "longName": "Russische Föderation",
+    "capital": "Moskau",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/720px-Flag_of_Russia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"
+    },
+    "iso3": "RUS",
+    "iso2": "RU",
+    "region": "Europa",
+    "languages": [
+      "ru"
+    ],
+    "currencies": [
+      "RUB"
+    ],
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ]
+  },
+  {
+    "name": "Salomonen",
+    "longName": "Salomonen",
+    "capital": "Honiara",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/720px-Flag_of_the_Solomon_Islands.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/1200px-Flag_of_the_Solomon_Islands.svg.png"
+    },
+    "iso3": "SLB",
+    "iso2": "SB",
+    "region": "Ozeanien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "SDB"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Sambia",
+    "longName": "Republik Sambia",
+    "capital": "Lusaka",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/720px-Flag_of_Zambia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1200px-Flag_of_Zambia.svg.png"
+    },
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "region": "Afrika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "ZMK"
+    ],
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ]
+  },
+  {
+    "name": "Samoa",
+    "longName": "Unabhängiger Staat Samoa",
+    "capital": "Apia",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/720px-Flag_of_Samoa.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1200px-Flag_of_Samoa.svg.png"
+    },
+    "iso3": "WSM",
+    "iso2": "WS",
+    "region": "Ozeanien",
+    "languages": [
+      "sm",
+      "en"
+    ],
+    "currencies": [
+      "WST"
+    ],
+    "borders": []
+  },
+  {
+    "name": "San Marino",
+    "longName": "Republik San Marino",
+    "capital": "San Marino",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/720px-Flag_of_San_Marino.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/1200px-Flag_of_San_Marino.svg.png"
+    },
+    "iso3": "SMR",
+    "iso2": "SM",
+    "region": "Europa",
+    "languages": [
+      "it"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "ITA"
+    ]
+  },
+  {
+    "name": "São Tomé und Príncipe",
+    "longName": "Demokratische Republik São Tomé und Príncipe",
+    "capital": "São Tomé",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/720px-Flag_of_Sao_Tome_and_Principe.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/1200px-Flag_of_Sao_Tome_and_Principe.svg.png"
+    },
+    "iso3": "STP",
+    "iso2": "ST",
+    "region": "Afrika",
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "STD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Saudi-Arabien",
+    "longName": "Königreich Saudi-Arabien",
+    "capital": "Riad",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/720px-Flag_of_Saudi_Arabia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1200px-Flag_of_Saudi_Arabia.svg.png"
+    },
+    "iso3": "SAU",
+    "iso2": "SA",
+    "region": "Asien",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "SAR"
+    ],
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ]
+  },
+  {
+    "name": "Schweden",
+    "longName": "Königreich Schweden",
+    "capital": "Stockholm",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/720px-Flag_of_Sweden.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png"
+    },
+    "iso3": "SWE",
+    "iso2": "SE",
+    "region": "Europa",
+    "languages": [
+      "sv"
+    ],
+    "currencies": [
+      "SEK"
+    ],
+    "borders": [
+      "FIN",
+      "NOR"
+    ]
+  },
+  {
+    "name": "Schweiz",
+    "longName": "Schweizerische Eid­genossen­schaft",
+    "capital": "Bern",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/720px-Flag_of_Switzerland_within_2to3.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/1200px-Flag_of_Switzerland_within_2to3.svg.png"
+    },
+    "iso3": "CHE",
+    "iso2": "CH",
+    "region": "Europa",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "currencies": [
+      "CHE",
+      "CHF",
+      "CHW"
+    ],
+    "borders": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ]
+  },
+  {
+    "name": "Senegal",
+    "longName": "Republik Senegal",
+    "capital": "Dakar",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/720px-Flag_of_Senegal.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1200px-Flag_of_Senegal.svg.png"
+    },
+    "iso3": "SEN",
+    "iso2": "SN",
+    "region": "Afrika",
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ]
+  },
+  {
+    "name": "Seychellen",
+    "longName": "Republik Seychellen",
+    "capital": "Victoria",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/720px-Flag_of_Seychelles.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1200px-Flag_of_Seychelles.svg.png"
+    },
+    "iso3": "SYC",
+    "iso2": "SC",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "currencies": [
+      "SCR"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Sierra Leone",
+    "longName": "Republik Sierra Leone",
+    "capital": "Freetown",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/720px-Flag_of_Sierra_Leone.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1200px-Flag_of_Sierra_Leone.svg.png"
+    },
+    "iso3": "SLE",
+    "iso2": "SL",
+    "region": "Afrika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "SLL"
+    ],
+    "borders": [
+      "GIN",
+      "LBR"
+    ]
+  },
+  {
+    "name": "Simbabwe",
+    "longName": "Republik Simbabwe",
+    "capital": "Harare",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/720px-Flag_of_Zimbabwe.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1200px-Flag_of_Zimbabwe.svg.png"
+    },
+    "iso3": "ZWE",
+    "iso2": "ZW",
+    "region": "Afrika",
+    "languages": [
+      "en",
+      "sn",
+      "nd"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ]
+  },
+  {
+    "name": "Singapur",
+    "longName": "Republik Singapur",
+    "capital": "Stadtstaat",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/720px-Flag_of_Singapore.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png"
+    },
+    "iso3": "SGP",
+    "iso2": "SG",
+    "region": "Asien",
+    "languages": [
+      "en",
+      "ms",
+      "ta",
+      "zh"
+    ],
+    "currencies": [
+      "SGD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Slowakei",
+    "longName": "Slowakische Republik",
+    "capital": "Bratislava",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/720px-Flag_of_Slovakia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png"
+    },
+    "iso3": "SVK",
+    "iso2": "SK",
+    "region": "Europa",
+    "languages": [
+      "sk"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ]
+  },
+  {
+    "name": "Slowenien",
+    "longName": "Republik Slowenien",
+    "capital": "Ljubljana",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/720px-Flag_of_Slovenia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1200px-Flag_of_Slovenia.svg.png"
+    },
+    "iso3": "SVN",
+    "iso2": "SI",
+    "region": "Europa",
+    "languages": [
+      "sl"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ]
+  },
+  {
+    "name": "Somalia",
+    "longName": "Bundesrepublik Somalia",
+    "capital": "Mogadischu",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/720px-Flag_of_Somalia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1200px-Flag_of_Somalia.svg.png"
+    },
+    "iso3": "SOM",
+    "iso2": "SO",
+    "region": "Afrika",
+    "languages": [
+      "so",
+      "ar"
+    ],
+    "currencies": [
+      "SOS"
+    ],
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ]
+  },
+  {
+    "name": "Spanien",
+    "longName": "Königreich Spanien",
+    "capital": "Madrid",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/720px-Flag_of_Spain.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
+    },
+    "iso3": "ESP",
+    "iso2": "ES",
+    "region": "Europa",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "longName": "Demokratische Sozialistische Republik Sri Lanka",
+    "capital": "Colombo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/720px-Flag_of_Sri_Lanka.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png"
+    },
+    "iso3": "LKA",
+    "iso2": "LK",
+    "region": "Asien",
+    "languages": [
+      "si",
+      "ta"
+    ],
+    "currencies": [
+      "LKR"
+    ],
+    "borders": [
+      "IND"
+    ]
+  },
+  {
+    "name": "St. Kitts und Nevis",
+    "longName": "Föderation St. Kitts und Nevis",
+    "capital": "Basseterre",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/720px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1200px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
+    },
+    "iso3": "KNA",
+    "iso2": "KN",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "St. Lucia",
+    "longName": "St. Lucia",
+    "capital": "Castries",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/720px-Flag_of_Saint_Lucia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/1200px-Flag_of_Saint_Lucia.svg.png"
+    },
+    "iso3": "LCA",
+    "iso2": "LC",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "St. Vincent und die Grenadinen",
+    "longName": "St. Vincent und die Grenadinen",
+    "capital": "Kingstown",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/720px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1200px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
+    },
+    "iso3": "VCT",
+    "iso2": "VC",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Südafrika",
+    "longName": "Republik Südafrika",
+    "capital": "Pretoria",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/720px-Flag_of_South_Africa.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png"
+    },
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "region": "Afrika",
+    "languages": [
+      "af",
+      "en",
+      "nr",
+      "st",
+      "ss",
+      "tn",
+      "ts",
+      "ve",
+      "xh",
+      "zu"
+    ],
+    "currencies": [
+      "ZAR"
+    ],
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ]
+  },
+  {
+    "name": "Sudan",
+    "longName": "Republik Sudan",
+    "capital": "Khartum",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/720px-Flag_of_Sudan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1200px-Flag_of_Sudan.svg.png"
+    },
+    "iso3": "SDN",
+    "iso2": "SD",
+    "region": "Afrika",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "currencies": [
+      "SDG"
+    ],
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ]
+  },
+  {
+    "name": "Südsudan",
+    "longName": "Republik Südsudan",
+    "capital": "Juba",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/720px-Flag_of_South_Sudan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/1200px-Flag_of_South_Sudan.svg.png"
+    },
+    "iso3": "SSD",
+    "iso2": "SS",
+    "region": "Afrika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "SSP"
+    ],
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ]
+  },
+  {
+    "name": "Suriname",
+    "longName": "Republik Suriname",
+    "capital": "Paramaribo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/720px-Flag_of_Suriname.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1200px-Flag_of_Suriname.svg.png"
+    },
+    "iso3": "SUR",
+    "iso2": "SR",
+    "region": "Amerika",
+    "languages": [
+      "nl"
+    ],
+    "currencies": [
+      "SRD"
+    ],
+    "borders": [
+      "BRA",
+      "GUF",
+      "FRA",
+      "GUY"
+    ]
+  },
+  {
+    "name": "Swasiland",
+    "longName": "Königreich Swasiland",
+    "capital": "Mbabane",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/720px-Flag_of_Swaziland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/1200px-Flag_of_Swaziland.svg.png"
+    },
+    "iso3": "SWZ",
+    "iso2": "SZ",
+    "region": "Afrika",
+    "languages": [
+      "en",
+      "ss"
+    ],
+    "currencies": [
+      "SZL"
+    ],
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ]
+  },
+  {
+    "name": "Syrien",
+    "longName": "Arabische Republik Syrien",
+    "capital": "Damaskus",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/720px-Flag_of_Syria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1200px-Flag_of_Syria.svg.png"
+    },
+    "iso3": "SYR",
+    "iso2": "SY",
+    "region": "Asien",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "SYP"
+    ],
+    "borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ]
+  },
+  {
+    "name": "Tadschikistan",
+    "longName": "Republik Tadschikistan",
+    "capital": "Duschanbe",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/720px-Flag_of_Tajikistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1200px-Flag_of_Tajikistan.svg.png"
+    },
+    "iso3": "TJK",
+    "iso2": "TJ",
+    "region": "Asien",
+    "languages": [
+      "tg",
+      "ru"
+    ],
+    "currencies": [
+      "TJS"
+    ],
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ]
+  },
+  {
+    "name": "Tansania",
+    "longName": "Vereinigte Republik Tansania",
+    "capital": "Dodoma",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/720px-Flag_of_Tanzania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1200px-Flag_of_Tanzania.svg.png"
+    },
+    "iso3": "TZA",
+    "iso2": "TZ",
+    "region": "Afrika",
+    "languages": [
+      "sw",
+      "en"
+    ],
+    "currencies": [
+      "TZS"
+    ],
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ]
+  },
+  {
+    "name": "Thailand",
+    "longName": "Königreich Thailand",
+    "capital": "Bangkok",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/720px-Flag_of_Thailand.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png"
+    },
+    "iso3": "THA",
+    "iso2": "TH",
+    "region": "Asien",
+    "languages": [
+      "th"
+    ],
+    "currencies": [
+      "THB"
+    ],
+    "borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ]
+  },
+  {
+    "name": "Togo",
+    "longName": "Republik Togo",
+    "capital": "Lomé",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/720px-Flag_of_Togo.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1200px-Flag_of_Togo.svg.png"
+    },
+    "iso3": "TGO",
+    "iso2": "TG",
+    "region": "Afrika",
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ]
+  },
+  {
+    "name": "Tonga",
+    "longName": "Königreich Tonga",
+    "capital": "Nukuʻalofa",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/720px-Flag_of_Tonga.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/1200px-Flag_of_Tonga.svg.png"
+    },
+    "iso3": "TON",
+    "iso2": "TO",
+    "region": "Ozeanien",
+    "languages": [
+      "en",
+      "to"
+    ],
+    "currencies": [
+      "TOP"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Trinidad und Tobago",
+    "longName": "Republik Trinidad und Tobago",
+    "capital": "Port of Spain",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/720px-Flag_of_Trinidad_and_Tobago.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1200px-Flag_of_Trinidad_and_Tobago.svg.png"
+    },
+    "iso3": "TTO",
+    "iso2": "TT",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "TTD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Tschad",
+    "longName": "Republik Tschad",
+    "capital": "N’Djamena",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/720px-Flag_of_Chad.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1200px-Flag_of_Chad.svg.png"
+    },
+    "iso3": "TCD",
+    "iso2": "TD",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "ar"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SSD"
+    ]
+  },
+  {
+    "name": "Tschechien",
+    "longName": "Tschechische Republik",
+    "capital": "Prag",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/720px-Flag_of_the_Czech_Republic.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1200px-Flag_of_the_Czech_Republic.svg.png"
+    },
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "region": "Europa",
+    "languages": [
+      "cs",
+      "sk"
+    ],
+    "currencies": [
+      "CZK"
+    ],
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ]
+  },
+  {
+    "name": "Tunesien",
+    "longName": "Tunesische Republik",
+    "capital": "Tunis",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/720px-Flag_of_Tunisia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png"
+    },
+    "iso3": "TUN",
+    "iso2": "TN",
+    "region": "Afrika",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "TND"
+    ],
+    "borders": [
+      "DZA",
+      "LBY"
+    ]
+  },
+  {
+    "name": "Türkei",
+    "longName": "Republik Türkei",
+    "capital": "Ankara",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/720px-Flag_of_Turkey.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png"
+    },
+    "iso3": "TUR",
+    "iso2": "TR",
+    "region": "Asien",
+    "languages": [
+      "tr"
+    ],
+    "currencies": [
+      "TRY"
+    ],
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "longName": "Turkmenistan",
+    "capital": "Aschgabad",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/720px-Flag_of_Turkmenistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1200px-Flag_of_Turkmenistan.svg.png"
+    },
+    "iso3": "TKM",
+    "iso2": "TM",
+    "region": "Asien",
+    "languages": [
+      "tk",
+      "ru"
+    ],
+    "currencies": [
+      "TMT"
+    ],
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "longName": "Tuvalu",
+    "capital": "Funafuti",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/720px-Flag_of_Tuvalu.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/1200px-Flag_of_Tuvalu.svg.png"
+    },
+    "iso3": "TUV",
+    "iso2": "TV",
+    "region": "Ozeanien",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Uganda",
+    "longName": "Republik Uganda",
+    "capital": "Kampala",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/720px-Flag_of_Uganda.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1200px-Flag_of_Uganda.svg.png"
+    },
+    "iso3": "UGA",
+    "iso2": "UG",
+    "region": "Afrika",
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "currencies": [
+      "UGX"
+    ],
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "longName": "Ukraine",
+    "capital": "Kiew",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/720px-Flag_of_Ukraine.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1200px-Flag_of_Ukraine.svg.png"
+    },
+    "iso3": "UKR",
+    "iso2": "UA",
+    "region": "Europa",
+    "languages": [
+      "uk"
+    ],
+    "currencies": [
+      "UAH"
+    ],
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ]
+  },
+  {
+    "name": "Ungarn",
+    "longName": "Ungarn",
+    "capital": "Budapest",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/720px-Flag_of_Hungary.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1200px-Flag_of_Hungary.svg.png"
+    },
+    "iso3": "HUN",
+    "iso2": "HU",
+    "region": "Europa",
+    "languages": [
+      "hu"
+    ],
+    "currencies": [
+      "HUF"
+    ],
+    "borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "longName": "Republik Östlich des Uruguay",
+    "capital": "Montevideo",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/720px-Flag_of_Uruguay.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
+    },
+    "iso3": "URY",
+    "iso2": "UY",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "UYI",
+      "UYU"
+    ],
+    "borders": [
+      "ARG",
+      "BRA"
+    ]
+  },
+  {
+    "name": "Usbekistan",
+    "longName": "Republik Usbekistan",
+    "capital": "Taschkent",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/720px-Flag_of_Uzbekistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1200px-Flag_of_Uzbekistan.svg.png"
+    },
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "region": "Asien",
+    "languages": [
+      "uz",
+      "ru"
+    ],
+    "currencies": [
+      "UZS"
+    ],
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "longName": "Republik Vanuatu",
+    "capital": "Port Vila",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/720px-Flag_of_Vanuatu.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/1200px-Flag_of_Vanuatu.svg.png"
+    },
+    "iso3": "VUT",
+    "iso2": "VU",
+    "region": "Ozeanien",
+    "languages": [
+      "bi",
+      "en",
+      "fr"
+    ],
+    "currencies": [
+      "VUV"
+    ],
+    "borders": []
+  },
+  {
+    "name": "Venezuela",
+    "longName": "Bolivarische Republik Venezuela",
+    "capital": "Caracas",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/720px-Flag_of_Venezuela.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1200px-Flag_of_Venezuela.svg.png"
+    },
+    "iso3": "VEN",
+    "iso2": "VE",
+    "region": "Amerika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "VEF"
+    ],
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ]
+  },
+  {
+    "name": "Vereinigte Arabische Emirate",
+    "longName": "Vereinigte Arabische Emirate",
+    "capital": "Abu Dhabi",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/720px-Flag_of_the_United_Arab_Emirates.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1200px-Flag_of_the_United_Arab_Emirates.svg.png"
+    },
+    "iso3": "ARE",
+    "iso2": "AE",
+    "region": "Asien",
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "AED"
+    ],
+    "borders": [
+      "OMN",
+      "SAU"
+    ]
+  },
+  {
+    "name": "USA",
+    "longName": "Vereinigte Staaten von Amerika",
+    "capital": "Washington, D.C.",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/720px-Flag_of_the_United_States.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"
+    },
+    "iso3": "USA",
+    "iso2": "US",
+    "region": "Amerika",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "USD",
+      "USN",
+      "USS"
+    ],
+    "borders": [
+      "CAN",
+      "MEX"
+    ]
+  },
+  {
+    "name": "England",
+    "longName": "Vereinigtes Königreich Großbritannien und Nordirland",
+    "capital": "London",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/720px-Flag_of_the_United_Kingdom.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+    },
+    "iso3": "GBR",
+    "iso2": false,
+    "region": "Europa",
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "borders": [
+      "IRL"
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "longName": "Sozialistische Republik Vietnam",
+    "capital": "Hanoi",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/720px-Flag_of_Vietnam.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png"
+    },
+    "iso3": "VNM",
+    "iso2": "VN",
+    "region": "Asien",
+    "languages": [
+      "vi"
+    ],
+    "currencies": [
+      "VND"
+    ],
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ]
+  },
+  {
+    "name": "Weißrussland",
+    "longName": "Republik Belarus",
+    "capital": "Minsk",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/720px-Flag_of_Belarus.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1200px-Flag_of_Belarus.svg.png"
+    },
+    "iso3": "BLR",
+    "iso2": "BY",
+    "region": "Europa",
+    "languages": [
+      "be",
+      "ru"
+    ],
+    "currencies": [
+      "BYR"
+    ],
+    "borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ]
+  },
+  {
+    "name": "Westsahara",
+    "longName": "Demokratische Arabische Republik Sahara",
+    "capital": "El Aaiún",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/720px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/1200px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
+    },
+    "iso3": "ESH",
+    "iso2": "EH",
+    "region": "Afrika",
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "MAD",
+      "DZD",
+      "MRO"
+    ],
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ]
+  },
+  {
+    "name": "Zentral­afrikanische Republik",
+    "longName": "Zentral­afrikanische Republik",
+    "capital": "Bangui",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/720px-Flag_of_the_Central_African_Republic.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png"
+    },
+    "iso3": "CAF",
+    "iso2": "CF",
+    "region": "Afrika",
+    "languages": [
+      "fr",
+      "sg"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ]
+  },
+  {
+    "name": "Zypern",
+    "longName": "Republik Zypern",
+    "capital": "Nikosia",
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/720px-Flag_of_Cyprus.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1200px-Flag_of_Cyprus.svg.png"
+    },
+    "iso3": "CYP",
+    "iso2": "CY",
+    "region": "Europa",
+    "languages": [
+      "el",
+      "tr",
+      "hy"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "GBR"
+    ]
+  }
+]
