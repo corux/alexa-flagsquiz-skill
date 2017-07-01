@@ -54,9 +54,11 @@ export default class AlexaCountryQuizSkill {
 
   _handleNeighbourQuestion(answer, attributes) {
     const expectedAnswer = countries.getByIso3(attributes.iso).borders
-      .map(border => countries.getByIso3(border))
-      .filter(val => !!val)
-      .map(val => val.name);
+      .map(border => {
+        const country = countries.getByIso3(border);
+        return country && country.name;
+      })
+      .filter(val => !!val);
     console.log(`Answer: "${answer}", Expected answer: "${expectedAnswer}"`);
     if (expectedAnswer.find(val => answer && answer.toUpperCase() === val.toUpperCase())) {
       return {
@@ -91,7 +93,6 @@ export default class AlexaCountryQuizSkill {
     const result = handlers[session.attributes.type](answer, session.attributes);
     if (result.success) {
       const data = this._getQuestion();
-      data.numQuestions = session.attributes.numQuestions + 1;
       data.correctQuestions = session.attributes.correctQuestions + 1;
       return ask(`Das war richtig! ${data.question}`)
         .reprompt(data.question)
@@ -100,7 +101,7 @@ export default class AlexaCountryQuizSkill {
 
     if (result.try >= 3) {
       const data = this._getQuestion();
-      data.numQuestions = session.attributes.numQuestions + 1;
+      data.wrongQuestions = session.attributes.wrongQuestions + 1;
       return ask(`Das war nicht richtig. Hier ist die nächste Frage: ${data.question}`)
         .reprompt(data.question)
         .attributes(data);
@@ -126,10 +127,19 @@ export default class AlexaCountryQuizSkill {
     }
   }
 
+  _getSlotValue(request, name) {
+    try {
+      const slot = request.intent.slots[name];
+      return slot.resolutions.resolutionsPerAuthority[0].values[0].value.name;
+    } catch (e) {
+      return null;
+    }
+  }
+
   @Launch
   launch() {
     const data = this._getQuestion();
-    data.numQuestions = 1;
+    data.wrongQuestions = 0;
     data.correctQuestions = 0;
     return ask(`Willkommen beim Länder Quiz. Hier ist die erste Frage: ${data.question}`)
       .reprompt(data.question)
@@ -137,19 +147,19 @@ export default class AlexaCountryQuizSkill {
   }
 
   @Intent('CountryIntent')
-  countryIntent({ country }, { session }) {
-    return this._handleAnswer(country, session);
+  countryIntent({ country }, { session, request }) {
+    return this._handleAnswer(this._getSlotValue(request, 'country') || country, session);
   }
 
   @Intent('ContinentIntent')
-  continentIntent({ continent }, { session }) {
-    return this._handleAnswer(continent, session);
+  continentIntent({ continent }, { session, request }) {
+    return this._handleAnswer(this._getSlotValue(request, 'continent') || continent, session);
   }
 
   @Intent('SkipIntent')
   skipIntent({}, { session }) {
     const data = this._getQuestion();
-    data.numQuestions++;
+    data.wrongQuestions = session.attributes.wrongQuestions + 1;
     return ask(`Hier ist die nächste Frage: ${data.question}`)
       .reprompt(data.question)
       .attributes(data);
@@ -167,13 +177,14 @@ export default class AlexaCountryQuizSkill {
   statisticsIntent({}, { session }) {
     const data = session.attributes;
     let statistic;
-    if (data.numQuestions <= 1) {
+    const total = data.wrongQuestions + data.correctQuestions;
+    if (total <= 0) {
       statistic = 'Du hast noch keine Fragen beantwortet.';
-    } else if (data.correctQuestions === data.numQuestions - 1) {
-      const num = data.correctQuestions === 1 ? '' : data.correctQuestions;
+    } else if (data.wrongQuestions === 0) {
+      const num = total === 1 ? '' : total;
       statistic = `Du hast alle ${num} Fragen richtig beantwortet.`;
     } else {
-      statistic = `Du hast ${data.correctQuestions} von ${data.numQuestions - 1} Fragen richtig beantwortet.`
+      statistic = `Du hast ${data.correctQuestions} von ${total} Fragen richtig beantwortet.`
     }
 
     return ask(`${statistic} ${data.question}`)
