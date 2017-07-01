@@ -155,7 +155,15 @@ export default class AlexaCountryQuizSkill {
     return this._handleAnswer(this._getSlotValue(request, 'continent') || continent, session);
   }
 
-  @Intent('SkipIntent')
+  @Intent('AMAZON.RepeatIntent')
+  repeatIntent({}, { session }) {
+    const data = session.attributes;
+    return ask(data.question)
+      .reprompt(data.question)
+      .attributes(data);
+  }
+
+  @Intent('SkipIntent', 'AMAZON.NextIntent')
   skipIntent({}, { session }) {
     const data = this._getQuestion();
     data.wrongQuestions = session.attributes.wrongQuestions + 1;
