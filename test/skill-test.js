@@ -11,10 +11,10 @@ test('LaunchRequest', () => {
   const event = Request.launchRequest().build();
 
   return Skill(event).then(response => {
-    expect(response.response.outputSpeech.text).to.contain('Hallo');
+    expect(response.response.outputSpeech.text).to.contain('Willkommen');
     expect(response).to.containSubset({
       response: {
-        shouldEndSession: true,
+        shouldEndSession: false,
         outputSpeech: { type: 'PlainText' }
       }
     });

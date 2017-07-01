@@ -2,47 +2,27 @@ import { Skill, Launch, Intent, SessionEnded } from 'alexa-annotations';
 import { say, ask } from 'alexa-response';
 import ssml from 'alexa-ssml-jsx';
 
-import countryjs from 'countryjs';
-import availableFlags from 'svg-country-flags/countries.json';
+import countries from './countries';
 import continent from './continent';
 
-@Skill
+@Skill({ logging: true, applicationId: 'amzn1.ask.skill.f6a1e125-65ca-4c7a-9c8c-b781cad37b40' })
 export default class AlexaCountryQuizSkill {
 
   AlexaCountryQuizSkill(session) {
     this.session = session;
   }
 
-  _createResponse() {
-    return say('WQi');
-  }
-
   _getRandomEntry(array) {
     return array[Math.floor(Math.random() * array.length)];
   }
 
-  _isAcceptedIsoCode(isoCode) {
-    const translations = countryjs.translations(value);
-    const borders = countryjs.borders(value);
-    const region = countryjs.region(value);
-
-    const isNameAvailable = translations && translations['de'];
-    const isFlagAvailable = Object.keys(availableFlags).map(value => value.toLowerCase())
-      .includes(isoCode.toLowerCase());
-    const isBordersAvailable = borders.length > 0;
-    const isRegionAvailable = !!region;
-
-    return isNameAvailable && isFlagAvailable && isBordersAvailable && isRegionAvailable;
-  }
-
   _getContinentQuestion() {
     const country = this._getNextCountry();
-    const name = countryjs.info(country).translations['de'];
     return {
       type: 'continent',
-      iso: country,
-      country: name,
-      question: `Auf welchem Kontinent liegt ${name}?`,
+      iso: country.iso3,
+      country: country.name,
+      question: `Auf welchem Kontinent liegt ${country.name}?`,
       try: 0
     };
   }
@@ -61,13 +41,16 @@ export default class AlexaCountryQuizSkill {
   }
 
   _getNeighbourQuestion() {
-    const country = this._getNextCountry();
-    const name = countryjs.info(country).translations['de'];
+    let country;
+    do {
+      country = this._getNextCountry();
+    } while(!country.borders);
+
     return {
       type: 'neighbour',
-      isoCode: country,
-      country: name,
-      question: `Nenne ein Nachbarland von ${name}.`,
+      isoCode: country.iso3,
+      country: country.name,
+      question: `Nenne ein Nachbarland von ${country.name}.`,
       try: 0
     };
   }
@@ -91,7 +74,7 @@ export default class AlexaCountryQuizSkill {
       this._getNeighbourQuestion
     ];
 
-    return this._getRandomEntry(list)();
+    return this._getRandomEntry(list).call(this);
   }
 
   _handleAnswer(answer) {
@@ -118,28 +101,16 @@ export default class AlexaCountryQuizSkill {
   }
 
   _getNextCountry() {
-    let isoCode;
-    let count = 0;
-    do {
-      isoCode = this._getRandomEntry(Object.keys(availableFlags));
-      count++;
-    } while(!this._isAcceptedIsoCode(isoCode) && count < 5);
-
-    if (count >= 5) {
-      throw new Error('Kein verfügbares Land gefunden.');
-    }
-
-    return isoCode;
+    return this._getRandomEntry(countries.getAll());
   }
 
-  _getCard(isoCode) {
-    const image = `https://cdn.rawgit.com/hjnilsson/country-flags/9e827754/png1000px/${isoCode.toLowerCase()}.png`;
+  _getCard(country) {
     return {
       title: 'Länder Quiz',
       type: 'Standard',
       image: {
-        smallImageUrl: image,
-        largeImageUrl: image
+        smallImageUrl: country.flag.smallImageUrl,
+        largeImageUrl: country.flag.largeImageUrl
       }
     }
   }
@@ -147,7 +118,7 @@ export default class AlexaCountryQuizSkill {
   @Launch
   launch() {
     const data = this._getQuestion();
-    return ask(`Willkommen beim Länder Quiz. ${data.question}`)
+    return ask(`Willkommen beim Länder Quiz. Hier ist die erste Frage: ${data.question}`)
       .reprompt(data.question)
       .attributes(data);
   }

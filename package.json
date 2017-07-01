@@ -9,7 +9,7 @@
     "generate-dictionary": "bin/generate-dictionary --destination model/",
     "prebuild": "npm run generate-dictionary",
     "build": "npm-run-all --parallel build:skill build:utterances",
-    "build:skill": "webpack --define process.env.NODE_ENV=\"production\" --config config/webpack.config.babel.js",
+    "build:skill": "webpack --config config/webpack.config.babel.js",
     "build:utterances": "mkdir -p build && bin/utterances --schema model/schema.json --utterances model/UTTERANCES > build/UTTERANCES",
     "pretest": "npm run build",
     "test": "ava",
