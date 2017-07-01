@@ -1,9 +1,9 @@
 const i18nContinents = {
-  Asia: "Asien",
-  Europe: "Europa",
-  Africa: "Afrika",
-  Oceania: "Ozeanien",
-  Americas: "Amerika"
+  Asia: 'Asien',
+  Europe: 'Europa',
+  Africa: 'Afrika',
+  Oceania: 'Ozeanien',
+  Americas: 'Amerika'
 };
 
 export default {

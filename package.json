@@ -18,7 +18,8 @@
     "deploy:dev": "serverless deploy function -f skill"
   },
   "ava": {
-    "babel": "inherit"
+    "babel": "inherit",
+    "failWithoutAssertions": false
   },
   "devDependencies": {
     "alexa-annotations": "^9.0.1",

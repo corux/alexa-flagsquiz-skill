@@ -3,7 +3,6 @@ import { say, ask } from 'alexa-response';
 import ssml from 'alexa-ssml-jsx';
 
 import countries from './countries';
-import continent from './continent';
 
 @Skill
 export default class AlexaCountryQuizSkill {
@@ -124,7 +123,7 @@ export default class AlexaCountryQuizSkill {
         smallImageUrl: country.flag.smallImageUrl,
         largeImageUrl: country.flag.largeImageUrl
       }
-    }
+    };
   }
 
   _getSlotValue(request, name) {
@@ -184,7 +183,7 @@ export default class AlexaCountryQuizSkill {
       const num = total === 1 ? '' : total;
       statistic = `Du hast alle ${num} Fragen richtig beantwortet.`;
     } else {
-      statistic = `Du hast ${data.correctQuestions} von ${total} Fragen richtig beantwortet.`
+      statistic = `Du hast ${data.correctQuestions} von ${total} Fragen richtig beantwortet.`;
     }
 
     return ask(`${statistic} ${data.question}`)

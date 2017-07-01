@@ -7,47 +7,44 @@ import chaiSubset from 'chai-subset';
 const expect = chai.expect;
 chai.use(chaiSubset);
 
-test('LaunchRequest', () => {
+test('LaunchRequest', async () => {
   const event = Request.launchRequest().build();
 
-  return Skill(event).then(response => {
-    expect(response.response.outputSpeech.text).to.contain('Willkommen');
-    expect(response).to.containSubset({
-      response: {
-        shouldEndSession: false,
-        outputSpeech: { type: 'PlainText' }
-      }
-    });
+  const response = await Skill(event);
+  expect(response.response.outputSpeech.text).to.contain('Willkommen');
+  expect(response).to.containSubset({
+    response: {
+      shouldEndSession: false,
+      outputSpeech: { type: 'PlainText' }
+    }
   });
 });
 
-test('AMAZON.StopIntent', () => {
+test('AMAZON.StopIntent', async () => {
   const event = Request.intent('AMAZON.StopIntent').build();
 
-  return Skill(event).then(response => {
-    expect(response).to.containSubset({
-      response: {
-        shouldEndSession: true,
-        outputSpeech: { type: 'PlainText', text: 'Bis bald!' }
-      }
-    });
+  const response = await Skill(event);
+  expect(response).to.containSubset({
+    response: {
+      shouldEndSession: true,
+      outputSpeech: { type: 'PlainText', text: 'Bis bald!' }
+    }
   });
 });
 
-test('AMAZON.CancelIntent', () => {
+test('AMAZON.CancelIntent', async () => {
   const event = Request.intent('AMAZON.CancelIntent').build();
 
-  return Skill(event).then(response => {
-    expect(response).to.containSubset({
-      response: {
-        shouldEndSession: true,
-        outputSpeech: { type: 'PlainText', text: 'Bis bald!' }
-      }
-    });
+  const response = await Skill(event);
+  expect(response).to.containSubset({
+    response: {
+      shouldEndSession: true,
+      outputSpeech: { type: 'PlainText', text: 'Bis bald!' }
+    }
   });
 });
 
-test('Continent answer', () => {
+test('Continent answer', async () => {
   const event = Request.intent('ContinentIntent', { continent: 'europa' }).session({
     attributes: {
       iso: 'DEU',
@@ -55,18 +52,12 @@ test('Continent answer', () => {
     }
   }).build();
 
-  return Skill(event).then(response => {
-    expect(response).to.containSubset({
-      response: {
-        outputSpeech: { type: 'PlainText', text: 'Das war richtig' }
-      }
-    });
-  });
+  const response = await Skill(event);
+  expect(response.response.outputSpeech.text).to.contain('Das war richtig!');
 });
 
-test('SessionEndedRequest', () => {
+test('SessionEndedRequest', async () => {
   const event = Request.sessionEndedRequest().build();
-  return Skill(event).then(response => {
-    expect(response).to.deep.equal({});
-  });
+  const response = await Skill(event);
+  expect(response).to.deep.equal({});
 });
