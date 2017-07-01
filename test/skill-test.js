@@ -47,6 +47,23 @@ test('AMAZON.CancelIntent', () => {
   });
 });
 
+test('Continent answer', () => {
+  const event = Request.intent('ContinentIntent', { continent: 'europa' }).session({
+    attributes: {
+      iso: 'DEU',
+      type: 'continent'
+    }
+  }).build();
+
+  return Skill(event).then(response => {
+    expect(response).to.containSubset({
+      response: {
+        outputSpeech: { type: 'PlainText', text: 'Das war richtig' }
+      }
+    });
+  });
+});
+
 test('SessionEndedRequest', () => {
   const event = Request.sessionEndedRequest().build();
   return Skill(event).then(response => {

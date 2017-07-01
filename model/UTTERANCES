@@ -1,7 +1,7 @@
 CountryIntent {das ist|} {das Land|} {-|country}
 ContinentIntent {das ist|} {der Kontinent|} {-|continent}
-HintIntent {gib mir|} {ein|} Hinweis
-HintIntent Hilf mir {weiter|}
+ContinentIntent {auf|in} {-|continent}
+HintIntent {gib mir|} {ein|einen|} Hinweis
 SkipIntent {ich|} weiss nicht
 SkipIntent keine Ahnung
 SkipIntent weiter
