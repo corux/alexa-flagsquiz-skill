@@ -42,7 +42,7 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
       return text;
     };
     const toNumber = value => {
-      value = value.replace('.', '');
+      value = value.replace(/\./g, '');
       return parseInt(value, 10);
     };
     const getFlag = size => 'https:' + $(elem).children().eq(6).find('img').attr('src').replace(/\/[0-9]*px-/, '/' + size + 'px-');
@@ -50,7 +50,7 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
       name: fixCountryName(get(0)),
       longName: get(1),
       capital: get(2),
-      //population: toNumber(get(3)),
+      population: toNumber(get(3)),
       //area: toNumber(get(4)),
       //populationPerSquareKm: toNumber(get(5)),
       flag: {

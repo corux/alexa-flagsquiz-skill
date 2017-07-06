@@ -3,6 +3,7 @@
     "name": "Afghanistan",
     "longName": "Islamische Republik Afghanistan",
     "capital": "Kabul",
+    "population": 32200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/720px-Flag_of_Afghanistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/1200px-Flag_of_Afghanistan.svg.png"
@@ -31,6 +32,7 @@
     "name": "Ägypten",
     "longName": "Arabische Republik Ägypten",
     "capital": "Kairo",
+    "population": 89100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/720px-Flag_of_Egypt.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
@@ -54,6 +56,7 @@
     "name": "Albanien",
     "longName": "Republik Albanien",
     "capital": "Tirana",
+    "population": 2900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/720px-Flag_of_Albania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1200px-Flag_of_Albania.svg.png"
@@ -78,6 +81,7 @@
     "name": "Algerien",
     "longName": "Demokratische Volksrepublik Algerien",
     "capital": "Algier",
+    "population": 37400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/720px-Flag_of_Algeria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png"
@@ -105,6 +109,7 @@
     "name": "Angola",
     "longName": "Republik Angola",
     "capital": "Luanda",
+    "population": 25000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/720px-Flag_of_Angola.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png"
@@ -129,6 +134,7 @@
     "name": "Antigua und Barbuda",
     "longName": "Antigua und Barbuda",
     "capital": "Saint John’s",
+    "population": 87000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/720px-Flag_of_Antigua_and_Barbuda.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png"
@@ -148,6 +154,7 @@
     "name": "Äquatorialguinea",
     "longName": "Republik Äquatorial­guinea",
     "capital": "Malabo",
+    "population": 800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/720px-Flag_of_Equatorial_Guinea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/1200px-Flag_of_Equatorial_Guinea.svg.png"
@@ -171,6 +178,7 @@
     "name": "Argentinien",
     "longName": "Argentinische Republik",
     "capital": "Buenos Aires",
+    "population": 42400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/720px-Flag_of_Argentina.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
@@ -197,6 +205,7 @@
     "name": "Armenien",
     "longName": "Republik Armenien",
     "capital": "Jerewan",
+    "population": 3000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/720px-Flag_of_Armenia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1200px-Flag_of_Armenia.svg.png"
@@ -222,6 +231,7 @@
     "name": "Aserbaidschan",
     "longName": "Republik Aserbaidschan",
     "capital": "Baku",
+    "population": 9700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/720px-Flag_of_Azerbaijan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png"
@@ -248,6 +258,7 @@
     "name": "Äthiopien",
     "longName": "Demokratische Bundesrepublik Äthiopien",
     "capital": "Addis Abeba",
+    "population": 98100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/720px-Flag_of_Ethiopia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1200px-Flag_of_Ethiopia.svg.png"
@@ -274,6 +285,7 @@
     "name": "Australien",
     "longName": "Australien",
     "capital": "Canberra",
+    "population": 23900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/720px-Flag_of_Australia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1200px-Flag_of_Australia.svg.png"
@@ -293,6 +305,7 @@
     "name": "Bahamas",
     "longName": "Commonwealth der Bahamas",
     "capital": "Nassau",
+    "population": 400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/720px-Flag_of_the_Bahamas.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1200px-Flag_of_the_Bahamas.svg.png"
@@ -312,6 +325,7 @@
     "name": "Bahrain",
     "longName": "Königreich Bahrain",
     "capital": "Manama",
+    "population": 1400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/720px-Flag_of_Bahrain.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1200px-Flag_of_Bahrain.svg.png"
@@ -331,6 +345,7 @@
     "name": "Bangladesch",
     "longName": "Volksrepublik Bangladesch",
     "capital": "Dhaka",
+    "population": 160400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/720px-Flag_of_Bangladesh.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png"
@@ -353,6 +368,7 @@
     "name": "Barbados",
     "longName": "Barbados",
     "capital": "Bridgetown",
+    "population": 300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/720px-Flag_of_Barbados.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/1200px-Flag_of_Barbados.svg.png"
@@ -372,6 +388,7 @@
     "name": "Belgien",
     "longName": "Königreich Belgien",
     "capital": "Brüssel",
+    "population": 11200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/720px-Flag_of_Belgium_%28civil%29.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/1200px-Flag_of_Belgium_%28civil%29.svg.png"
@@ -398,6 +415,7 @@
     "name": "Belize",
     "longName": "Belize",
     "capital": "Belmopan",
+    "population": 400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/720px-Flag_of_Belize.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1200px-Flag_of_Belize.svg.png"
@@ -421,6 +439,7 @@
     "name": "Benin",
     "longName": "Republik Benin",
     "capital": "Porto-Novo",
+    "population": 10600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/720px-Flag_of_Benin.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/1200px-Flag_of_Benin.svg.png"
@@ -445,6 +464,7 @@
     "name": "Bhutan",
     "longName": "Königreich Bhutan",
     "capital": "Thimphu",
+    "population": 800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/720px-Flag_of_Bhutan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1200px-Flag_of_Bhutan.svg.png"
@@ -468,6 +488,7 @@
     "name": "Bolivien",
     "longName": "Plurinationaler Staat Bolivien",
     "capital": "Sucre",
+    "population": 10500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/720px-Flag_of_Bolivia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1200px-Flag_of_Bolivia.svg.png"
@@ -496,6 +517,7 @@
     "name": "Bosnien und Herzegowina",
     "longName": "Bosnien und Herzegowina",
     "capital": "Sarajevo",
+    "population": 3700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/720px-Flag_of_Bosnia_and_Herzegovina.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1200px-Flag_of_Bosnia_and_Herzegovina.svg.png"
@@ -521,6 +543,7 @@
     "name": "Botswana",
     "longName": "Republik Botsuana",
     "capital": "Gaborone",
+    "population": 2100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/720px-Flag_of_Botswana.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1200px-Flag_of_Botswana.svg.png"
@@ -546,6 +569,7 @@
     "name": "Brasilien",
     "longName": "Föderative Republik Brasilien",
     "capital": "Brasília",
+    "population": 204500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
@@ -576,6 +600,7 @@
     "name": "Brunei",
     "longName": "Brunei Darussalam",
     "capital": "Bandar Seri Begawan",
+    "population": 400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/720px-Flag_of_Brunei.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1200px-Flag_of_Brunei.svg.png"
@@ -597,6 +622,7 @@
     "name": "Bulgarien",
     "longName": "Republik Bulgarien",
     "capital": "Sofia",
+    "population": 7200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/720px-Flag_of_Bulgaria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1200px-Flag_of_Bulgaria.svg.png"
@@ -622,6 +648,7 @@
     "name": "Burkina Faso",
     "longName": "Burkina Faso",
     "capital": "Ouagadougou",
+    "population": 18500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/720px-Flag_of_Burkina_Faso.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1200px-Flag_of_Burkina_Faso.svg.png"
@@ -649,6 +676,7 @@
     "name": "Burundi",
     "longName": "Republik Burundi",
     "capital": "Bujumbura",
+    "population": 10700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/720px-Flag_of_Burundi.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1200px-Flag_of_Burundi.svg.png"
@@ -673,6 +701,7 @@
     "name": "Chile",
     "longName": "Republik Chile",
     "capital": "Santiago de Chile",
+    "population": 18000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/720px-Flag_of_Chile.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png"
@@ -697,6 +726,7 @@
     "name": "Republik China",
     "longName": "Republik China (Taiwan)",
     "capital": "Taipeh",
+    "population": 23500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/720px-Flag_of_the_Republic_of_China.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png"
@@ -716,6 +746,7 @@
     "name": "China",
     "longName": "Volksrepublik China",
     "capital": "Peking",
+    "population": 1380000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/720px-Flag_of_the_People%27s_Republic_of_China.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png"
@@ -751,6 +782,7 @@
     "name": "Cookinseln",
     "longName": "Cookinseln",
     "capital": "Avarua",
+    "population": 11500,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/720px-Flag_of_the_Cook_Islands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/1200px-Flag_of_the_Cook_Islands.svg.png"
@@ -770,6 +802,7 @@
     "name": "Costa Rica",
     "longName": "Republik Costa Rica",
     "capital": "San José",
+    "population": 4800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/720px-Flag_of_Costa_Rica.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1200px-Flag_of_Costa_Rica.svg.png"
@@ -792,6 +825,7 @@
     "name": "Dänemark",
     "longName": "Königreich Dänemark",
     "capital": "Kopenhagen",
+    "population": 5659715,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/720px-Flag_of_Denmark.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png"
@@ -813,6 +847,7 @@
     "name": "Deutschland",
     "longName": "Bundesrepublik Deutschland",
     "capital": "Berlin",
+    "population": 81100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/720px-Flag_of_Germany.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
@@ -842,6 +877,7 @@
     "name": "Dominica",
     "longName": "Commonwealth Dominica",
     "capital": "Roseau",
+    "population": 73000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/720px-Flag_of_Dominica.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1200px-Flag_of_Dominica.svg.png"
@@ -861,6 +897,7 @@
     "name": "Dominikanische Republik",
     "longName": "Dominikanische Republik",
     "capital": "Santo Domingo",
+    "population": 10500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/720px-Flag_of_the_Dominican_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1200px-Flag_of_the_Dominican_Republic.svg.png"
@@ -882,6 +919,7 @@
     "name": "Dschibuti",
     "longName": "Republik Dschibuti",
     "capital": "Dschibuti-Stadt",
+    "population": 900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/720px-Flag_of_Djibouti.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1200px-Flag_of_Djibouti.svg.png"
@@ -906,6 +944,7 @@
     "name": "Ecuador",
     "longName": "Republik Ecuador",
     "capital": "Quito",
+    "population": 16300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/720px-Flag_of_Ecuador.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1200px-Flag_of_Ecuador.svg.png"
@@ -928,6 +967,7 @@
     "name": "El Salvador",
     "longName": "Republik El Salvador",
     "capital": "San Salvador",
+    "population": 6400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/720px-Flag_of_El_Salvador.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1200px-Flag_of_El_Salvador.svg.png"
@@ -951,6 +991,7 @@
     "name": "Elfenbeinküste",
     "longName": "Republik Côte d’Ivoire",
     "capital": "Yamoussoukro",
+    "population": 23300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/720px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
@@ -976,6 +1017,7 @@
     "name": "Eritrea",
     "longName": "Staat Eritrea",
     "capital": "Asmara",
+    "population": 5200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/720px-Flag_of_Eritrea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1200px-Flag_of_Eritrea.svg.png"
@@ -1001,6 +1043,7 @@
     "name": "Estland",
     "longName": "Republik Estland",
     "capital": "Tallinn",
+    "population": 1300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/720px-Flag_of_Estonia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1200px-Flag_of_Estonia.svg.png"
@@ -1023,6 +1066,7 @@
     "name": "Fidschi",
     "longName": "Republik Fidschi",
     "capital": "Suva",
+    "population": 900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/720px-Flag_of_Fiji.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/1200px-Flag_of_Fiji.svg.png"
@@ -1045,6 +1089,7 @@
     "name": "Finnland",
     "longName": "Republik Finnland",
     "capital": "Helsinki",
+    "population": 5500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/720px-Flag_of_Finland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png"
@@ -1069,6 +1114,7 @@
     "name": "Frankreich",
     "longName": "Französische Republik",
     "capital": "Paris",
+    "population": 64300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/720px-Flag_of_France.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
@@ -1097,6 +1143,7 @@
     "name": "Gabun",
     "longName": "Gabunische Republik",
     "capital": "Libreville",
+    "population": 1800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/720px-Flag_of_Gabon.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1200px-Flag_of_Gabon.svg.png"
@@ -1120,6 +1167,7 @@
     "name": "Gambia",
     "longName": "Republik Gambia",
     "capital": "Banjul",
+    "population": 2000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/720px-Flag_of_The_Gambia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1200px-Flag_of_The_Gambia.svg.png"
@@ -1141,6 +1189,7 @@
     "name": "Georgien",
     "longName": "Georgien",
     "capital": "Tiflis",
+    "population": 3800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/720px-Flag_of_Georgia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png"
@@ -1165,6 +1214,7 @@
     "name": "Ghana",
     "longName": "Republik Ghana",
     "capital": "Accra",
+    "population": 27700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/720px-Flag_of_Ghana.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png"
@@ -1188,6 +1238,7 @@
     "name": "Grenada",
     "longName": "Grenada",
     "capital": "St. George’s",
+    "population": 108000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/720px-Flag_of_Grenada.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1200px-Flag_of_Grenada.svg.png"
@@ -1207,6 +1258,7 @@
     "name": "Griechenland",
     "longName": "Hellenische Republik",
     "capital": "Athen",
+    "population": 11500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/720px-Flag_of_Greece.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png"
@@ -1231,6 +1283,7 @@
     "name": "Guatemala",
     "longName": "Republik Guatemala",
     "capital": "Guatemala-Stadt",
+    "population": 16200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/720px-Flag_of_Guatemala.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1200px-Flag_of_Guatemala.svg.png"
@@ -1255,6 +1308,7 @@
     "name": "Guinea",
     "longName": "Republik Guinea",
     "capital": "Conakry",
+    "population": 11000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/720px-Flag_of_Guinea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/1200px-Flag_of_Guinea.svg.png"
@@ -1282,6 +1336,7 @@
     "name": "Guinea-Bissau",
     "longName": "Republik Guinea-Bissau",
     "capital": "Bissau",
+    "population": 1800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/720px-Flag_of_Guinea-Bissau.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1200px-Flag_of_Guinea-Bissau.svg.png"
@@ -1304,6 +1359,7 @@
     "name": "Guyana",
     "longName": "Kooperative Republik Guyana",
     "capital": "Georgetown",
+    "population": 700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/720px-Flag_of_Guyana.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1200px-Flag_of_Guyana.svg.png"
@@ -1327,6 +1383,7 @@
     "name": "Haiti",
     "longName": "Republik Haiti",
     "capital": "Port-au-Prince",
+    "population": 10900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/720px-Flag_of_Haiti.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1200px-Flag_of_Haiti.svg.png"
@@ -1350,6 +1407,7 @@
     "name": "Honduras",
     "longName": "Republik Honduras",
     "capital": "Tegucigalpa",
+    "population": 8300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/720px-Flag_of_Honduras.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1200px-Flag_of_Honduras.svg.png"
@@ -1373,6 +1431,7 @@
     "name": "Indien",
     "longName": "Republik Indien",
     "capital": "Neu-Delhi",
+    "population": 1314100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/720px-Flag_of_India.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
@@ -1402,6 +1461,7 @@
     "name": "Indonesien",
     "longName": "Republik Indonesien",
     "capital": "Jakarta",
+    "population": 255700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/720px-Flag_of_Indonesia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1200px-Flag_of_Indonesia.svg.png"
@@ -1425,6 +1485,7 @@
     "name": "Irak",
     "longName": "Republik Irak",
     "capital": "Bagdad",
+    "population": 37100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/720px-Flag_of_Iraq.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1200px-Flag_of_Iraq.svg.png"
@@ -1452,6 +1513,7 @@
     "name": "Iran",
     "longName": "Islamische Republik Iran",
     "capital": "Teheran",
+    "population": 78500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/720px-Flag_of_Iran.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1200px-Flag_of_Iran.svg.png"
@@ -1479,6 +1541,7 @@
     "name": "Irland",
     "longName": "Irland",
     "capital": "Dublin",
+    "population": 4600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/720px-Flag_of_Ireland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png"
@@ -1501,6 +1564,7 @@
     "name": "Island",
     "longName": "Republik Island",
     "capital": "Reykjavík",
+    "population": 330000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/720px-Flag_of_Iceland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1200px-Flag_of_Iceland.svg.png"
@@ -1520,6 +1584,7 @@
     "name": "Israel",
     "longName": "Staat Israel",
     "capital": "Jerusalem",
+    "population": 8400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/720px-Flag_of_Israel.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png"
@@ -1545,6 +1610,7 @@
     "name": "Italien",
     "longName": "Italienische Republik",
     "capital": "Rom",
+    "population": 62500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/720px-Flag_of_Italy.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png"
@@ -1571,6 +1637,7 @@
     "name": "Jamaika",
     "longName": "Jamaika",
     "capital": "Kingston",
+    "population": 2700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/720px-Flag_of_Jamaica.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1200px-Flag_of_Jamaica.svg.png"
@@ -1590,6 +1657,7 @@
     "name": "Japan",
     "longName": "Japan",
     "capital": "Tokio",
+    "population": 126900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/720px-Flag_of_Japan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
@@ -1609,6 +1677,7 @@
     "name": "Jemen",
     "longName": "Republik Jemen",
     "capital": "Sanaa (de jure)",
+    "population": 26700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/720px-Flag_of_Yemen.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1200px-Flag_of_Yemen.svg.png"
@@ -1631,6 +1700,7 @@
     "name": "Jordanien",
     "longName": "Haschemitisches Königreich Jordanien",
     "capital": "Amman",
+    "population": 8100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/720px-Flag_of_Jordan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1200px-Flag_of_Jordan.svg.png"
@@ -1655,6 +1725,7 @@
     "name": "Kambodscha",
     "longName": "Königreich Kambodscha",
     "capital": "Phnom Penh",
+    "population": 15400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/720px-Flag_of_Cambodia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1200px-Flag_of_Cambodia.svg.png"
@@ -1678,6 +1749,7 @@
     "name": "Kamerun",
     "longName": "Republik Kamerun",
     "capital": "Yaoundé",
+    "population": 23700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/720px-Flag_of_Cameroon.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png"
@@ -1705,6 +1777,7 @@
     "name": "Kanada",
     "longName": "Kanada",
     "capital": "Ottawa",
+    "population": 35800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/720px-Flag_of_Canada.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1200px-Flag_of_Canada.svg.png"
@@ -1727,6 +1800,7 @@
     "name": "Kap Verde",
     "longName": "Republik Cabo Verde",
     "capital": "Praia",
+    "population": 509000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/720px-Flag_of_Cape_Verde.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png"
@@ -1746,6 +1820,7 @@
     "name": "Kasachstan",
     "longName": "Republik Kasachstan",
     "capital": "Astana",
+    "population": 17500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/720px-Flag_of_Kazakhstan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1200px-Flag_of_Kazakhstan.svg.png"
@@ -1772,6 +1847,7 @@
     "name": "Katar",
     "longName": "Staat Katar",
     "capital": "Doha",
+    "population": 2400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/720px-Flag_of_Qatar.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1200px-Flag_of_Qatar.svg.png"
@@ -1793,6 +1869,7 @@
     "name": "Kenia",
     "longName": "Republik Kenia",
     "capital": "Nairobi",
+    "population": 44300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/720px-Flag_of_Kenya.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1200px-Flag_of_Kenya.svg.png"
@@ -1819,6 +1896,7 @@
     "name": "Kirgisistan",
     "longName": "Kirgisische Republik",
     "capital": "Bischkek",
+    "population": 6000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/720px-Flag_of_Kyrgyzstan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1200px-Flag_of_Kyrgyzstan.svg.png"
@@ -1844,6 +1922,7 @@
     "name": "Kiribati",
     "longName": "Republik Kiribati",
     "capital": "South Tarawa",
+    "population": 100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/720px-Flag_of_Kiribati.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1200px-Flag_of_Kiribati.svg.png"
@@ -1863,6 +1942,7 @@
     "name": "Kolumbien",
     "longName": "Republik Kolumbien",
     "capital": "Bogotá",
+    "population": 48200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/720px-Flag_of_Colombia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png"
@@ -1888,6 +1968,7 @@
     "name": "Komoren",
     "longName": "Union der Komoren",
     "capital": "Moroni",
+    "population": 800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/720px-Flag_of_the_Comoros.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1200px-Flag_of_the_Comoros.svg.png"
@@ -1908,6 +1989,7 @@
     "name": "Demokratische Republik Kongo",
     "longName": "Demokratische Republik Kongo",
     "capital": "Kinshasa",
+    "population": 73300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/720px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1200px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
@@ -1941,6 +2023,7 @@
     "name": "Republik Kongo",
     "longName": "Republik Kongo",
     "capital": "Brazzaville",
+    "population": 4800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/720px-Flag_of_the_Republic_of_the_Congo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1200px-Flag_of_the_Republic_of_the_Congo.svg.png"
@@ -1967,6 +2050,7 @@
     "name": "Nordkorea",
     "longName": "Demokratische Volksrepublik Korea",
     "capital": "Pjöngjang",
+    "population": 25000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/720px-Flag_of_North_Korea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1200px-Flag_of_North_Korea.svg.png"
@@ -1990,6 +2074,7 @@
     "name": "Südkorea",
     "longName": "Republik Korea",
     "capital": "Seoul",
+    "population": 50700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/720px-Flag_of_South_Korea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png"
@@ -2011,6 +2096,7 @@
     "name": "Kroatien",
     "longName": "Republik Kroatien",
     "capital": "Zagreb",
+    "population": 4200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/720px-Flag_of_Croatia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1200px-Flag_of_Croatia.svg.png"
@@ -2036,6 +2122,7 @@
     "name": "Kuba",
     "longName": "Republik Kuba",
     "capital": "Havanna",
+    "population": 11100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/720px-Flag_of_Cuba.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1200px-Flag_of_Cuba.svg.png"
@@ -2056,6 +2143,7 @@
     "name": "Kuwait",
     "longName": "Staat Kuwait",
     "capital": "Kuwait-Stadt",
+    "population": 3800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/720px-Flag_of_Kuwait.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1200px-Flag_of_Kuwait.svg.png"
@@ -2078,6 +2166,7 @@
     "name": "Laos",
     "longName": "Demokratische Volksrepublik Laos",
     "capital": "Vientiane",
+    "population": 6900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/720px-Flag_of_Laos.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1200px-Flag_of_Laos.svg.png"
@@ -2103,6 +2192,7 @@
     "name": "Lesotho",
     "longName": "Königreich Lesotho",
     "capital": "Maseru",
+    "population": 1900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/720px-Flag_of_Lesotho.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1200px-Flag_of_Lesotho.svg.png"
@@ -2126,6 +2216,7 @@
     "name": "Lettland",
     "longName": "Republik Lettland",
     "capital": "Riga",
+    "population": 2000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/720px-Flag_of_Latvia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1200px-Flag_of_Latvia.svg.png"
@@ -2150,6 +2241,7 @@
     "name": "Libanon",
     "longName": "Libanesische Republik",
     "capital": "Beirut",
+    "population": 6200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/720px-Flag_of_Lebanon.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/1200px-Flag_of_Lebanon.svg.png"
@@ -2173,6 +2265,7 @@
     "name": "Liberia",
     "longName": "Republik Liberia",
     "capital": "Monrovia",
+    "population": 4500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/720px-Flag_of_Liberia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1200px-Flag_of_Liberia.svg.png"
@@ -2196,6 +2289,7 @@
     "name": "Libyen",
     "longName": "Libyen",
     "capital": "Tripolis",
+    "population": 6300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/720px-Flag_of_Libya.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1200px-Flag_of_Libya.svg.png"
@@ -2222,6 +2316,7 @@
     "name": "Liechtenstein",
     "longName": "Fürstentum Liechtenstein",
     "capital": "Vaduz",
+    "population": 37100,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/720px-Flag_of_Liechtenstein.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1200px-Flag_of_Liechtenstein.svg.png"
@@ -2244,6 +2339,7 @@
     "name": "Litauen",
     "longName": "Republik Litauen",
     "capital": "Vilnius",
+    "population": 2900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/720px-Flag_of_Lithuania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png"
@@ -2268,6 +2364,7 @@
     "name": "Luxemburg",
     "longName": "Großherzogtum Luxemburg",
     "capital": "Luxemburg",
+    "population": 600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/720px-Flag_of_Luxembourg.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1200px-Flag_of_Luxembourg.svg.png"
@@ -2293,6 +2390,7 @@
     "name": "Madagaskar",
     "longName": "Republik Madagaskar",
     "capital": "Antananarivo",
+    "population": 23000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/720px-Flag_of_Madagascar.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1200px-Flag_of_Madagascar.svg.png"
@@ -2313,6 +2411,7 @@
     "name": "Malawi",
     "longName": "Republik Malawi",
     "capital": "Lilongwe",
+    "population": 17200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/720px-Flag_of_Malawi.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1200px-Flag_of_Malawi.svg.png"
@@ -2337,6 +2436,7 @@
     "name": "Malaysia",
     "longName": "Malaysia",
     "capital": "Kuala Lumpur",
+    "population": 30800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/720px-Flag_of_Malaysia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1200px-Flag_of_Malaysia.svg.png"
@@ -2358,6 +2458,7 @@
     "name": "Malediven",
     "longName": "Republik Malediven",
     "capital": "Malé",
+    "population": 300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/720px-Flag_of_Maldives.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/1200px-Flag_of_Maldives.svg.png"
@@ -2377,6 +2478,7 @@
     "name": "Mali",
     "longName": "Republik Mali",
     "capital": "Bamako",
+    "population": 16700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/720px-Flag_of_Mali.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1200px-Flag_of_Mali.svg.png"
@@ -2404,6 +2506,7 @@
     "name": "Malta",
     "longName": "Republik Malta",
     "capital": "Valletta",
+    "population": 413000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/720px-Flag_of_Malta.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1200px-Flag_of_Malta.svg.png"
@@ -2424,6 +2527,7 @@
     "name": "Marokko",
     "longName": "Königreich Marokko",
     "capital": "Rabat",
+    "population": 34100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/720px-Flag_of_Morocco.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1200px-Flag_of_Morocco.svg.png"
@@ -2447,6 +2551,7 @@
     "name": "Marshallinseln",
     "longName": "Republik Marshallinseln",
     "capital": "Majuro",
+    "population": 60000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/720px-Flag_of_the_Marshall_Islands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1200px-Flag_of_the_Marshall_Islands.svg.png"
@@ -2467,6 +2572,7 @@
     "name": "Mauretanien",
     "longName": "Islamische Republik Mauretanien",
     "capital": "Nouakchott",
+    "population": 3600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/720px-Flag_of_Mauritania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/1200px-Flag_of_Mauritania.svg.png"
@@ -2491,6 +2597,7 @@
     "name": "Mauritius",
     "longName": "Republik Mauritius",
     "capital": "Port Louis",
+    "population": 1300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/720px-Flag_of_Mauritius.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1200px-Flag_of_Mauritius.svg.png"
@@ -2510,6 +2617,7 @@
     "name": "Mazedonien",
     "longName": "Ehemalige jugoslawische Republik Mazedonien",
     "capital": "Skopje",
+    "population": 2100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/720px-Flag_of_Macedonia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/1200px-Flag_of_Macedonia.svg.png"
@@ -2535,6 +2643,7 @@
     "name": "Mexiko",
     "longName": "Vereinigte Mexikanische Staaten",
     "capital": "Mexiko-Stadt",
+    "population": 127000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/720px-Flag_of_Mexico.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png"
@@ -2558,6 +2667,7 @@
     "name": "Mikronesien",
     "longName": "Föderierte Staaten von Mikronesien",
     "capital": "Palikir",
+    "population": 107000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/720px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1200px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
@@ -2577,6 +2687,7 @@
     "name": "Moldawien",
     "longName": "Republik Moldau",
     "capital": "Chișinău",
+    "population": 4100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/720px-Flag_of_Moldova.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1200px-Flag_of_Moldova.svg.png"
@@ -2599,6 +2710,7 @@
     "name": "Monaco",
     "longName": "Fürstentum Monaco",
     "capital": "Stadtstaat",
+    "population": 37800,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/720px-Flag_of_Monaco.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/1200px-Flag_of_Monaco.svg.png"
@@ -2620,6 +2732,7 @@
     "name": "Mongolei",
     "longName": "Mongolei",
     "capital": "Ulaanbaatar",
+    "population": 3000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/720px-Flag_of_Mongolia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1200px-Flag_of_Mongolia.svg.png"
@@ -2642,6 +2755,7 @@
     "name": "Mosambik",
     "longName": "Republik Mosambik",
     "capital": "Maputo",
+    "population": 25700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/720px-Flag_of_Mozambique.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/1200px-Flag_of_Mozambique.svg.png"
@@ -2668,6 +2782,7 @@
     "name": "Namibia",
     "longName": "Republik Namibia",
     "capital": "Windhoek",
+    "population": 2500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/720px-Flag_of_Namibia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png"
@@ -2694,6 +2809,7 @@
     "name": "Nauru",
     "longName": "Republik Nauru",
     "capital": "Yaren",
+    "population": 10000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/720px-Flag_of_Nauru.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/1200px-Flag_of_Nauru.svg.png"
@@ -2714,6 +2830,7 @@
     "name": "Nepal",
     "longName": "Demokratische Bundesrepublik Nepal",
     "capital": "Kathmandu",
+    "population": 28000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nepal_%28with_spacing%29.svg/720px-Flag_of_Nepal_%28with_spacing%29.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nepal_%28with_spacing%29.svg/1200px-Flag_of_Nepal_%28with_spacing%29.svg.png"
@@ -2736,6 +2853,7 @@
     "name": "Neuseeland",
     "longName": "Neuseeland",
     "capital": "Wellington",
+    "population": 4600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/720px-Flag_of_New_Zealand.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1200px-Flag_of_New_Zealand.svg.png"
@@ -2756,6 +2874,7 @@
     "name": "Nicaragua",
     "longName": "Republik Nicaragua",
     "capital": "Managua",
+    "population": 6300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/720px-Flag_of_Nicaragua.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/1200px-Flag_of_Nicaragua.svg.png"
@@ -2778,6 +2897,7 @@
     "name": "Niederlande",
     "longName": "Königreich der Niederlande",
     "capital": "Amsterdam",
+    "population": 16900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/720px-Flag_of_the_Netherlands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
@@ -2800,6 +2920,7 @@
     "name": "Niger",
     "longName": "Republik Niger",
     "capital": "Niamey",
+    "population": 18900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/720px-Flag_of_Niger.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1200px-Flag_of_Niger.svg.png"
@@ -2827,6 +2948,7 @@
     "name": "Nigeria",
     "longName": "Bundesrepublik Nigeria",
     "capital": "Abuja",
+    "population": 181800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/720px-Flag_of_Nigeria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png"
@@ -2851,6 +2973,7 @@
     "name": "Niue",
     "longName": "Niue",
     "capital": "Alofi",
+    "population": 1229,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/720px-Flag_of_Niue.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/1200px-Flag_of_Niue.svg.png"
@@ -2870,6 +2993,7 @@
     "name": "Norwegen",
     "longName": "Königreich Norwegen",
     "capital": "Oslo",
+    "population": 5200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/720px-Flag_of_Norway.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png"
@@ -2895,6 +3019,7 @@
     "name": "Oman",
     "longName": "Sultanat Oman",
     "capital": "Maskat",
+    "population": 4200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/720px-Flag_of_Oman.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1200px-Flag_of_Oman.svg.png"
@@ -2918,6 +3043,7 @@
     "name": "Österreich",
     "longName": "Republik Österreich",
     "capital": "Wien",
+    "population": 8600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/720px-Flag_of_Austria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png"
@@ -2946,6 +3072,7 @@
     "name": "Osttimor / Timor-Leste",
     "longName": "Demokratische Republik Timor-Leste",
     "capital": "Dili",
+    "population": 1200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/720px-Flag_of_East_Timor.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1200px-Flag_of_East_Timor.svg.png"
@@ -2967,6 +3094,7 @@
     "name": "Pakistan",
     "longName": "Islamische Republik Pakistan",
     "capital": "Islamabad",
+    "population": 199000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/720px-Flag_of_Pakistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png"
@@ -2992,6 +3120,7 @@
     "name": "Palau",
     "longName": "Republik Palau",
     "capital": "Ngerulmud",
+    "population": 21000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/720px-Flag_of_Palau.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/1200px-Flag_of_Palau.svg.png"
@@ -3011,6 +3140,7 @@
     "name": "Panama",
     "longName": "Republik Panama",
     "capital": "Panama-Stadt",
+    "population": 4000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/720px-Flag_of_Panama.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png"
@@ -3034,6 +3164,7 @@
     "name": "Papua-Neuguinea",
     "longName": "Unabhängiger Staat Papua-Neuguinea",
     "capital": "Port Moresby",
+    "population": 7700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/720px-Flag_of_Papua_New_Guinea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png"
@@ -3055,6 +3186,7 @@
     "name": "Paraguay",
     "longName": "Republik Paraguay",
     "capital": "Asunción",
+    "population": 7000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/720px-Flag_of_Paraguay.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1200px-Flag_of_Paraguay.svg.png"
@@ -3079,6 +3211,7 @@
     "name": "Peru",
     "longName": "Republik Peru",
     "capital": "Lima",
+    "population": 31200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/720px-Flag_of_Peru.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1200px-Flag_of_Peru.svg.png"
@@ -3104,6 +3237,7 @@
     "name": "Philippinen",
     "longName": "Republik der Philippinen",
     "capital": "Manila",
+    "population": 103000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/720px-Flag_of_the_Philippines.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1200px-Flag_of_the_Philippines.svg.png"
@@ -3123,6 +3257,7 @@
     "name": "Polen",
     "longName": "Republik Polen",
     "capital": "Warschau",
+    "population": 38500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/720px-Flag_of_Poland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1200px-Flag_of_Poland.svg.png"
@@ -3150,6 +3285,7 @@
     "name": "Portugal",
     "longName": "Portugiesische Republik",
     "capital": "Lissabon",
+    "population": 10300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/720px-Flag_of_Portugal.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png"
@@ -3171,6 +3307,7 @@
     "name": "Ruanda",
     "longName": "Republik Ruanda",
     "capital": "Kigali",
+    "population": 11300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/720px-Flag_of_Rwanda.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1200px-Flag_of_Rwanda.svg.png"
@@ -3197,6 +3334,7 @@
     "name": "Rumänien",
     "longName": "Republik Rumänien",
     "capital": "Bukarest",
+    "population": 19800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/720px-Flag_of_Romania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1200px-Flag_of_Romania.svg.png"
@@ -3222,6 +3360,7 @@
     "name": "Russland",
     "longName": "Russische Föderation",
     "capital": "Moskau",
+    "population": 144300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/720px-Flag_of_Russia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"
@@ -3256,6 +3395,7 @@
     "name": "Salomonen",
     "longName": "Salomonen",
     "capital": "Honiara",
+    "population": 600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/720px-Flag_of_the_Solomon_Islands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/1200px-Flag_of_the_Solomon_Islands.svg.png"
@@ -3275,6 +3415,7 @@
     "name": "Sambia",
     "longName": "Republik Sambia",
     "capital": "Lusaka",
+    "population": 15500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/720px-Flag_of_Zambia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1200px-Flag_of_Zambia.svg.png"
@@ -3303,6 +3444,7 @@
     "name": "Samoa",
     "longName": "Unabhängiger Staat Samoa",
     "capital": "Apia",
+    "population": 200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/720px-Flag_of_Samoa.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1200px-Flag_of_Samoa.svg.png"
@@ -3323,6 +3465,7 @@
     "name": "San Marino",
     "longName": "Republik San Marino",
     "capital": "San Marino",
+    "population": 32800,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/720px-Flag_of_San_Marino.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/1200px-Flag_of_San_Marino.svg.png"
@@ -3344,6 +3487,7 @@
     "name": "São Tomé und Príncipe",
     "longName": "Demokratische Republik São Tomé und Príncipe",
     "capital": "São Tomé",
+    "population": 200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/720px-Flag_of_Sao_Tome_and_Principe.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/1200px-Flag_of_Sao_Tome_and_Principe.svg.png"
@@ -3363,6 +3507,7 @@
     "name": "Saudi-Arabien",
     "longName": "Königreich Saudi-Arabien",
     "capital": "Riad",
+    "population": 31600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/720px-Flag_of_Saudi_Arabia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1200px-Flag_of_Saudi_Arabia.svg.png"
@@ -3390,6 +3535,7 @@
     "name": "Schweden",
     "longName": "Königreich Schweden",
     "capital": "Stockholm",
+    "population": 9800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/720px-Flag_of_Sweden.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png"
@@ -3412,6 +3558,7 @@
     "name": "Schweiz",
     "longName": "Schweizerische Eid­genossen­schaft",
     "capital": "Bern",
+    "population": 8300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/720px-Flag_of_Switzerland_within_2to3.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/1200px-Flag_of_Switzerland_within_2to3.svg.png"
@@ -3441,6 +3588,7 @@
     "name": "Senegal",
     "longName": "Republik Senegal",
     "capital": "Dakar",
+    "population": 14700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/720px-Flag_of_Senegal.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1200px-Flag_of_Senegal.svg.png"
@@ -3466,6 +3614,7 @@
     "name": "Seychellen",
     "longName": "Republik Seychellen",
     "capital": "Victoria",
+    "population": 90000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/720px-Flag_of_Seychelles.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1200px-Flag_of_Seychelles.svg.png"
@@ -3486,6 +3635,7 @@
     "name": "Sierra Leone",
     "longName": "Republik Sierra Leone",
     "capital": "Freetown",
+    "population": 6500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/720px-Flag_of_Sierra_Leone.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1200px-Flag_of_Sierra_Leone.svg.png"
@@ -3508,6 +3658,7 @@
     "name": "Simbabwe",
     "longName": "Republik Simbabwe",
     "capital": "Harare",
+    "population": 17400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/720px-Flag_of_Zimbabwe.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1200px-Flag_of_Zimbabwe.svg.png"
@@ -3534,6 +3685,7 @@
     "name": "Singapur",
     "longName": "Republik Singapur",
     "capital": "Stadtstaat",
+    "population": 5500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/720px-Flag_of_Singapore.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png"
@@ -3556,6 +3708,7 @@
     "name": "Slowakei",
     "longName": "Slowakische Republik",
     "capital": "Bratislava",
+    "population": 5400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/720px-Flag_of_Slovakia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png"
@@ -3581,6 +3734,7 @@
     "name": "Slowenien",
     "longName": "Republik Slowenien",
     "capital": "Ljubljana",
+    "population": 2100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/720px-Flag_of_Slovenia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1200px-Flag_of_Slovenia.svg.png"
@@ -3605,6 +3759,7 @@
     "name": "Somalia",
     "longName": "Bundesrepublik Somalia",
     "capital": "Mogadischu",
+    "population": 11100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/720px-Flag_of_Somalia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1200px-Flag_of_Somalia.svg.png"
@@ -3629,6 +3784,7 @@
     "name": "Spanien",
     "longName": "Königreich Spanien",
     "capital": "Madrid",
+    "population": 46400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/720px-Flag_of_Spain.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
@@ -3654,6 +3810,7 @@
     "name": "Sri Lanka",
     "longName": "Demokratische Sozialistische Republik Sri Lanka",
     "capital": "Colombo",
+    "population": 20900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/720px-Flag_of_Sri_Lanka.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png"
@@ -3676,6 +3833,7 @@
     "name": "St. Kitts und Nevis",
     "longName": "Föderation St. Kitts und Nevis",
     "capital": "Basseterre",
+    "population": 50000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/720px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1200px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
@@ -3695,6 +3853,7 @@
     "name": "St. Lucia",
     "longName": "St. Lucia",
     "capital": "Castries",
+    "population": 200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/720px-Flag_of_Saint_Lucia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/1200px-Flag_of_Saint_Lucia.svg.png"
@@ -3714,6 +3873,7 @@
     "name": "St. Vincent und die Grenadinen",
     "longName": "St. Vincent und die Grenadinen",
     "capital": "Kingstown",
+    "population": 104000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/720px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1200px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
@@ -3733,6 +3893,7 @@
     "name": "Südafrika",
     "longName": "Republik Südafrika",
     "capital": "Pretoria",
+    "population": 55000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/720px-Flag_of_South_Africa.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png"
@@ -3768,6 +3929,7 @@
     "name": "Sudan",
     "longName": "Republik Sudan",
     "capital": "Khartum",
+    "population": 40900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/720px-Flag_of_Sudan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1200px-Flag_of_Sudan.svg.png"
@@ -3796,6 +3958,7 @@
     "name": "Südsudan",
     "longName": "Republik Südsudan",
     "capital": "Juba",
+    "population": 12200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/720px-Flag_of_South_Sudan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/1200px-Flag_of_South_Sudan.svg.png"
@@ -3822,6 +3985,7 @@
     "name": "Suriname",
     "longName": "Republik Suriname",
     "capital": "Paramaribo",
+    "population": 600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/720px-Flag_of_Suriname.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1200px-Flag_of_Suriname.svg.png"
@@ -3846,6 +4010,7 @@
     "name": "Swasiland",
     "longName": "Königreich Swasiland",
     "capital": "Mbabane",
+    "population": 1300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/720px-Flag_of_Swaziland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/1200px-Flag_of_Swaziland.svg.png"
@@ -3869,6 +4034,7 @@
     "name": "Syrien",
     "longName": "Arabische Republik Syrien",
     "capital": "Damaskus",
+    "population": 17100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/720px-Flag_of_Syria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1200px-Flag_of_Syria.svg.png"
@@ -3894,6 +4060,7 @@
     "name": "Tadschikistan",
     "longName": "Republik Tadschikistan",
     "capital": "Duschanbe",
+    "population": 8500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/720px-Flag_of_Tajikistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1200px-Flag_of_Tajikistan.svg.png"
@@ -3919,6 +4086,7 @@
     "name": "Tansania",
     "longName": "Vereinigte Republik Tansania",
     "capital": "Dodoma",
+    "population": 52300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/720px-Flag_of_Tanzania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1200px-Flag_of_Tanzania.svg.png"
@@ -3948,6 +4116,7 @@
     "name": "Thailand",
     "longName": "Königreich Thailand",
     "capital": "Bangkok",
+    "population": 65100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/720px-Flag_of_Thailand.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png"
@@ -3972,6 +4141,7 @@
     "name": "Togo",
     "longName": "Republik Togo",
     "capital": "Lomé",
+    "population": 7200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/720px-Flag_of_Togo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1200px-Flag_of_Togo.svg.png"
@@ -3995,6 +4165,7 @@
     "name": "Tonga",
     "longName": "Königreich Tonga",
     "capital": "Nukuʻalofa",
+    "population": 123000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/720px-Flag_of_Tonga.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/1200px-Flag_of_Tonga.svg.png"
@@ -4015,6 +4186,7 @@
     "name": "Trinidad und Tobago",
     "longName": "Republik Trinidad und Tobago",
     "capital": "Port of Spain",
+    "population": 1400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/720px-Flag_of_Trinidad_and_Tobago.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1200px-Flag_of_Trinidad_and_Tobago.svg.png"
@@ -4034,6 +4206,7 @@
     "name": "Tschad",
     "longName": "Republik Tschad",
     "capital": "N’Djamena",
+    "population": 13700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/720px-Flag_of_Chad.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1200px-Flag_of_Chad.svg.png"
@@ -4061,6 +4234,7 @@
     "name": "Tschechien",
     "longName": "Tschechische Republik",
     "capital": "Prag",
+    "population": 10600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/720px-Flag_of_the_Czech_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1200px-Flag_of_the_Czech_Republic.svg.png"
@@ -4086,6 +4260,7 @@
     "name": "Tunesien",
     "longName": "Tunesische Republik",
     "capital": "Tunis",
+    "population": 11000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/720px-Flag_of_Tunisia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png"
@@ -4108,6 +4283,7 @@
     "name": "Türkei",
     "longName": "Republik Türkei",
     "capital": "Ankara",
+    "population": 78200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/720px-Flag_of_Turkey.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png"
@@ -4136,6 +4312,7 @@
     "name": "Turkmenistan",
     "longName": "Turkmenistan",
     "capital": "Aschgabad",
+    "population": 5400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/720px-Flag_of_Turkmenistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1200px-Flag_of_Turkmenistan.svg.png"
@@ -4161,6 +4338,7 @@
     "name": "Tuvalu",
     "longName": "Tuvalu",
     "capital": "Funafuti",
+    "population": 10000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/720px-Flag_of_Tuvalu.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/1200px-Flag_of_Tuvalu.svg.png"
@@ -4180,6 +4358,7 @@
     "name": "Uganda",
     "longName": "Republik Uganda",
     "capital": "Kampala",
+    "population": 40100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/720px-Flag_of_Uganda.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1200px-Flag_of_Uganda.svg.png"
@@ -4206,6 +4385,7 @@
     "name": "Ukraine",
     "longName": "Ukraine",
     "capital": "Kiew",
+    "population": 42800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/720px-Flag_of_Ukraine.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1200px-Flag_of_Ukraine.svg.png"
@@ -4233,6 +4413,7 @@
     "name": "Ungarn",
     "longName": "Ungarn",
     "capital": "Budapest",
+    "population": 9800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/720px-Flag_of_Hungary.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1200px-Flag_of_Hungary.svg.png"
@@ -4260,6 +4441,7 @@
     "name": "Uruguay",
     "longName": "Republik Östlich des Uruguay",
     "capital": "Montevideo",
+    "population": 3600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/720px-Flag_of_Uruguay.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
@@ -4283,6 +4465,7 @@
     "name": "Usbekistan",
     "longName": "Republik Usbekistan",
     "capital": "Taschkent",
+    "population": 31300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/720px-Flag_of_Uzbekistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1200px-Flag_of_Uzbekistan.svg.png"
@@ -4309,6 +4492,7 @@
     "name": "Vanuatu",
     "longName": "Republik Vanuatu",
     "capital": "Port Vila",
+    "population": 300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/720px-Flag_of_Vanuatu.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/1200px-Flag_of_Vanuatu.svg.png"
@@ -4330,6 +4514,7 @@
     "name": "Venezuela",
     "longName": "Bolivarische Republik Venezuela",
     "capital": "Caracas",
+    "population": 30600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/720px-Flag_of_Venezuela.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1200px-Flag_of_Venezuela.svg.png"
@@ -4353,6 +4538,7 @@
     "name": "Vereinigte Arabische Emirate",
     "longName": "Vereinigte Arabische Emirate",
     "capital": "Abu Dhabi",
+    "population": 9600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/720px-Flag_of_the_United_Arab_Emirates.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1200px-Flag_of_the_United_Arab_Emirates.svg.png"
@@ -4375,6 +4561,7 @@
     "name": "USA",
     "longName": "Vereinigte Staaten von Amerika",
     "capital": "Washington, D.C.",
+    "population": 321200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/720px-Flag_of_the_United_States.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"
@@ -4399,6 +4586,7 @@
     "name": "England",
     "longName": "Vereinigtes Königreich Großbritannien und Nordirland",
     "capital": "London",
+    "population": 65100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/720px-Flag_of_the_United_Kingdom.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
@@ -4420,6 +4608,7 @@
     "name": "Vietnam",
     "longName": "Sozialistische Republik Vietnam",
     "capital": "Hanoi",
+    "population": 91700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/720px-Flag_of_Vietnam.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png"
@@ -4443,6 +4632,7 @@
     "name": "Weißrussland",
     "longName": "Republik Belarus",
     "capital": "Minsk",
+    "population": 9500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/720px-Flag_of_Belarus.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1200px-Flag_of_Belarus.svg.png"
@@ -4469,6 +4659,7 @@
     "name": "Westsahara",
     "longName": "Demokratische Arabische Republik Sahara",
     "capital": "El Aaiún",
+    "population": 600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/720px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/1200px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
@@ -4494,6 +4685,7 @@
     "name": "Zentral­afrikanische Republik",
     "longName": "Zentral­afrikanische Republik",
     "capital": "Bangui",
+    "population": 5600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/720px-Flag_of_the_Central_African_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png"
@@ -4521,6 +4713,7 @@
     "name": "Zypern",
     "longName": "Republik Zypern",
     "capital": "Nikosia",
+    "population": 1200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/720px-Flag_of_Cyprus.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1200px-Flag_of_Cyprus.svg.png"
