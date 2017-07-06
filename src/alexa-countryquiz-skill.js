@@ -70,10 +70,37 @@ export default class AlexaCountryQuizSkill {
     return attributes;
   }
 
+  _getCapitalQuestion() {
+    let country = this._getNextCountry();
+
+    return {
+      type: 'capital',
+      iso: country.iso3,
+      country: country.name,
+      question: `Zu welchem Land gehört die Hauptstadt ${country.capital}?`,
+      try: 0
+    };
+  }
+
+  _handleCapitalQuestion(answer, attributes) {
+    const expectedAnswer = countries.getByIso3(attributes.iso).name;
+    console.log(`Answer: "${answer}", Expected answer: "${expectedAnswer}"`);
+    if (answer && answer.toUpperCase() === expectedAnswer.toUpperCase()) {
+      return {
+        success: true
+      };
+    }
+
+    attributes.success = false;
+    attributes.try++;
+    return attributes;
+  }
+
   _getQuestion() {
     const list = [
       this._getContinentQuestion,
-      this._getNeighbourQuestion
+      this._getNeighbourQuestion,
+      this._getCapitalQuestion
     ];
 
     return this._getRandomEntry(list).call(this);
@@ -86,7 +113,8 @@ export default class AlexaCountryQuizSkill {
 
     const handlers = {
       neighbour: this._handleNeighbourQuestion,
-      continent: this._handleContinentQuestion
+      continent: this._handleContinentQuestion,
+      capital: this._handleCapitalQuestion
     };
 
     const result = handlers[session.attributes.type](answer, session.attributes);
