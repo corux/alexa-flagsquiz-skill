@@ -199,7 +199,7 @@ export default class AlexaCountryQuizSkill {
   skipIntent({}, { session }) {
     const data = this._getQuestion();
     data.wrongQuestions = session.attributes.wrongQuestions + 1;
-    return ask(`Hier ist die nächste Frage: ${data.question}`)
+    return ask(data.question)
       .reprompt(data.question)
       .attributes(data);
   }
