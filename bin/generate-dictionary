@@ -18,7 +18,6 @@ let { destination } = nomnom
   .parse();
 
 const all = countries.getAll();
-const dictionaryFile = path.join(process.cwd(), destination, 'dictionary.json');
 const dictionary = {
   COUNTRY: all.map(country => country.name)
     .filter(value => !!value),
@@ -27,6 +26,7 @@ const dictionary = {
   CONTINENT: [...new Set(all.map(country => country.region))]
 };
 
+const dictionaryFile = path.join(process.cwd(), destination, 'dictionary.json');
 fs.writeFile(dictionaryFile, JSON.stringify(dictionary, null, 2), 'utf8', (err) => {
   if (err) {
     process.exit(1);

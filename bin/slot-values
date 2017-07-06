@@ -1,0 +1,31 @@
+#!/usr/bin/env babel-node
+
+import fs from 'fs';
+import request from 'request';
+import path from 'path';
+import nomnom from 'nomnom';
+import process from 'process';
+import dictionary from '../model/dictionary.json'
+
+const exists = (filename) => fs.existsSync(filename)
+  ? undefined
+  : `${filename} does not exist`;
+
+let { destination } = nomnom
+  .script('generate-dictionary')
+  .option('destination', { required: true, callback: exists })
+  .parse();
+
+const continentFile = path.join(process.cwd(), destination, 'CONTINENT');
+fs.writeFile(continentFile, dictionary.CONTINENT.join('\n'), 'utf8', (err) => {
+  if (err) {
+    process.exit(1);
+  }
+});
+
+const countryFile = path.join(process.cwd(), destination, 'COUNTRY');
+fs.writeFile(countryFile, dictionary.COUNTRY.join('\n'), 'utf8', (err) => {
+  if (err) {
+    process.exit(1);
+  }
+});
