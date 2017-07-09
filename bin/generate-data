@@ -31,6 +31,14 @@ function fixCountryName(name) {
   return fixedNames[name] || name;
 }
 
+function fixCapitalName(name) {
+  if (name.toLowerCase() === "stadtstaat") {
+    return;
+  }
+
+  return name;
+}
+
 request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, response, body) => {
   // parse wikipedia table
   var $ = cheerio.load(body);
@@ -49,7 +57,7 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
     return {
       name: fixCountryName(get(0)),
       longName: get(1),
-      capital: get(2),
+      capital: fixCapitalName(get(2)),
       population: toNumber(get(3)),
       //area: toNumber(get(4)),
       //populationPerSquareKm: toNumber(get(5)),

@@ -2709,7 +2709,6 @@
   {
     "name": "Monaco",
     "longName": "Fürstentum Monaco",
-    "capital": "Stadtstaat",
     "population": 37800,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/720px-Flag_of_Monaco.svg.png",
@@ -3684,7 +3683,6 @@
   {
     "name": "Singapur",
     "longName": "Republik Singapur",
-    "capital": "Stadtstaat",
     "population": 5500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/720px-Flag_of_Singapore.svg.png",
