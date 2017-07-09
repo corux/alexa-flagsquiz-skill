@@ -12,7 +12,11 @@ export default class AlexaCountryQuizSkill {
   }
 
   _getContinentQuestion() {
-    const country = this._getNextCountry();
+    let country;
+    do {
+      country = this._getNextCountry();
+    } while(!country.region);
+
     return {
       type: 'continent',
       iso: country.iso3,
@@ -40,7 +44,7 @@ export default class AlexaCountryQuizSkill {
     let country;
     do {
       country = this._getNextCountry();
-    } while(country.borders.length === 0);
+    } while(country.borders && country.borders.length === 0);
 
     return {
       type: 'neighbour',
@@ -75,7 +79,7 @@ export default class AlexaCountryQuizSkill {
     let country;
     do {
       country = this._getNextCountry();
-    } while(country.region.toLowerCase() !== 'europa' && country.population < 30000000);
+    } while((!country.region || country.region.toLowerCase() !== 'europa') && country.population < 30000000);
 
     return {
       type: 'capital',

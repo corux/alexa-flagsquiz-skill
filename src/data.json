@@ -1,5 +1,17 @@
 [
   {
+    "name": "Abchasien",
+    "longName": "Republik Abchasien",
+    "capital": "Sochumi",
+    "population": 240000,
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Abkhazia.svg/720px-Flag_of_Abkhazia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Abkhazia.svg/1200px-Flag_of_Abkhazia.svg.png"
+    },
+    "iso3": "ABC",
+    "iso2": false
+  },
+  {
     "name": "Afghanistan",
     "longName": "Islamische Republik Afghanistan",
     "capital": "Kabul",
@@ -104,6 +116,18 @@
       "MLI",
       "MAR"
     ]
+  },
+  {
+    "name": "Andorra",
+    "longName": "Fürstentum Andorra",
+    "capital": "Andorra la Vella",
+    "population": 85000,
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/720px-Flag_of_Andorra.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png"
+    },
+    "iso3": "AND",
+    "iso2": "AD"
   },
   {
     "name": "Angola",
@@ -2093,6 +2117,18 @@
     ]
   },
   {
+    "name": "Kosovo",
+    "longName": "Republik Kosovo",
+    "capital": "Pristina",
+    "population": 1800000,
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/720px-Flag_of_Kosovo.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png"
+    },
+    "iso3": "RKS",
+    "iso2": false
+  },
+  {
     "name": "Kroatien",
     "longName": "Republik Kroatien",
     "capital": "Zagreb",
@@ -2751,6 +2787,18 @@
     ]
   },
   {
+    "name": "Montenegro",
+    "longName": "Montenegro",
+    "capital": "Podgorica",
+    "population": 600000,
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/720px-Flag_of_Montenegro.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1200px-Flag_of_Montenegro.svg.png"
+    },
+    "iso3": "MNE",
+    "iso2": "ME"
+  },
+  {
     "name": "Mosambik",
     "longName": "Republik Mosambik",
     "capital": "Maputo",
@@ -2776,6 +2824,18 @@
       "ZMB",
       "ZWE"
     ]
+  },
+  {
+    "name": "Myanmar",
+    "longName": "Republik der Union Myanmar",
+    "capital": "Naypyidaw",
+    "population": 52100000,
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/720px-Flag_of_Myanmar.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png"
+    },
+    "iso3": "MMR",
+    "iso2": "MM"
   },
   {
     "name": "Namibia",
@@ -3114,6 +3174,18 @@
       "IND",
       "IRN"
     ]
+  },
+  {
+    "name": "Palästina",
+    "longName": "–",
+    "capital": "Gaza und Ramallah",
+    "population": 4500000,
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/720px-Flag_of_Palestine.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1200px-Flag_of_Palestine.svg.png"
+    },
+    "iso3": "PSE",
+    "iso2": "PS"
   },
   {
     "name": "Palau",
@@ -3610,6 +3682,18 @@
     ]
   },
   {
+    "name": "Serbien",
+    "longName": "Republik Serbien",
+    "capital": "Belgrad",
+    "population": 7100000,
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/720px-Flag_of_Serbia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png"
+    },
+    "iso3": "SRB",
+    "iso2": "RS"
+  },
+  {
     "name": "Seychellen",
     "longName": "Republik Seychellen",
     "capital": "Victoria",
@@ -3951,6 +4035,18 @@
       "LBY",
       "SSD"
     ]
+  },
+  {
+    "name": "Südossetien",
+    "longName": "Südossetien",
+    "capital": "Zchinwali",
+    "population": 51000,
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/720px-Flag_of_South_Ossetia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1200px-Flag_of_South_Ossetia.svg.png"
+    },
+    "iso3": "SOS",
+    "iso2": false
   },
   {
     "name": "Südsudan",
@@ -4507,6 +4603,17 @@
       "VUV"
     ],
     "borders": []
+  },
+  {
+    "name": "Vatikanstadt",
+    "longName": "Staat Vatikanstadt",
+    "population": 829,
+    "flag": {
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/720px-Flag_of_the_Vatican_City.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/1200px-Flag_of_the_Vatican_City.svg.png"
+    },
+    "iso3": "VAT",
+    "iso2": "VA"
   },
   {
     "name": "Venezuela",

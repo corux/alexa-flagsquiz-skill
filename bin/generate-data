@@ -85,7 +85,7 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
   }
 
   // filter out countries without enough information
-  data = data.filter(val => val.region);
+  data = data.filter(val => val.iso3);
 
   // write data.json file
   writeFile(data);
