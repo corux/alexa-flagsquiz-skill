@@ -11,6 +11,23 @@ export default class AlexaCountryQuizSkill {
     return array[Math.floor(Math.random() * array.length)];
   }
 
+  _getQuestion() {
+    const list = [
+      {fn: this._getContinentQuestion, probability: 0.4},
+      {fn: this._getNeighbourQuestion, probability: 0.4},
+      {fn: this._getCapitalQuestion, probability: 0.2}
+    ];
+
+    const random = Math.random();
+    let threshold = 0;
+    for (let i = 0; i < list.length; i++) {
+      threshold += list[i].probability;
+      if (threshold >= random) {
+        return list[i].fn.call(this);
+      }
+    }
+  }
+
   _getContinentQuestion() {
     let country;
     do {
@@ -102,16 +119,6 @@ export default class AlexaCountryQuizSkill {
     attributes.success = false;
     attributes.try++;
     return attributes;
-  }
-
-  _getQuestion() {
-    const list = [
-      this._getContinentQuestion,
-      this._getNeighbourQuestion,
-      this._getCapitalQuestion
-    ];
-
-    return this._getRandomEntry(list).call(this);
   }
 
   _handleAnswer(answer, session) {
