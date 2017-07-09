@@ -71,11 +71,11 @@ export default class AlexaCountryQuizSkill {
   }
 
   _getCapitalQuestion() {
-    // limit the capital questionn to countries with a population > 10.000.000
+    // limit the capital question to countries from europe or countries with a population > 30.000.000
     let country;
     do {
       country = this._getNextCountry();
-    } while(country.population < 10000000);
+    } while(country.region.toLowerCase() !== 'europa' && country.population < 30000000);
 
     return {
       type: 'capital',
