@@ -56,11 +56,23 @@ test('Continent answer', async () => {
   expect(response.response.outputSpeech.text).to.contain('Das war richtig!');
 });
 
-test('Country answer', async () => {
+test('Neighbour answer', async () => {
   const event = Request.intent('CountryIntent', { country: 'belgien' }).session({
     attributes: {
       iso: 'DEU',
       type: 'neighbour'
+    }
+  }).build();
+
+  const response = await Skill(event);
+  expect(response.response.outputSpeech.text).to.contain('Das war richtig!');
+});
+
+test('Capital answer', async () => {
+  const event = Request.intent('CountryIntent', { country: 'deutschland' }).session({
+    attributes: {
+      iso: 'DEU',
+      type: 'capital'
     }
   }).build();
 
