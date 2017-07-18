@@ -2,6 +2,7 @@
   {
     "name": "Abchasien",
     "longName": "Republik Abchasien",
+    "altNames": [],
     "capital": "Sochumi",
     "population": 240000,
     "flag": {
@@ -14,6 +15,7 @@
   {
     "name": "Afghanistan",
     "longName": "Islamische Republik Afghanistan",
+    "altNames": [],
     "capital": "Kabul",
     "population": 32200000,
     "flag": {
@@ -43,6 +45,7 @@
   {
     "name": "Ägypten",
     "longName": "Arabische Republik Ägypten",
+    "altNames": [],
     "capital": "Kairo",
     "population": 89100000,
     "flag": {
@@ -67,6 +70,7 @@
   {
     "name": "Albanien",
     "longName": "Republik Albanien",
+    "altNames": [],
     "capital": "Tirana",
     "population": 2900000,
     "flag": {
@@ -92,6 +96,7 @@
   {
     "name": "Algerien",
     "longName": "Demokratische Volksrepublik Algerien",
+    "altNames": [],
     "capital": "Algier",
     "population": 37400000,
     "flag": {
@@ -120,6 +125,7 @@
   {
     "name": "Andorra",
     "longName": "Fürstentum Andorra",
+    "altNames": [],
     "capital": "Andorra la Vella",
     "population": 85000,
     "flag": {
@@ -132,6 +138,7 @@
   {
     "name": "Angola",
     "longName": "Republik Angola",
+    "altNames": [],
     "capital": "Luanda",
     "population": 25000000,
     "flag": {
@@ -157,6 +164,7 @@
   {
     "name": "Antigua und Barbuda",
     "longName": "Antigua und Barbuda",
+    "altNames": [],
     "capital": "Saint John’s",
     "population": 87000,
     "flag": {
@@ -177,6 +185,7 @@
   {
     "name": "Äquatorialguinea",
     "longName": "Republik Äquatorial­guinea",
+    "altNames": [],
     "capital": "Malabo",
     "population": 800000,
     "flag": {
@@ -201,6 +210,7 @@
   {
     "name": "Argentinien",
     "longName": "Argentinische Republik",
+    "altNames": [],
     "capital": "Buenos Aires",
     "population": 42400000,
     "flag": {
@@ -228,6 +238,7 @@
   {
     "name": "Armenien",
     "longName": "Republik Armenien",
+    "altNames": [],
     "capital": "Jerewan",
     "population": 3000000,
     "flag": {
@@ -254,6 +265,7 @@
   {
     "name": "Aserbaidschan",
     "longName": "Republik Aserbaidschan",
+    "altNames": [],
     "capital": "Baku",
     "population": 9700000,
     "flag": {
@@ -281,6 +293,7 @@
   {
     "name": "Äthiopien",
     "longName": "Demokratische Bundesrepublik Äthiopien",
+    "altNames": [],
     "capital": "Addis Abeba",
     "population": 98100000,
     "flag": {
@@ -308,6 +321,7 @@
   {
     "name": "Australien",
     "longName": "Australien",
+    "altNames": [],
     "capital": "Canberra",
     "population": 23900000,
     "flag": {
@@ -328,6 +342,7 @@
   {
     "name": "Bahamas",
     "longName": "Commonwealth der Bahamas",
+    "altNames": [],
     "capital": "Nassau",
     "population": 400000,
     "flag": {
@@ -348,6 +363,7 @@
   {
     "name": "Bahrain",
     "longName": "Königreich Bahrain",
+    "altNames": [],
     "capital": "Manama",
     "population": 1400000,
     "flag": {
@@ -368,6 +384,7 @@
   {
     "name": "Bangladesch",
     "longName": "Volksrepublik Bangladesch",
+    "altNames": [],
     "capital": "Dhaka",
     "population": 160400000,
     "flag": {
@@ -391,6 +408,7 @@
   {
     "name": "Barbados",
     "longName": "Barbados",
+    "altNames": [],
     "capital": "Bridgetown",
     "population": 300000,
     "flag": {
@@ -411,6 +429,7 @@
   {
     "name": "Belgien",
     "longName": "Königreich Belgien",
+    "altNames": [],
     "capital": "Brüssel",
     "population": 11200000,
     "flag": {
@@ -438,6 +457,7 @@
   {
     "name": "Belize",
     "longName": "Belize",
+    "altNames": [],
     "capital": "Belmopan",
     "population": 400000,
     "flag": {
@@ -462,6 +482,7 @@
   {
     "name": "Benin",
     "longName": "Republik Benin",
+    "altNames": [],
     "capital": "Porto-Novo",
     "population": 10600000,
     "flag": {
@@ -487,6 +508,7 @@
   {
     "name": "Bhutan",
     "longName": "Königreich Bhutan",
+    "altNames": [],
     "capital": "Thimphu",
     "population": 800000,
     "flag": {
@@ -511,6 +533,7 @@
   {
     "name": "Bolivien",
     "longName": "Plurinationaler Staat Bolivien",
+    "altNames": [],
     "capital": "Sucre",
     "population": 10500000,
     "flag": {
@@ -540,6 +563,7 @@
   {
     "name": "Bosnien und Herzegowina",
     "longName": "Bosnien und Herzegowina",
+    "altNames": [],
     "capital": "Sarajevo",
     "population": 3700000,
     "flag": {
@@ -566,6 +590,7 @@
   {
     "name": "Botswana",
     "longName": "Republik Botsuana",
+    "altNames": [],
     "capital": "Gaborone",
     "population": 2100000,
     "flag": {
@@ -592,6 +617,7 @@
   {
     "name": "Brasilien",
     "longName": "Föderative Republik Brasilien",
+    "altNames": [],
     "capital": "Brasília",
     "population": 204500000,
     "flag": {
@@ -623,6 +649,7 @@
   {
     "name": "Brunei",
     "longName": "Brunei Darussalam",
+    "altNames": [],
     "capital": "Bandar Seri Begawan",
     "population": 400000,
     "flag": {
@@ -645,6 +672,7 @@
   {
     "name": "Bulgarien",
     "longName": "Republik Bulgarien",
+    "altNames": [],
     "capital": "Sofia",
     "population": 7200000,
     "flag": {
@@ -671,6 +699,7 @@
   {
     "name": "Burkina Faso",
     "longName": "Burkina Faso",
+    "altNames": [],
     "capital": "Ouagadougou",
     "population": 18500000,
     "flag": {
@@ -699,6 +728,7 @@
   {
     "name": "Burundi",
     "longName": "Republik Burundi",
+    "altNames": [],
     "capital": "Bujumbura",
     "population": 10700000,
     "flag": {
@@ -724,6 +754,7 @@
   {
     "name": "Chile",
     "longName": "Republik Chile",
+    "altNames": [],
     "capital": "Santiago de Chile",
     "population": 18000000,
     "flag": {
@@ -749,6 +780,7 @@
   {
     "name": "Republik China",
     "longName": "Republik China (Taiwan)",
+    "altNames": [],
     "capital": "Taipeh",
     "population": 23500000,
     "flag": {
@@ -767,8 +799,11 @@
     "borders": []
   },
   {
-    "name": "China",
+    "name": "Volksrepublik China",
     "longName": "Volksrepublik China",
+    "altNames": [
+      "China"
+    ],
     "capital": "Peking",
     "population": 1380000000,
     "flag": {
@@ -805,6 +840,7 @@
   {
     "name": "Cookinseln",
     "longName": "Cookinseln",
+    "altNames": [],
     "capital": "Avarua",
     "population": 11500,
     "flag": {
@@ -825,6 +861,7 @@
   {
     "name": "Costa Rica",
     "longName": "Republik Costa Rica",
+    "altNames": [],
     "capital": "San José",
     "population": 4800000,
     "flag": {
@@ -848,6 +885,7 @@
   {
     "name": "Dänemark",
     "longName": "Königreich Dänemark",
+    "altNames": [],
     "capital": "Kopenhagen",
     "population": 5659715,
     "flag": {
@@ -870,6 +908,7 @@
   {
     "name": "Deutschland",
     "longName": "Bundesrepublik Deutschland",
+    "altNames": [],
     "capital": "Berlin",
     "population": 81100000,
     "flag": {
@@ -900,6 +939,7 @@
   {
     "name": "Dominica",
     "longName": "Commonwealth Dominica",
+    "altNames": [],
     "capital": "Roseau",
     "population": 73000,
     "flag": {
@@ -920,6 +960,7 @@
   {
     "name": "Dominikanische Republik",
     "longName": "Dominikanische Republik",
+    "altNames": [],
     "capital": "Santo Domingo",
     "population": 10500000,
     "flag": {
@@ -942,6 +983,7 @@
   {
     "name": "Dschibuti",
     "longName": "Republik Dschibuti",
+    "altNames": [],
     "capital": "Dschibuti-Stadt",
     "population": 900000,
     "flag": {
@@ -967,6 +1009,7 @@
   {
     "name": "Ecuador",
     "longName": "Republik Ecuador",
+    "altNames": [],
     "capital": "Quito",
     "population": 16300000,
     "flag": {
@@ -990,6 +1033,7 @@
   {
     "name": "El Salvador",
     "longName": "Republik El Salvador",
+    "altNames": [],
     "capital": "San Salvador",
     "population": 6400000,
     "flag": {
@@ -1014,6 +1058,7 @@
   {
     "name": "Elfenbeinküste",
     "longName": "Republik Côte d’Ivoire",
+    "altNames": [],
     "capital": "Yamoussoukro",
     "population": 23300000,
     "flag": {
@@ -1040,6 +1085,7 @@
   {
     "name": "Eritrea",
     "longName": "Staat Eritrea",
+    "altNames": [],
     "capital": "Asmara",
     "population": 5200000,
     "flag": {
@@ -1066,6 +1112,7 @@
   {
     "name": "Estland",
     "longName": "Republik Estland",
+    "altNames": [],
     "capital": "Tallinn",
     "population": 1300000,
     "flag": {
@@ -1089,6 +1136,7 @@
   {
     "name": "Fidschi",
     "longName": "Republik Fidschi",
+    "altNames": [],
     "capital": "Suva",
     "population": 900000,
     "flag": {
@@ -1112,6 +1160,7 @@
   {
     "name": "Finnland",
     "longName": "Republik Finnland",
+    "altNames": [],
     "capital": "Helsinki",
     "population": 5500000,
     "flag": {
@@ -1137,6 +1186,7 @@
   {
     "name": "Frankreich",
     "longName": "Französische Republik",
+    "altNames": [],
     "capital": "Paris",
     "population": 64300000,
     "flag": {
@@ -1166,6 +1216,7 @@
   {
     "name": "Gabun",
     "longName": "Gabunische Republik",
+    "altNames": [],
     "capital": "Libreville",
     "population": 1800000,
     "flag": {
@@ -1190,6 +1241,7 @@
   {
     "name": "Gambia",
     "longName": "Republik Gambia",
+    "altNames": [],
     "capital": "Banjul",
     "population": 2000000,
     "flag": {
@@ -1212,6 +1264,7 @@
   {
     "name": "Georgien",
     "longName": "Georgien",
+    "altNames": [],
     "capital": "Tiflis",
     "population": 3800000,
     "flag": {
@@ -1237,6 +1290,7 @@
   {
     "name": "Ghana",
     "longName": "Republik Ghana",
+    "altNames": [],
     "capital": "Accra",
     "population": 27700000,
     "flag": {
@@ -1261,6 +1315,7 @@
   {
     "name": "Grenada",
     "longName": "Grenada",
+    "altNames": [],
     "capital": "St. George’s",
     "population": 108000,
     "flag": {
@@ -1281,6 +1336,7 @@
   {
     "name": "Griechenland",
     "longName": "Hellenische Republik",
+    "altNames": [],
     "capital": "Athen",
     "population": 11500000,
     "flag": {
@@ -1306,6 +1362,7 @@
   {
     "name": "Guatemala",
     "longName": "Republik Guatemala",
+    "altNames": [],
     "capital": "Guatemala-Stadt",
     "population": 16200000,
     "flag": {
@@ -1331,6 +1388,7 @@
   {
     "name": "Guinea",
     "longName": "Republik Guinea",
+    "altNames": [],
     "capital": "Conakry",
     "population": 11000000,
     "flag": {
@@ -1359,6 +1417,7 @@
   {
     "name": "Guinea-Bissau",
     "longName": "Republik Guinea-Bissau",
+    "altNames": [],
     "capital": "Bissau",
     "population": 1800000,
     "flag": {
@@ -1382,6 +1441,7 @@
   {
     "name": "Guyana",
     "longName": "Kooperative Republik Guyana",
+    "altNames": [],
     "capital": "Georgetown",
     "population": 700000,
     "flag": {
@@ -1406,6 +1466,7 @@
   {
     "name": "Haiti",
     "longName": "Republik Haiti",
+    "altNames": [],
     "capital": "Port-au-Prince",
     "population": 10900000,
     "flag": {
@@ -1430,6 +1491,7 @@
   {
     "name": "Honduras",
     "longName": "Republik Honduras",
+    "altNames": [],
     "capital": "Tegucigalpa",
     "population": 8300000,
     "flag": {
@@ -1454,6 +1516,7 @@
   {
     "name": "Indien",
     "longName": "Republik Indien",
+    "altNames": [],
     "capital": "Neu-Delhi",
     "population": 1314100000,
     "flag": {
@@ -1484,6 +1547,7 @@
   {
     "name": "Indonesien",
     "longName": "Republik Indonesien",
+    "altNames": [],
     "capital": "Jakarta",
     "population": 255700000,
     "flag": {
@@ -1508,6 +1572,7 @@
   {
     "name": "Irak",
     "longName": "Republik Irak",
+    "altNames": [],
     "capital": "Bagdad",
     "population": 37100000,
     "flag": {
@@ -1536,6 +1601,7 @@
   {
     "name": "Iran",
     "longName": "Islamische Republik Iran",
+    "altNames": [],
     "capital": "Teheran",
     "population": 78500000,
     "flag": {
@@ -1564,6 +1630,7 @@
   {
     "name": "Irland",
     "longName": "Irland",
+    "altNames": [],
     "capital": "Dublin",
     "population": 4600000,
     "flag": {
@@ -1587,6 +1654,7 @@
   {
     "name": "Island",
     "longName": "Republik Island",
+    "altNames": [],
     "capital": "Reykjavík",
     "population": 330000,
     "flag": {
@@ -1607,6 +1675,7 @@
   {
     "name": "Israel",
     "longName": "Staat Israel",
+    "altNames": [],
     "capital": "Jerusalem",
     "population": 8400000,
     "flag": {
@@ -1633,6 +1702,7 @@
   {
     "name": "Italien",
     "longName": "Italienische Republik",
+    "altNames": [],
     "capital": "Rom",
     "population": 62500000,
     "flag": {
@@ -1660,6 +1730,7 @@
   {
     "name": "Jamaika",
     "longName": "Jamaika",
+    "altNames": [],
     "capital": "Kingston",
     "population": 2700000,
     "flag": {
@@ -1680,6 +1751,7 @@
   {
     "name": "Japan",
     "longName": "Japan",
+    "altNames": [],
     "capital": "Tokio",
     "population": 126900000,
     "flag": {
@@ -1700,6 +1772,7 @@
   {
     "name": "Jemen",
     "longName": "Republik Jemen",
+    "altNames": [],
     "capital": "Sanaa (de jure)",
     "population": 26700000,
     "flag": {
@@ -1723,6 +1796,7 @@
   {
     "name": "Jordanien",
     "longName": "Haschemitisches Königreich Jordanien",
+    "altNames": [],
     "capital": "Amman",
     "population": 8100000,
     "flag": {
@@ -1748,6 +1822,7 @@
   {
     "name": "Kambodscha",
     "longName": "Königreich Kambodscha",
+    "altNames": [],
     "capital": "Phnom Penh",
     "population": 15400000,
     "flag": {
@@ -1772,6 +1847,7 @@
   {
     "name": "Kamerun",
     "longName": "Republik Kamerun",
+    "altNames": [],
     "capital": "Yaoundé",
     "population": 23700000,
     "flag": {
@@ -1800,6 +1876,7 @@
   {
     "name": "Kanada",
     "longName": "Kanada",
+    "altNames": [],
     "capital": "Ottawa",
     "population": 35800000,
     "flag": {
@@ -1823,6 +1900,7 @@
   {
     "name": "Kap Verde",
     "longName": "Republik Cabo Verde",
+    "altNames": [],
     "capital": "Praia",
     "population": 509000,
     "flag": {
@@ -1843,6 +1921,7 @@
   {
     "name": "Kasachstan",
     "longName": "Republik Kasachstan",
+    "altNames": [],
     "capital": "Astana",
     "population": 17500000,
     "flag": {
@@ -1870,6 +1949,7 @@
   {
     "name": "Katar",
     "longName": "Staat Katar",
+    "altNames": [],
     "capital": "Doha",
     "population": 2400000,
     "flag": {
@@ -1892,6 +1972,7 @@
   {
     "name": "Kenia",
     "longName": "Republik Kenia",
+    "altNames": [],
     "capital": "Nairobi",
     "population": 44300000,
     "flag": {
@@ -1919,6 +2000,7 @@
   {
     "name": "Kirgisistan",
     "longName": "Kirgisische Republik",
+    "altNames": [],
     "capital": "Bischkek",
     "population": 6000000,
     "flag": {
@@ -1945,6 +2027,7 @@
   {
     "name": "Kiribati",
     "longName": "Republik Kiribati",
+    "altNames": [],
     "capital": "South Tarawa",
     "population": 100000,
     "flag": {
@@ -1965,6 +2048,7 @@
   {
     "name": "Kolumbien",
     "longName": "Republik Kolumbien",
+    "altNames": [],
     "capital": "Bogotá",
     "population": 48200000,
     "flag": {
@@ -1991,6 +2075,7 @@
   {
     "name": "Komoren",
     "longName": "Union der Komoren",
+    "altNames": [],
     "capital": "Moroni",
     "population": 800000,
     "flag": {
@@ -2012,6 +2097,7 @@
   {
     "name": "Demokratische Republik Kongo",
     "longName": "Demokratische Republik Kongo",
+    "altNames": [],
     "capital": "Kinshasa",
     "population": 73300000,
     "flag": {
@@ -2046,6 +2132,7 @@
   {
     "name": "Republik Kongo",
     "longName": "Republik Kongo",
+    "altNames": [],
     "capital": "Brazzaville",
     "population": 4800000,
     "flag": {
@@ -2073,6 +2160,7 @@
   {
     "name": "Nordkorea",
     "longName": "Demokratische Volksrepublik Korea",
+    "altNames": [],
     "capital": "Pjöngjang",
     "population": 25000000,
     "flag": {
@@ -2097,6 +2185,7 @@
   {
     "name": "Südkorea",
     "longName": "Republik Korea",
+    "altNames": [],
     "capital": "Seoul",
     "population": 50700000,
     "flag": {
@@ -2119,6 +2208,7 @@
   {
     "name": "Kosovo",
     "longName": "Republik Kosovo",
+    "altNames": [],
     "capital": "Pristina",
     "population": 1800000,
     "flag": {
@@ -2131,6 +2221,7 @@
   {
     "name": "Kroatien",
     "longName": "Republik Kroatien",
+    "altNames": [],
     "capital": "Zagreb",
     "population": 4200000,
     "flag": {
@@ -2157,6 +2248,7 @@
   {
     "name": "Kuba",
     "longName": "Republik Kuba",
+    "altNames": [],
     "capital": "Havanna",
     "population": 11100000,
     "flag": {
@@ -2178,6 +2270,7 @@
   {
     "name": "Kuwait",
     "longName": "Staat Kuwait",
+    "altNames": [],
     "capital": "Kuwait-Stadt",
     "population": 3800000,
     "flag": {
@@ -2201,6 +2294,7 @@
   {
     "name": "Laos",
     "longName": "Demokratische Volksrepublik Laos",
+    "altNames": [],
     "capital": "Vientiane",
     "population": 6900000,
     "flag": {
@@ -2227,6 +2321,7 @@
   {
     "name": "Lesotho",
     "longName": "Königreich Lesotho",
+    "altNames": [],
     "capital": "Maseru",
     "population": 1900000,
     "flag": {
@@ -2251,6 +2346,7 @@
   {
     "name": "Lettland",
     "longName": "Republik Lettland",
+    "altNames": [],
     "capital": "Riga",
     "population": 2000000,
     "flag": {
@@ -2276,6 +2372,7 @@
   {
     "name": "Libanon",
     "longName": "Libanesische Republik",
+    "altNames": [],
     "capital": "Beirut",
     "population": 6200000,
     "flag": {
@@ -2300,6 +2397,7 @@
   {
     "name": "Liberia",
     "longName": "Republik Liberia",
+    "altNames": [],
     "capital": "Monrovia",
     "population": 4500000,
     "flag": {
@@ -2324,6 +2422,7 @@
   {
     "name": "Libyen",
     "longName": "Libyen",
+    "altNames": [],
     "capital": "Tripolis",
     "population": 6300000,
     "flag": {
@@ -2351,6 +2450,7 @@
   {
     "name": "Liechtenstein",
     "longName": "Fürstentum Liechtenstein",
+    "altNames": [],
     "capital": "Vaduz",
     "population": 37100,
     "flag": {
@@ -2374,6 +2474,7 @@
   {
     "name": "Litauen",
     "longName": "Republik Litauen",
+    "altNames": [],
     "capital": "Vilnius",
     "population": 2900000,
     "flag": {
@@ -2399,6 +2500,7 @@
   {
     "name": "Luxemburg",
     "longName": "Großherzogtum Luxemburg",
+    "altNames": [],
     "capital": "Luxemburg",
     "population": 600000,
     "flag": {
@@ -2425,6 +2527,7 @@
   {
     "name": "Madagaskar",
     "longName": "Republik Madagaskar",
+    "altNames": [],
     "capital": "Antananarivo",
     "population": 23000000,
     "flag": {
@@ -2446,6 +2549,7 @@
   {
     "name": "Malawi",
     "longName": "Republik Malawi",
+    "altNames": [],
     "capital": "Lilongwe",
     "population": 17200000,
     "flag": {
@@ -2471,6 +2575,7 @@
   {
     "name": "Malaysia",
     "longName": "Malaysia",
+    "altNames": [],
     "capital": "Kuala Lumpur",
     "population": 30800000,
     "flag": {
@@ -2493,6 +2598,7 @@
   {
     "name": "Malediven",
     "longName": "Republik Malediven",
+    "altNames": [],
     "capital": "Malé",
     "population": 300000,
     "flag": {
@@ -2513,6 +2619,7 @@
   {
     "name": "Mali",
     "longName": "Republik Mali",
+    "altNames": [],
     "capital": "Bamako",
     "population": 16700000,
     "flag": {
@@ -2541,6 +2648,7 @@
   {
     "name": "Malta",
     "longName": "Republik Malta",
+    "altNames": [],
     "capital": "Valletta",
     "population": 413000,
     "flag": {
@@ -2562,6 +2670,7 @@
   {
     "name": "Marokko",
     "longName": "Königreich Marokko",
+    "altNames": [],
     "capital": "Rabat",
     "population": 34100000,
     "flag": {
@@ -2586,6 +2695,7 @@
   {
     "name": "Marshallinseln",
     "longName": "Republik Marshallinseln",
+    "altNames": [],
     "capital": "Majuro",
     "population": 60000,
     "flag": {
@@ -2607,6 +2717,7 @@
   {
     "name": "Mauretanien",
     "longName": "Islamische Republik Mauretanien",
+    "altNames": [],
     "capital": "Nouakchott",
     "population": 3600000,
     "flag": {
@@ -2632,6 +2743,7 @@
   {
     "name": "Mauritius",
     "longName": "Republik Mauritius",
+    "altNames": [],
     "capital": "Port Louis",
     "population": 1300000,
     "flag": {
@@ -2652,6 +2764,7 @@
   {
     "name": "Mazedonien",
     "longName": "Ehemalige jugoslawische Republik Mazedonien",
+    "altNames": [],
     "capital": "Skopje",
     "population": 2100000,
     "flag": {
@@ -2678,6 +2791,7 @@
   {
     "name": "Mexiko",
     "longName": "Vereinigte Mexikanische Staaten",
+    "altNames": [],
     "capital": "Mexiko-Stadt",
     "population": 127000000,
     "flag": {
@@ -2702,6 +2816,7 @@
   {
     "name": "Mikronesien",
     "longName": "Föderierte Staaten von Mikronesien",
+    "altNames": [],
     "capital": "Palikir",
     "population": 107000,
     "flag": {
@@ -2722,6 +2837,7 @@
   {
     "name": "Moldawien",
     "longName": "Republik Moldau",
+    "altNames": [],
     "capital": "Chișinău",
     "population": 4100000,
     "flag": {
@@ -2745,6 +2861,7 @@
   {
     "name": "Monaco",
     "longName": "Fürstentum Monaco",
+    "altNames": [],
     "population": 37800,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/720px-Flag_of_Monaco.svg.png",
@@ -2766,6 +2883,7 @@
   {
     "name": "Mongolei",
     "longName": "Mongolei",
+    "altNames": [],
     "capital": "Ulaanbaatar",
     "population": 3000000,
     "flag": {
@@ -2789,6 +2907,7 @@
   {
     "name": "Montenegro",
     "longName": "Montenegro",
+    "altNames": [],
     "capital": "Podgorica",
     "population": 600000,
     "flag": {
@@ -2801,6 +2920,7 @@
   {
     "name": "Mosambik",
     "longName": "Republik Mosambik",
+    "altNames": [],
     "capital": "Maputo",
     "population": 25700000,
     "flag": {
@@ -2828,6 +2948,7 @@
   {
     "name": "Myanmar",
     "longName": "Republik der Union Myanmar",
+    "altNames": [],
     "capital": "Naypyidaw",
     "population": 52100000,
     "flag": {
@@ -2840,6 +2961,7 @@
   {
     "name": "Namibia",
     "longName": "Republik Namibia",
+    "altNames": [],
     "capital": "Windhoek",
     "population": 2500000,
     "flag": {
@@ -2867,6 +2989,7 @@
   {
     "name": "Nauru",
     "longName": "Republik Nauru",
+    "altNames": [],
     "capital": "Yaren",
     "population": 10000,
     "flag": {
@@ -2888,6 +3011,7 @@
   {
     "name": "Nepal",
     "longName": "Demokratische Bundesrepublik Nepal",
+    "altNames": [],
     "capital": "Kathmandu",
     "population": 28000000,
     "flag": {
@@ -2911,6 +3035,7 @@
   {
     "name": "Neuseeland",
     "longName": "Neuseeland",
+    "altNames": [],
     "capital": "Wellington",
     "population": 4600000,
     "flag": {
@@ -2932,6 +3057,7 @@
   {
     "name": "Nicaragua",
     "longName": "Republik Nicaragua",
+    "altNames": [],
     "capital": "Managua",
     "population": 6300000,
     "flag": {
@@ -2955,6 +3081,7 @@
   {
     "name": "Niederlande",
     "longName": "Königreich der Niederlande",
+    "altNames": [],
     "capital": "Amsterdam",
     "population": 16900000,
     "flag": {
@@ -2978,6 +3105,7 @@
   {
     "name": "Niger",
     "longName": "Republik Niger",
+    "altNames": [],
     "capital": "Niamey",
     "population": 18900000,
     "flag": {
@@ -3006,6 +3134,7 @@
   {
     "name": "Nigeria",
     "longName": "Bundesrepublik Nigeria",
+    "altNames": [],
     "capital": "Abuja",
     "population": 181800000,
     "flag": {
@@ -3031,6 +3160,7 @@
   {
     "name": "Niue",
     "longName": "Niue",
+    "altNames": [],
     "capital": "Alofi",
     "population": 1229,
     "flag": {
@@ -3051,6 +3181,7 @@
   {
     "name": "Norwegen",
     "longName": "Königreich Norwegen",
+    "altNames": [],
     "capital": "Oslo",
     "population": 5200000,
     "flag": {
@@ -3077,6 +3208,7 @@
   {
     "name": "Oman",
     "longName": "Sultanat Oman",
+    "altNames": [],
     "capital": "Maskat",
     "population": 4200000,
     "flag": {
@@ -3101,6 +3233,7 @@
   {
     "name": "Österreich",
     "longName": "Republik Österreich",
+    "altNames": [],
     "capital": "Wien",
     "population": 8600000,
     "flag": {
@@ -3130,6 +3263,7 @@
   {
     "name": "Osttimor / Timor-Leste",
     "longName": "Demokratische Republik Timor-Leste",
+    "altNames": [],
     "capital": "Dili",
     "population": 1200000,
     "flag": {
@@ -3152,6 +3286,7 @@
   {
     "name": "Pakistan",
     "longName": "Islamische Republik Pakistan",
+    "altNames": [],
     "capital": "Islamabad",
     "population": 199000000,
     "flag": {
@@ -3178,6 +3313,7 @@
   {
     "name": "Palästina",
     "longName": "–",
+    "altNames": [],
     "capital": "Gaza und Ramallah",
     "population": 4500000,
     "flag": {
@@ -3190,6 +3326,7 @@
   {
     "name": "Palau",
     "longName": "Republik Palau",
+    "altNames": [],
     "capital": "Ngerulmud",
     "population": 21000,
     "flag": {
@@ -3210,6 +3347,7 @@
   {
     "name": "Panama",
     "longName": "Republik Panama",
+    "altNames": [],
     "capital": "Panama-Stadt",
     "population": 4000000,
     "flag": {
@@ -3234,6 +3372,7 @@
   {
     "name": "Papua-Neuguinea",
     "longName": "Unabhängiger Staat Papua-Neuguinea",
+    "altNames": [],
     "capital": "Port Moresby",
     "population": 7700000,
     "flag": {
@@ -3256,6 +3395,7 @@
   {
     "name": "Paraguay",
     "longName": "Republik Paraguay",
+    "altNames": [],
     "capital": "Asunción",
     "population": 7000000,
     "flag": {
@@ -3281,6 +3421,7 @@
   {
     "name": "Peru",
     "longName": "Republik Peru",
+    "altNames": [],
     "capital": "Lima",
     "population": 31200000,
     "flag": {
@@ -3307,6 +3448,7 @@
   {
     "name": "Philippinen",
     "longName": "Republik der Philippinen",
+    "altNames": [],
     "capital": "Manila",
     "population": 103000000,
     "flag": {
@@ -3327,6 +3469,7 @@
   {
     "name": "Polen",
     "longName": "Republik Polen",
+    "altNames": [],
     "capital": "Warschau",
     "population": 38500000,
     "flag": {
@@ -3355,6 +3498,7 @@
   {
     "name": "Portugal",
     "longName": "Portugiesische Republik",
+    "altNames": [],
     "capital": "Lissabon",
     "population": 10300000,
     "flag": {
@@ -3377,6 +3521,7 @@
   {
     "name": "Ruanda",
     "longName": "Republik Ruanda",
+    "altNames": [],
     "capital": "Kigali",
     "population": 11300000,
     "flag": {
@@ -3404,6 +3549,7 @@
   {
     "name": "Rumänien",
     "longName": "Republik Rumänien",
+    "altNames": [],
     "capital": "Bukarest",
     "population": 19800000,
     "flag": {
@@ -3430,6 +3576,7 @@
   {
     "name": "Russland",
     "longName": "Russische Föderation",
+    "altNames": [],
     "capital": "Moskau",
     "population": 144300000,
     "flag": {
@@ -3465,6 +3612,7 @@
   {
     "name": "Salomonen",
     "longName": "Salomonen",
+    "altNames": [],
     "capital": "Honiara",
     "population": 600000,
     "flag": {
@@ -3485,6 +3633,7 @@
   {
     "name": "Sambia",
     "longName": "Republik Sambia",
+    "altNames": [],
     "capital": "Lusaka",
     "population": 15500000,
     "flag": {
@@ -3514,6 +3663,7 @@
   {
     "name": "Samoa",
     "longName": "Unabhängiger Staat Samoa",
+    "altNames": [],
     "capital": "Apia",
     "population": 200000,
     "flag": {
@@ -3535,6 +3685,7 @@
   {
     "name": "San Marino",
     "longName": "Republik San Marino",
+    "altNames": [],
     "capital": "San Marino",
     "population": 32800,
     "flag": {
@@ -3557,6 +3708,7 @@
   {
     "name": "São Tomé und Príncipe",
     "longName": "Demokratische Republik São Tomé und Príncipe",
+    "altNames": [],
     "capital": "São Tomé",
     "population": 200000,
     "flag": {
@@ -3577,6 +3729,7 @@
   {
     "name": "Saudi-Arabien",
     "longName": "Königreich Saudi-Arabien",
+    "altNames": [],
     "capital": "Riad",
     "population": 31600000,
     "flag": {
@@ -3605,6 +3758,7 @@
   {
     "name": "Schweden",
     "longName": "Königreich Schweden",
+    "altNames": [],
     "capital": "Stockholm",
     "population": 9800000,
     "flag": {
@@ -3628,6 +3782,7 @@
   {
     "name": "Schweiz",
     "longName": "Schweizerische Eid­genossen­schaft",
+    "altNames": [],
     "capital": "Bern",
     "population": 8300000,
     "flag": {
@@ -3658,6 +3813,7 @@
   {
     "name": "Senegal",
     "longName": "Republik Senegal",
+    "altNames": [],
     "capital": "Dakar",
     "population": 14700000,
     "flag": {
@@ -3684,6 +3840,7 @@
   {
     "name": "Serbien",
     "longName": "Republik Serbien",
+    "altNames": [],
     "capital": "Belgrad",
     "population": 7100000,
     "flag": {
@@ -3696,6 +3853,7 @@
   {
     "name": "Seychellen",
     "longName": "Republik Seychellen",
+    "altNames": [],
     "capital": "Victoria",
     "population": 90000,
     "flag": {
@@ -3717,6 +3875,7 @@
   {
     "name": "Sierra Leone",
     "longName": "Republik Sierra Leone",
+    "altNames": [],
     "capital": "Freetown",
     "population": 6500000,
     "flag": {
@@ -3740,6 +3899,7 @@
   {
     "name": "Simbabwe",
     "longName": "Republik Simbabwe",
+    "altNames": [],
     "capital": "Harare",
     "population": 17400000,
     "flag": {
@@ -3767,6 +3927,7 @@
   {
     "name": "Singapur",
     "longName": "Republik Singapur",
+    "altNames": [],
     "population": 5500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/720px-Flag_of_Singapore.svg.png",
@@ -3789,6 +3950,7 @@
   {
     "name": "Slowakei",
     "longName": "Slowakische Republik",
+    "altNames": [],
     "capital": "Bratislava",
     "population": 5400000,
     "flag": {
@@ -3815,6 +3977,7 @@
   {
     "name": "Slowenien",
     "longName": "Republik Slowenien",
+    "altNames": [],
     "capital": "Ljubljana",
     "population": 2100000,
     "flag": {
@@ -3840,6 +4003,7 @@
   {
     "name": "Somalia",
     "longName": "Bundesrepublik Somalia",
+    "altNames": [],
     "capital": "Mogadischu",
     "population": 11100000,
     "flag": {
@@ -3865,6 +4029,7 @@
   {
     "name": "Spanien",
     "longName": "Königreich Spanien",
+    "altNames": [],
     "capital": "Madrid",
     "population": 46400000,
     "flag": {
@@ -3891,6 +4056,7 @@
   {
     "name": "Sri Lanka",
     "longName": "Demokratische Sozialistische Republik Sri Lanka",
+    "altNames": [],
     "capital": "Colombo",
     "population": 20900000,
     "flag": {
@@ -3914,6 +4080,7 @@
   {
     "name": "St. Kitts und Nevis",
     "longName": "Föderation St. Kitts und Nevis",
+    "altNames": [],
     "capital": "Basseterre",
     "population": 50000,
     "flag": {
@@ -3934,6 +4101,7 @@
   {
     "name": "St. Lucia",
     "longName": "St. Lucia",
+    "altNames": [],
     "capital": "Castries",
     "population": 200000,
     "flag": {
@@ -3954,6 +4122,7 @@
   {
     "name": "St. Vincent und die Grenadinen",
     "longName": "St. Vincent und die Grenadinen",
+    "altNames": [],
     "capital": "Kingstown",
     "population": 104000,
     "flag": {
@@ -3974,6 +4143,7 @@
   {
     "name": "Südafrika",
     "longName": "Republik Südafrika",
+    "altNames": [],
     "capital": "Pretoria",
     "population": 55000000,
     "flag": {
@@ -4010,6 +4180,7 @@
   {
     "name": "Sudan",
     "longName": "Republik Sudan",
+    "altNames": [],
     "capital": "Khartum",
     "population": 40900000,
     "flag": {
@@ -4039,6 +4210,7 @@
   {
     "name": "Südossetien",
     "longName": "Südossetien",
+    "altNames": [],
     "capital": "Zchinwali",
     "population": 51000,
     "flag": {
@@ -4051,6 +4223,7 @@
   {
     "name": "Südsudan",
     "longName": "Republik Südsudan",
+    "altNames": [],
     "capital": "Juba",
     "population": 12200000,
     "flag": {
@@ -4078,6 +4251,7 @@
   {
     "name": "Suriname",
     "longName": "Republik Suriname",
+    "altNames": [],
     "capital": "Paramaribo",
     "population": 600000,
     "flag": {
@@ -4103,6 +4277,7 @@
   {
     "name": "Swasiland",
     "longName": "Königreich Swasiland",
+    "altNames": [],
     "capital": "Mbabane",
     "population": 1300000,
     "flag": {
@@ -4127,6 +4302,7 @@
   {
     "name": "Syrien",
     "longName": "Arabische Republik Syrien",
+    "altNames": [],
     "capital": "Damaskus",
     "population": 17100000,
     "flag": {
@@ -4153,6 +4329,7 @@
   {
     "name": "Tadschikistan",
     "longName": "Republik Tadschikistan",
+    "altNames": [],
     "capital": "Duschanbe",
     "population": 8500000,
     "flag": {
@@ -4179,6 +4356,7 @@
   {
     "name": "Tansania",
     "longName": "Vereinigte Republik Tansania",
+    "altNames": [],
     "capital": "Dodoma",
     "population": 52300000,
     "flag": {
@@ -4209,6 +4387,7 @@
   {
     "name": "Thailand",
     "longName": "Königreich Thailand",
+    "altNames": [],
     "capital": "Bangkok",
     "population": 65100000,
     "flag": {
@@ -4234,6 +4413,7 @@
   {
     "name": "Togo",
     "longName": "Republik Togo",
+    "altNames": [],
     "capital": "Lomé",
     "population": 7200000,
     "flag": {
@@ -4258,6 +4438,7 @@
   {
     "name": "Tonga",
     "longName": "Königreich Tonga",
+    "altNames": [],
     "capital": "Nukuʻalofa",
     "population": 123000,
     "flag": {
@@ -4279,6 +4460,7 @@
   {
     "name": "Trinidad und Tobago",
     "longName": "Republik Trinidad und Tobago",
+    "altNames": [],
     "capital": "Port of Spain",
     "population": 1400000,
     "flag": {
@@ -4299,6 +4481,7 @@
   {
     "name": "Tschad",
     "longName": "Republik Tschad",
+    "altNames": [],
     "capital": "N’Djamena",
     "population": 13700000,
     "flag": {
@@ -4327,6 +4510,7 @@
   {
     "name": "Tschechien",
     "longName": "Tschechische Republik",
+    "altNames": [],
     "capital": "Prag",
     "population": 10600000,
     "flag": {
@@ -4353,6 +4537,7 @@
   {
     "name": "Tunesien",
     "longName": "Tunesische Republik",
+    "altNames": [],
     "capital": "Tunis",
     "population": 11000000,
     "flag": {
@@ -4376,6 +4561,7 @@
   {
     "name": "Türkei",
     "longName": "Republik Türkei",
+    "altNames": [],
     "capital": "Ankara",
     "population": 78200000,
     "flag": {
@@ -4405,6 +4591,7 @@
   {
     "name": "Turkmenistan",
     "longName": "Turkmenistan",
+    "altNames": [],
     "capital": "Aschgabad",
     "population": 5400000,
     "flag": {
@@ -4431,6 +4618,7 @@
   {
     "name": "Tuvalu",
     "longName": "Tuvalu",
+    "altNames": [],
     "capital": "Funafuti",
     "population": 10000,
     "flag": {
@@ -4451,6 +4639,7 @@
   {
     "name": "Uganda",
     "longName": "Republik Uganda",
+    "altNames": [],
     "capital": "Kampala",
     "population": 40100000,
     "flag": {
@@ -4478,6 +4667,7 @@
   {
     "name": "Ukraine",
     "longName": "Ukraine",
+    "altNames": [],
     "capital": "Kiew",
     "population": 42800000,
     "flag": {
@@ -4506,6 +4696,7 @@
   {
     "name": "Ungarn",
     "longName": "Ungarn",
+    "altNames": [],
     "capital": "Budapest",
     "population": 9800000,
     "flag": {
@@ -4534,6 +4725,7 @@
   {
     "name": "Uruguay",
     "longName": "Republik Östlich des Uruguay",
+    "altNames": [],
     "capital": "Montevideo",
     "population": 3600000,
     "flag": {
@@ -4558,6 +4750,7 @@
   {
     "name": "Usbekistan",
     "longName": "Republik Usbekistan",
+    "altNames": [],
     "capital": "Taschkent",
     "population": 31300000,
     "flag": {
@@ -4585,6 +4778,7 @@
   {
     "name": "Vanuatu",
     "longName": "Republik Vanuatu",
+    "altNames": [],
     "capital": "Port Vila",
     "population": 300000,
     "flag": {
@@ -4607,6 +4801,7 @@
   {
     "name": "Vatikanstadt",
     "longName": "Staat Vatikanstadt",
+    "altNames": [],
     "population": 829,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/720px-Flag_of_the_Vatican_City.svg.png",
@@ -4618,6 +4813,7 @@
   {
     "name": "Venezuela",
     "longName": "Bolivarische Republik Venezuela",
+    "altNames": [],
     "capital": "Caracas",
     "population": 30600000,
     "flag": {
@@ -4642,6 +4838,7 @@
   {
     "name": "Vereinigte Arabische Emirate",
     "longName": "Vereinigte Arabische Emirate",
+    "altNames": [],
     "capital": "Abu Dhabi",
     "population": 9600000,
     "flag": {
@@ -4663,8 +4860,11 @@
     ]
   },
   {
-    "name": "USA",
+    "name": "Vereinigte Staaten",
     "longName": "Vereinigte Staaten von Amerika",
+    "altNames": [
+      "USA"
+    ],
     "capital": "Washington, D.C.",
     "population": 321200000,
     "flag": {
@@ -4688,8 +4888,12 @@
     ]
   },
   {
-    "name": "England",
+    "name": "Vereinigtes Königreich",
     "longName": "Vereinigtes Königreich Großbritannien und Nordirland",
+    "altNames": [
+      "England",
+      "Großbritannien"
+    ],
     "capital": "London",
     "population": 65100000,
     "flag": {
@@ -4712,6 +4916,7 @@
   {
     "name": "Vietnam",
     "longName": "Sozialistische Republik Vietnam",
+    "altNames": [],
     "capital": "Hanoi",
     "population": 91700000,
     "flag": {
@@ -4736,6 +4941,7 @@
   {
     "name": "Weißrussland",
     "longName": "Republik Belarus",
+    "altNames": [],
     "capital": "Minsk",
     "population": 9500000,
     "flag": {
@@ -4763,6 +4969,7 @@
   {
     "name": "Westsahara",
     "longName": "Demokratische Arabische Republik Sahara",
+    "altNames": [],
     "capital": "El Aaiún",
     "population": 600000,
     "flag": {
@@ -4789,6 +4996,7 @@
   {
     "name": "Zentral­afrikanische Republik",
     "longName": "Zentral­afrikanische Republik",
+    "altNames": [],
     "capital": "Bangui",
     "population": 5600000,
     "flag": {
@@ -4817,6 +5025,7 @@
   {
     "name": "Zypern",
     "longName": "Republik Zypern",
+    "altNames": [],
     "capital": "Nikosia",
     "population": 1200000,
     "flag": {

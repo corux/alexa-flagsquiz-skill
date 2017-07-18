@@ -23,12 +23,18 @@ function fixCountryName(name) {
     'Korea, Süd': 'Südkorea',
     'Korea, Nord': 'Nordkorea',
     'Kongo, Demokratische Republik': 'Demokratische Republik Kongo',
-    'Kongo, Republik': 'Republik Kongo',
-    'Vereinigtes Königreich': 'England',
-    'Vereinigte Staaten': 'USA',
-    'Volksrepublik China': 'China'
+    'Kongo, Republik': 'Republik Kongo'
   };
   return fixedNames[name] || name;
+}
+
+function getAlternativeNames(name) {
+  const altNames = {
+    'Vereinigtes Königreich': ['England', 'Großbritannien'],
+    'Vereinigte Staaten': ['USA'],
+    'Volksrepublik China': ['China']
+  };
+  return altNames[name] || [];
 }
 
 function fixCapitalName(name) {
@@ -54,9 +60,11 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
       return parseInt(value, 10);
     };
     const getFlag = size => 'https:' + $(elem).children().eq(6).find('img').attr('src').replace(/\/[0-9]*px-/, '/' + size + 'px-');
+    const name = fixCountryName(get(0));
     return {
-      name: fixCountryName(get(0)),
+      name: name,
       longName: get(1),
+      altNames: getAlternativeNames(name),
       capital: fixCapitalName(get(2)),
       population: toNumber(get(3)),
       //area: toNumber(get(4)),
