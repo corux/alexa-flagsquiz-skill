@@ -1,0 +1,67 @@
+#!/usr/bin/env babel-node
+
+import fs from 'fs';
+import request from 'request';
+import path from 'path';
+import nomnom from 'nomnom';
+import process from 'process';
+import cheerio from 'cheerio';
+import countries from '../src/countries';
+
+const exists = (filename) => fs.existsSync(filename)
+  ? undefined
+  : `${filename} does not exist`;
+
+let { file } = nomnom
+  .script('update-schema')
+  .option('file', { required: true, callback: exists })
+  .parse();
+
+const schema = JSON.parse(fs.readFileSync(file));
+const all = countries.getAll();
+
+function createValue(country) {
+  if (!country.iso3 || !country.name) {
+    return;
+  }
+  return {
+    id: country.iso3,
+    name: {
+      value: country.name,
+      synonyms: country.synonyms || []
+    }
+  };
+}
+
+const country = {
+  name: 'COUNTRY'
+};
+country.values = all.filter(country => !!country.iso3 && !!country.name)
+  .map(country => ({
+    id: country.iso3,
+    name: {
+      value: country.name,
+      synonyms: country.altNames || []
+    }
+  }));
+
+const continent = {
+  name: 'CONTINENT'
+};
+continent.values = [...new Set(all.map(country => country.region))]
+  .map(continent => ({
+    id: continent,
+    name: {
+      value: continent,
+      synonyms: []
+    }
+  }));
+
+schema.types = [continent, country];
+
+const schemaFile = path.join(process.cwd(), file);
+fs.writeFile(schemaFile, JSON.stringify(schema, null, 2), 'utf8', (err) => {
+  if (err) {
+    process.exit(1);
+  }
+});
