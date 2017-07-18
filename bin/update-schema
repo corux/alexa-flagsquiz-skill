@@ -36,7 +36,7 @@ function createValue(country) {
 const country = {
   name: 'COUNTRY'
 };
-country.values = all.filter(country => !!country.iso3 && !!country.name)
+country.values = all.filter(country => !!country && !!country.iso3 && !!country.name)
   .map(country => ({
     id: country.iso3,
     name: {
@@ -49,6 +49,7 @@ const continent = {
   name: 'CONTINENT'
 };
 continent.values = [...new Set(all.map(country => country.region))]
+  .filter(region => !!region)
   .map(continent => ({
     id: continent,
     name: {

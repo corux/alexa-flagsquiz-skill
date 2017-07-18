@@ -113,11 +113,6 @@
       "name": "CONTINENT",
       "values": [
         {
-          "name": {
-            "synonyms": []
-          }
-        },
-        {
           "id": "Asien",
           "name": {
             "value": "Asien",
