@@ -14,7 +14,7 @@
     "test": "ava",
     "posttest": "npm run lint",
     "deploy:prod": "serverless deploy --stage production",
-    "deploy:dev": "serverless deploy function -f skill"
+    "deploy:dev": "serverless deploy --stage dev"
   },
   "ava": {
     "babel": "inherit",

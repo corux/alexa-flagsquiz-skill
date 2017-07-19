@@ -172,6 +172,10 @@ export default class AlexaCountryQuizSkill {
   _getSlotValue(request, name) {
     try {
       const slot = request.intent.slots[name];
+      if (slot.resolutions.resolutionsPerAuthority[0].status.code !== 'ER_SUCCESS_MATCH') {
+        return null;
+      }
+
       return slot.resolutions.resolutionsPerAuthority[0].values[0].value.name;
     } catch (e) {
       return null;
