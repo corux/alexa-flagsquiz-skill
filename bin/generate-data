@@ -32,7 +32,8 @@ function getAlternativeNames(name) {
   const altNames = {
     'Vereinigtes Königreich': ['England', 'Großbritannien'],
     'Vereinigte Staaten': ['USA'],
-    'Volksrepublik China': ['China']
+    'Volksrepublik China': ['China'],
+    'Republik China': ['Taiwan']
   };
   return altNames[name] || [];
 }
