@@ -80,6 +80,30 @@ test('Capital answer', async () => {
   expect(response.response.outputSpeech.text).to.contain('Das war richtig!');
 });
 
+test('Country answer to continent question', async () => {
+  const event = Request.intent('CountryIntent', { country: 'deutschland' }).session({
+    attributes: {
+      iso: 'DEU',
+      type: 'continent'
+    }
+  }).build();
+
+  const response = await Skill(event);
+  expect(response.response.outputSpeech.text).to.contain('Ich habe dich nicht verstanden.');
+});
+
+test('Continent answer to country question', async () => {
+  const event = Request.intent('ContinentIntent', { continent: 'europa' }).session({
+    attributes: {
+      iso: 'DEU',
+      type: 'capital'
+    }
+  }).build();
+
+  const response = await Skill(event);
+  expect(response.response.outputSpeech.text).to.contain('Ich habe dich nicht verstanden.');
+});
+
 test('SessionEndedRequest', async () => {
   const event = Request.sessionEndedRequest().build();
   const response = await Skill(event);

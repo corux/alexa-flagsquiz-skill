@@ -169,6 +169,16 @@ export default class AlexaCountryQuizSkill {
     };
   }
 
+  _isExpectedIntent(session, ...validTypes) {
+    return session && session.attributes && validTypes.includes(session.attributes.type);
+  }
+
+  _handleUnexpectedIntent(session) {
+    return ask('Ich habe dich nicht verstanden. Versuche es noch einmal.')
+      .reprompt(session.attributes.question)
+      .attributes(session.attributes);
+  }
+
   _getSlotValue(request, name) {
     try {
       const slot = request.intent.slots[name];
@@ -194,11 +204,19 @@ export default class AlexaCountryQuizSkill {
 
   @Intent('CountryIntent')
   countryIntent({ country }, { session, request }) {
+    if (!this._isExpectedIntent(session, 'capital', 'neighbour')) {
+      return this._handleUnexpectedIntent(session);
+    }
+
     return this._handleAnswer(this._getSlotValue(request, 'country') || country, session);
   }
 
   @Intent('ContinentIntent')
   continentIntent({ continent }, { session, request }) {
+    if (!this._isExpectedIntent(session, 'continent')) {
+      return this._handleUnexpectedIntent(session);
+    }
+
     return this._handleAnswer(this._getSlotValue(request, 'continent') || continent, session);
   }
 
