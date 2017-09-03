@@ -38,6 +38,7 @@ export default class AlexaCountryQuizSkill {
       type: 'continent',
       iso: country.iso3,
       country: country.name,
+      answer: country.region,
       question: `Auf welchem Kontinent liegt ${country.name}?`,
       try: 0
     };
@@ -67,6 +68,7 @@ export default class AlexaCountryQuizSkill {
       type: 'neighbour',
       iso: country.iso3,
       country: country.name,
+      answer: (country.borders.length > 1 ? 'zum Beispiel ' : '') + countries.getByIso3(this._getRandomEntry(country.borders)).name,
       question: `Nenne ein Nachbarland von ${country.name}.`,
       try: 0
     };
@@ -102,6 +104,7 @@ export default class AlexaCountryQuizSkill {
       type: 'capital',
       iso: country.iso3,
       country: country.name,
+      answer: country.name,
       question: `Zu welchem Land gehört die Hauptstadt ${country.capital}?`,
       try: 0
     };
@@ -144,7 +147,7 @@ export default class AlexaCountryQuizSkill {
     if (result.try >= 3) {
       const data = this._getQuestion();
       data.wrongQuestions = session.attributes.wrongQuestions + 1;
-      return ask(`Das war nicht richtig. Hier ist die nächste Frage: ${data.question}`)
+      return ask(`Das war nicht richtig. Die Lösung war ${session.attributes.answer}. Hier ist die nächste Frage: ${data.question}`)
         .reprompt(data.question)
         .attributes(data);
     }
@@ -232,7 +235,7 @@ export default class AlexaCountryQuizSkill {
   skipIntent({}, { session }) {
     const data = this._getQuestion();
     data.wrongQuestions = session.attributes.wrongQuestions + 1;
-    return ask(data.question)
+    return ask(`Die Lösung war ${session.attributes.answer}. ${data.question}`)
       .reprompt(data.question)
       .attributes(data);
   }

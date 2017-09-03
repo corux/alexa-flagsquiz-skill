@@ -44,6 +44,33 @@ test('AMAZON.CancelIntent', async () => {
   });
 });
 
+test('Skip response contains solution', async () => {
+  const event = Request.intent('SkipIntent').session({
+    attributes: {
+      iso: 'DEU',
+      answer: 'Europa',
+      type: 'continent'
+    }
+  }).build();
+
+  const response = await Skill(event);
+  expect(response.response.outputSpeech.text).to.contain('Die Lösung war Europa.');
+});
+
+test('Response to 3rd incorrect answer contains solution', async () => {
+  const event = Request.intent('CountryIntent', { country: 'deutschland' }).session({
+    attributes: {
+      iso: 'DEU',
+      answer: 'zum Beispiel Belgien',
+      try: 2,
+      type: 'neighbour'
+    }
+  }).build();
+
+  const response = await Skill(event);
+  expect(response.response.outputSpeech.text).to.contain('Die Lösung war zum Beispiel Belgien');
+});
+
 test('Continent answer', async () => {
   const event = Request.intent('ContinentIntent', { continent: 'europa' }).session({
     attributes: {
