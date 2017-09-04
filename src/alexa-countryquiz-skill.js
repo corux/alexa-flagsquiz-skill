@@ -99,7 +99,7 @@ export default class AlexaCountryQuizSkill {
     let country;
     do {
       country = this._getNextCountry();
-    } while((!country.region || country.region.toLowerCase() !== 'europa') && country.population < 30000000);
+    } while(!country.capital && (!country.region || country.region.toLowerCase() !== 'europa') && country.population < 30000000);
 
     return {
       type: 'capital',
