@@ -64,11 +64,12 @@ export default class AlexaCountryQuizSkill {
       country = this._getNextCountry();
     } while(!country.borders || country.borders.length === 0);
 
+    const randomNeighbour = this._getRandomEntry(country.borders.map(countries.getByIso3).filter(val => !!val));
     return {
       type: 'neighbour',
       iso: country.iso3,
       country: country.name,
-      answer: (country.borders.length > 1 ? 'zum Beispiel ' : '') + countries.getByIso3(this._getRandomEntry(country.borders)).name,
+      answer: (country.borders.length > 1 ? 'zum Beispiel ' : '') + randomNeighbour.name,
       question: `Nenne ein Nachbarland von ${country.name}.`,
       try: 0
     };
