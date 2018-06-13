@@ -373,7 +373,9 @@
           "id": "TWN",
           "name": {
             "value": "Republik China",
-            "synonyms": []
+            "synonyms": [
+              "Taiwan"
+            ]
           }
         },
         {
@@ -948,7 +950,7 @@
         {
           "id": "MDA",
           "name": {
-            "value": "Moldawien",
+            "value": "Moldau",
             "synonyms": []
           }
         },

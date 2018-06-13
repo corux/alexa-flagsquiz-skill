@@ -17,7 +17,7 @@
     "longName": "Islamische Republik Afghanistan",
     "altNames": [],
     "capital": "Kabul",
-    "population": 32200000,
+    "population": 35500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/720px-Flag_of_Afghanistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/1200px-Flag_of_Afghanistan.svg.png"
@@ -40,6 +40,9 @@
       "UZB",
       "TJK",
       "CHN"
+    ],
+    "adjectives": [
+      "afghanisch"
     ]
   },
   {
@@ -47,7 +50,7 @@
     "longName": "Arabische Republik Ägypten",
     "altNames": [],
     "capital": "Kairo",
-    "population": 89100000,
+    "population": 93400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/720px-Flag_of_Egypt.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
@@ -65,7 +68,9 @@
       "ISR",
       "LBY",
       "SDN"
-    ]
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg",
+    "anthemName": "Mein Heimatland, mein Heimatland, mein Heimatland"
   },
   {
     "name": "Albanien",
@@ -91,6 +96,11 @@
       "GRC",
       "MKD",
       "KOS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hymni_i_Flamurit_instrumental.ogg",
+    "anthemName": "Hymne an die Flagge",
+    "adjectives": [
+      "albanisch"
     ]
   },
   {
@@ -98,7 +108,7 @@
     "longName": "Demokratische Volksrepublik Algerien",
     "altNames": [],
     "capital": "Algier",
-    "population": 37400000,
+    "population": 42200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/720px-Flag_of_Algeria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png"
@@ -120,6 +130,10 @@
       "MRT",
       "MLI",
       "MAR"
+    ],
+    "anthemName": "Wir geloben",
+    "adjectives": [
+      "algerisch"
     ]
   },
   {
@@ -127,20 +141,24 @@
     "longName": "Fürstentum Andorra",
     "altNames": [],
     "capital": "Andorra la Vella",
-    "population": 85000,
+    "population": 80000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/720px-Flag_of_Andorra.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png"
     },
     "iso3": "AND",
-    "iso2": "AD"
+    "iso2": "AD",
+    "anthemName": "Der große Karl der Große",
+    "adjectives": [
+      "andorranisch"
+    ]
   },
   {
     "name": "Angola",
     "longName": "Republik Angola",
     "altNames": [],
     "capital": "Luanda",
-    "population": 25000000,
+    "population": 28600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/720px-Flag_of_Angola.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png"
@@ -159,6 +177,10 @@
       "COD",
       "ZMB",
       "NAM"
+    ],
+    "anthemName": "Vorwärts Angola",
+    "adjectives": [
+      "angolanisch"
     ]
   },
   {
@@ -166,7 +188,7 @@
     "longName": "Antigua und Barbuda",
     "altNames": [],
     "capital": "Saint John’s",
-    "population": 87000,
+    "population": 100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/720px-Flag_of_Antigua_and_Barbuda.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png"
@@ -180,14 +202,18 @@
     "currencies": [
       "XCD"
     ],
-    "borders": []
+    "borders": [],
+    "anthemName": "Schönes Antigua und Barbuda",
+    "adjectives": [
+      "antiguanisch"
+    ]
   },
   {
     "name": "Äquatorialguinea",
     "longName": "Republik Äquatorial­guinea",
     "altNames": [],
     "capital": "Malabo",
-    "population": 800000,
+    "population": 1300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/720px-Flag_of_Equatorial_Guinea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/1200px-Flag_of_Equatorial_Guinea.svg.png"
@@ -205,14 +231,15 @@
     "borders": [
       "CMR",
       "GAB"
-    ]
+    ],
+    "anthemName": "Lasst uns den Weg unserer großen Freude gehen"
   },
   {
     "name": "Argentinien",
     "longName": "Argentinische Republik",
     "altNames": [],
     "capital": "Buenos Aires",
-    "population": 42400000,
+    "population": 44300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/720px-Flag_of_Argentina.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
@@ -233,6 +260,11 @@
       "CHL",
       "PRY",
       "URY"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Himno_Nacional_Argentino_instrumental.ogg",
+    "anthemName": "Argentinische Nationalhymne",
+    "adjectives": [
+      "argentinisch"
     ]
   },
   {
@@ -260,6 +292,11 @@
       "GEO",
       "IRN",
       "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mer_Hayrenik_instrumental.ogg",
+    "anthemName": "Unser Vaterland",
+    "adjectives": [
+      "armenisch"
     ]
   },
   {
@@ -267,7 +304,7 @@
     "longName": "Republik Aserbaidschan",
     "altNames": [],
     "capital": "Baku",
-    "population": 9700000,
+    "population": 9900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/720px-Flag_of_Azerbaijan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png"
@@ -288,6 +325,11 @@
       "IRN",
       "RUS",
       "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/91/National_Anthem_of_the_Republic_of_Azerbaijan_instrumental.ogg",
+    "anthemName": "Marsch von Aserbaidschan",
+    "adjectives": [
+      "aserbaidschanisch"
     ]
   },
   {
@@ -295,7 +337,7 @@
     "longName": "Demokratische Bundesrepublik Äthiopien",
     "altNames": [],
     "capital": "Addis Abeba",
-    "population": 98100000,
+    "population": 105000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/720px-Flag_of_Ethiopia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1200px-Flag_of_Ethiopia.svg.png"
@@ -316,14 +358,16 @@
       "SOM",
       "SSD",
       "SDN"
-    ]
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg",
+    "anthemName": "Marschiere voran, liebe Mutter Äthiopien"
   },
   {
     "name": "Australien",
     "longName": "Australien",
     "altNames": [],
     "capital": "Canberra",
-    "population": 23900000,
+    "population": 24500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/720px-Flag_of_Australia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1200px-Flag_of_Australia.svg.png"
@@ -337,7 +381,12 @@
     "currencies": [
       "AUD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg",
+    "anthemName": "Schreite voran, schönes, glückliches Australien",
+    "adjectives": [
+      "australisch"
+    ]
   },
   {
     "name": "Bahamas",
@@ -358,14 +407,19 @@
     "currencies": [
       "BSD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/37/March_On_Bahamaland_instrumental.ogg",
+    "anthemName": "Marschiere voran, Bahama",
+    "adjectives": [
+      "bahamaisch"
+    ]
   },
   {
     "name": "Bahrain",
     "longName": "Königreich Bahrain",
     "altNames": [],
     "capital": "Manama",
-    "population": 1400000,
+    "population": 1500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/720px-Flag_of_Bahrain.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1200px-Flag_of_Bahrain.svg.png"
@@ -379,14 +433,19 @@
     "currencies": [
       "BHD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bahraini_Anthem.ogg",
+    "anthemName": "Unser Bahrain",
+    "adjectives": [
+      "bahrainisch"
+    ]
   },
   {
     "name": "Bangladesch",
     "longName": "Volksrepublik Bangladesch",
     "altNames": [],
     "capital": "Dhaka",
-    "population": 160400000,
+    "population": 164700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/720px-Flag_of_Bangladesh.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png"
@@ -403,6 +462,11 @@
     "borders": [
       "MMR",
       "IND"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Amar_Shonar_Bangla_instrumental.ogg",
+    "anthemName": "Mein goldenes Bengalen",
+    "adjectives": [
+      "bangladeschisch"
     ]
   },
   {
@@ -424,14 +488,19 @@
     "currencies": [
       "BBD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/73/In_Plenty_and_In_Time_of_Need_instrumental.ogg",
+    "anthemName": "In guten wie in schlechten Zeiten",
+    "adjectives": [
+      "barbadisch"
+    ]
   },
   {
     "name": "Belgien",
     "longName": "Königreich Belgien",
     "altNames": [],
     "capital": "Brüssel",
-    "population": 11200000,
+    "population": 11300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/720px-Flag_of_Belgium_%28civil%29.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/1200px-Flag_of_Belgium_%28civil%29.svg.png"
@@ -452,6 +521,11 @@
       "DEU",
       "LUX",
       "NLD"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/La_Braban%C3%A7onne.oga/La_Braban%C3%A7onne.oga.mp3",
+    "anthemName": "Brabantlied",
+    "adjectives": [
+      "belgisch"
     ]
   },
   {
@@ -477,6 +551,11 @@
     "borders": [
       "GTM",
       "MEX"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Land_of_the_Free_instrumental.ogg",
+    "anthemName": "Land der Freien",
+    "adjectives": [
+      "belizisch"
     ]
   },
   {
@@ -484,7 +563,7 @@
     "longName": "Republik Benin",
     "altNames": [],
     "capital": "Porto-Novo",
-    "population": 10600000,
+    "population": 11200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/720px-Flag_of_Benin.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/1200px-Flag_of_Benin.svg.png"
@@ -503,6 +582,11 @@
       "NER",
       "NGA",
       "TGO"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/74/L%27Aube_Nouvelle.ogg",
+    "anthemName": "Der Anbruch eines neuen Tages",
+    "adjectives": [
+      "beninisch"
     ]
   },
   {
@@ -528,6 +612,9 @@
     "borders": [
       "CHN",
       "IND"
+    ],
+    "adjectives": [
+      "bhutanisch"
     ]
   },
   {
@@ -535,7 +622,7 @@
     "longName": "Plurinationaler Staat Bolivien",
     "altNames": [],
     "capital": "Sucre",
-    "population": 10500000,
+    "population": 11100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/720px-Flag_of_Bolivia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1200px-Flag_of_Bolivia.svg.png"
@@ -558,6 +645,11 @@
       "CHL",
       "PRY",
       "PER"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg",
+    "anthemName": "Bolivianer, das günstige Schicksal",
+    "adjectives": [
+      "bolivianisch"
     ]
   },
   {
@@ -565,7 +657,7 @@
     "longName": "Bosnien und Herzegowina",
     "altNames": [],
     "capital": "Sarajevo",
-    "population": 3700000,
+    "population": 3500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/720px-Flag_of_Bosnia_and_Herzegovina.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1200px-Flag_of_Bosnia_and_Herzegovina.svg.png"
@@ -585,6 +677,9 @@
       "HRV",
       "MNE",
       "SRB"
+    ],
+    "adjectives": [
+      "bosnisch-herzegowinisch"
     ]
   },
   {
@@ -592,7 +687,7 @@
     "longName": "Republik Botsuana",
     "altNames": [],
     "capital": "Gaborone",
-    "population": 2100000,
+    "population": 2300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/720px-Flag_of_Botswana.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1200px-Flag_of_Botswana.svg.png"
@@ -612,6 +707,12 @@
       "ZAF",
       "ZMB",
       "ZWE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/United_States_Navy_Band_-_Fatshe_leno_la_rona.ogg",
+    "anthemName": "Gesegnet sei dies edle Land",
+    "adjectives": [
+      "botswanisch",
+      "botsuanisch"
     ]
   },
   {
@@ -619,7 +720,7 @@
     "longName": "Föderative Republik Brasilien",
     "altNames": [],
     "capital": "Brasília",
-    "population": 204500000,
+    "population": 207900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
@@ -644,6 +745,11 @@
       "SUR",
       "URY",
       "VEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hino_Nacional_Brasileiro_instrumental.ogg",
+    "anthemName": "Brasilianische Nationalhymne",
+    "adjectives": [
+      "brasilianisch"
     ]
   },
   {
@@ -667,6 +773,11 @@
     ],
     "borders": [
       "MYS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Navy_Band_-_Allah_Peliharakan_Sultan.oga",
+    "anthemName": "Gott segne den Sultan",
+    "adjectives": [
+      "bruneiisch"
     ]
   },
   {
@@ -674,7 +785,7 @@
     "longName": "Republik Bulgarien",
     "altNames": [],
     "capital": "Sofia",
-    "population": 7200000,
+    "population": 7100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/720px-Flag_of_Bulgaria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1200px-Flag_of_Bulgaria.svg.png"
@@ -694,6 +805,11 @@
       "ROU",
       "SRB",
       "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mila_Rodino_instrumental.ogg",
+    "anthemName": "Liebe Heimat",
+    "adjectives": [
+      "bulgarisch"
     ]
   },
   {
@@ -701,7 +817,7 @@
     "longName": "Burkina Faso",
     "altNames": [],
     "capital": "Ouagadougou",
-    "population": 18500000,
+    "population": 19600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/720px-Flag_of_Burkina_Faso.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1200px-Flag_of_Burkina_Faso.svg.png"
@@ -723,6 +839,9 @@
       "MLI",
       "NER",
       "TGO"
+    ],
+    "adjectives": [
+      "burkinisch"
     ]
   },
   {
@@ -730,7 +849,7 @@
     "longName": "Republik Burundi",
     "altNames": [],
     "capital": "Bujumbura",
-    "population": 10700000,
+    "population": 10400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/720px-Flag_of_Burundi.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1200px-Flag_of_Burundi.svg.png"
@@ -749,6 +868,10 @@
       "COD",
       "RWA",
       "TZA"
+    ],
+    "anthemName": "Geliebtes Burundi",
+    "adjectives": [
+      "burundisch"
     ]
   },
   {
@@ -756,7 +879,7 @@
     "longName": "Republik Chile",
     "altNames": [],
     "capital": "Santiago de Chile",
-    "population": 18000000,
+    "population": 18400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/720px-Flag_of_Chile.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png"
@@ -775,14 +898,21 @@
       "ARG",
       "BOL",
       "PER"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg",
+    "anthemName": "Rein ist, Chile",
+    "adjectives": [
+      "chilenisch"
     ]
   },
   {
     "name": "Republik China",
     "longName": "Republik China (Taiwan)",
-    "altNames": [],
+    "altNames": [
+      "Taiwan"
+    ],
     "capital": "Taipeh",
-    "population": 23500000,
+    "population": 23600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/720px-Flag_of_the_Republic_of_China.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png"
@@ -796,7 +926,10 @@
     "currencies": [
       "TWD"
     ],
-    "borders": []
+    "borders": [],
+    "adjectives": [
+      "taiwanisch"
+    ]
   },
   {
     "name": "Volksrepublik China",
@@ -805,7 +938,7 @@
       "China"
     ],
     "capital": "Peking",
-    "population": 1380000000,
+    "population": 1386800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/720px-Flag_of_the_People%27s_Republic_of_China.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png"
@@ -835,6 +968,11 @@
       "RUS",
       "TJK",
       "VNM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/March_of_the_Volunteers_instrumental.ogg",
+    "anthemName": "Marsch der Freiwilligen",
+    "adjectives": [
+      "chinesisch"
     ]
   },
   {
@@ -863,7 +1001,7 @@
     "longName": "Republik Costa Rica",
     "altNames": [],
     "capital": "San José",
-    "population": 4800000,
+    "population": 4900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/720px-Flag_of_Costa_Rica.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1200px-Flag_of_Costa_Rica.svg.png"
@@ -880,6 +1018,9 @@
     "borders": [
       "NIC",
       "PAN"
+    ],
+    "adjectives": [
+      "costa-ricanisch"
     ]
   },
   {
@@ -887,7 +1028,7 @@
     "longName": "Königreich Dänemark",
     "altNames": [],
     "capital": "Kopenhagen",
-    "population": 5659715,
+    "population": 5748769,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/720px-Flag_of_Denmark.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png"
@@ -903,6 +1044,11 @@
     ],
     "borders": [
       "DEU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg.mp3",
+    "anthemName": "Es gibt ein liebliches Land",
+    "adjectives": [
+      "dänisch"
     ]
   },
   {
@@ -910,7 +1056,7 @@
     "longName": "Bundesrepublik Deutschland",
     "altNames": [],
     "capital": "Berlin",
-    "population": 81100000,
+    "population": 83100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/720px-Flag_of_Germany.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
@@ -934,6 +1080,10 @@
       "NLD",
       "POL",
       "CHE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/German_national_anthem_performed_by_the_US_Navy_Band.ogg/German_national_anthem_performed_by_the_US_Navy_Band.ogg.mp3",
+    "adjectives": [
+      "deutsch"
     ]
   },
   {
@@ -955,14 +1105,19 @@
     "currencies": [
       "XCD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/National_Anthem_of_Dominica_by_US_Navy_Band.ogg",
+    "anthemName": "Insel der Schönheit, Insel der Pracht",
+    "adjectives": [
+      "dominicanisch"
+    ]
   },
   {
     "name": "Dominikanische Republik",
     "longName": "Dominikanische Republik",
     "altNames": [],
     "capital": "Santo Domingo",
-    "population": 10500000,
+    "population": 10700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/720px-Flag_of_the_Dominican_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1200px-Flag_of_the_Dominican_Republic.svg.png"
@@ -978,6 +1133,11 @@
     ],
     "borders": [
       "HTI"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dominican_Republic_National_Anthem.ogg",
+    "anthemName": "Tapfere Söhne von Quisqueya",
+    "adjectives": [
+      "dominikanisch"
     ]
   },
   {
@@ -985,7 +1145,7 @@
     "longName": "Republik Dschibuti",
     "altNames": [],
     "capital": "Dschibuti-Stadt",
-    "population": 900000,
+    "population": 1000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/720px-Flag_of_Djibouti.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1200px-Flag_of_Djibouti.svg.png"
@@ -1004,6 +1164,10 @@
       "ERI",
       "ETH",
       "SOM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/77/National_Anthem_of_Djibouti_by_US_Navy_Band.ogg",
+    "adjectives": [
+      "dschibutisch"
     ]
   },
   {
@@ -1011,7 +1175,7 @@
     "longName": "Republik Ecuador",
     "altNames": [],
     "capital": "Quito",
-    "population": 16300000,
+    "population": 16800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/720px-Flag_of_Ecuador.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1200px-Flag_of_Ecuador.svg.png"
@@ -1028,6 +1192,11 @@
     "borders": [
       "COL",
       "PER"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Salve%2C_Oh_Patria.oga",
+    "anthemName": "Wir grüßen unsere Heimat",
+    "adjectives": [
+      "ecuadorianisch"
     ]
   },
   {
@@ -1053,6 +1222,9 @@
     "borders": [
       "GTM",
       "HND"
+    ],
+    "adjectives": [
+      "salvadorianisch"
     ]
   },
   {
@@ -1060,7 +1232,7 @@
     "longName": "Republik Côte d’Ivoire",
     "altNames": [],
     "capital": "Yamoussoukro",
-    "population": 23300000,
+    "population": 24400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/720px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
@@ -1080,6 +1252,11 @@
       "GIN",
       "LBR",
       "MLI"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/Hymne_National_de_C%C3%B4te_d%27Ivoire.ogg/Hymne_National_de_C%C3%B4te_d%27Ivoire.ogg.mp3",
+    "anthemName": "Lied von Abidjan",
+    "adjectives": [
+      "ivorisch"
     ]
   },
   {
@@ -1087,7 +1264,7 @@
     "longName": "Staat Eritrea",
     "altNames": [],
     "capital": "Asmara",
-    "population": 5200000,
+    "population": 5900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/720px-Flag_of_Eritrea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1200px-Flag_of_Eritrea.svg.png"
@@ -1107,6 +1284,11 @@
       "DJI",
       "ETH",
       "SDN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg.mp3",
+    "anthemName": "Eritrea, Eritrea, Eritrea",
+    "adjectives": [
+      "eritreisch"
     ]
   },
   {
@@ -1131,6 +1313,11 @@
     "borders": [
       "LVA",
       "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/52/US_Navy_band_-_National_anthem_of_Estonia.ogg",
+    "anthemName": "Mein Heimatland, mein Glück und meine Freude",
+    "adjectives": [
+      "estnisch"
     ]
   },
   {
@@ -1155,7 +1342,12 @@
     "currencies": [
       "FJD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fiji_National_Anthem.ogg",
+    "anthemName": "Gott schütze Fidschi",
+    "adjectives": [
+      "fidschianisch"
+    ]
   },
   {
     "name": "Finnland",
@@ -1181,6 +1373,11 @@
       "NOR",
       "SWE",
       "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/61/United_States_Navy_Band_-_Maamme.ogg",
+    "anthemName": "Unser Land",
+    "adjectives": [
+      "finnisch"
     ]
   },
   {
@@ -1188,7 +1385,7 @@
     "longName": "Französische Republik",
     "altNames": [],
     "capital": "Paris",
-    "population": 64300000,
+    "population": 65000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/720px-Flag_of_France.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
@@ -1211,6 +1408,11 @@
       "MCO",
       "ESP",
       "CHE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg",
+    "anthemName": "Marseillelied",
+    "adjectives": [
+      "französisch"
     ]
   },
   {
@@ -1218,7 +1420,7 @@
     "longName": "Gabunische Republik",
     "altNames": [],
     "capital": "Libreville",
-    "population": 1800000,
+    "population": 2000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/720px-Flag_of_Gabon.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1200px-Flag_of_Gabon.svg.png"
@@ -1236,6 +1438,11 @@
       "CMR",
       "COG",
       "GNQ"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/La_Concorde.ogg",
+    "anthemName": "Die Eintracht",
+    "adjectives": [
+      "gabunisch"
     ]
   },
   {
@@ -1243,7 +1450,7 @@
     "longName": "Republik Gambia",
     "altNames": [],
     "capital": "Banjul",
-    "population": 2000000,
+    "population": 2100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/720px-Flag_of_The_Gambia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1200px-Flag_of_The_Gambia.svg.png"
@@ -1259,6 +1466,11 @@
     ],
     "borders": [
       "SEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/23/National_Anthem_of_Gambia_by_US_Navy_Band.ogg",
+    "anthemName": "Für Gambia, unser Heimatland",
+    "adjectives": [
+      "gambisch"
     ]
   },
   {
@@ -1266,7 +1478,7 @@
     "longName": "Georgien",
     "altNames": [],
     "capital": "Tiflis",
-    "population": 3800000,
+    "population": 3900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/720px-Flag_of_Georgia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png"
@@ -1285,6 +1497,11 @@
       "AZE",
       "RUS",
       "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tavisupleba_instrumental.ogg",
+    "anthemName": "Freiheit",
+    "adjectives": [
+      "georgisch"
     ]
   },
   {
@@ -1292,7 +1509,7 @@
     "longName": "Republik Ghana",
     "altNames": [],
     "capital": "Accra",
-    "population": 27700000,
+    "population": 28800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/720px-Flag_of_Ghana.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png"
@@ -1310,6 +1527,11 @@
       "BFA",
       "CIV",
       "TGO"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/National_Anthem_of_Ghana_by_US_Navy_Band.ogg",
+    "anthemName": "Gott segne unser Heimatland Ghana",
+    "adjectives": [
+      "ghanaisch"
     ]
   },
   {
@@ -1331,14 +1553,19 @@
     "currencies": [
       "XCD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/76/HailGrenada.ogg",
+    "anthemName": "Heil Grenada",
+    "adjectives": [
+      "grenadisch"
+    ]
   },
   {
     "name": "Griechenland",
     "longName": "Hellenische Republik",
     "altNames": [],
     "capital": "Athen",
-    "population": 11500000,
+    "population": 10700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/720px-Flag_of_Greece.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png"
@@ -1357,6 +1584,11 @@
       "BGR",
       "TUR",
       "MKD"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga",
+    "anthemName": "Ode an die Freiheit",
+    "adjectives": [
+      "griechisch"
     ]
   },
   {
@@ -1364,7 +1596,7 @@
     "longName": "Republik Guatemala",
     "altNames": [],
     "capital": "Guatemala-Stadt",
-    "population": 16200000,
+    "population": 16900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/720px-Flag_of_Guatemala.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1200px-Flag_of_Guatemala.svg.png"
@@ -1383,6 +1615,11 @@
       "SLV",
       "HND",
       "MEX"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/National_Anthem_of_Guatemala_by_US_Navy_Band.ogg",
+    "anthemName": "Glückliches Guatemala",
+    "adjectives": [
+      "guatemaltekisch"
     ]
   },
   {
@@ -1390,7 +1627,7 @@
     "longName": "Republik Guinea",
     "altNames": [],
     "capital": "Conakry",
-    "population": 11000000,
+    "population": 11500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/720px-Flag_of_Guinea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/1200px-Flag_of_Guinea.svg.png"
@@ -1412,6 +1649,11 @@
       "MLI",
       "SEN",
       "SLE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/65/National_Anthem_of_Guinea_by_US_Navy_Band.ogg",
+    "anthemName": "Freiheit",
+    "adjectives": [
+      "guineisch"
     ]
   },
   {
@@ -1419,7 +1661,7 @@
     "longName": "Republik Guinea-Bissau",
     "altNames": [],
     "capital": "Bissau",
-    "population": 1800000,
+    "population": 1900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/720px-Flag_of_Guinea-Bissau.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1200px-Flag_of_Guinea-Bissau.svg.png"
@@ -1436,6 +1678,11 @@
     "borders": [
       "GIN",
       "SEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/40/National_Anthem_of_Guinea-Bissau_by_US_Navy_Band.ogg",
+    "anthemName": "Dies ist unser geliebtes Land",
+    "adjectives": [
+      "guinea-bissauisch"
     ]
   },
   {
@@ -1443,7 +1690,7 @@
     "longName": "Kooperative Republik Guyana",
     "altNames": [],
     "capital": "Georgetown",
-    "population": 700000,
+    "population": 800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/720px-Flag_of_Guyana.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1200px-Flag_of_Guyana.svg.png"
@@ -1461,6 +1708,11 @@
       "BRA",
       "SUR",
       "VEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/National_Anthem_of_Guyana_by_US_Navy_Band.ogg",
+    "anthemName": "Geliebtes Land Guyana der Flüsse und Ebenen",
+    "adjectives": [
+      "guyanisch"
     ]
   },
   {
@@ -1468,7 +1720,7 @@
     "longName": "Republik Haiti",
     "altNames": [],
     "capital": "Port-au-Prince",
-    "population": 10900000,
+    "population": 10600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/720px-Flag_of_Haiti.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1200px-Flag_of_Haiti.svg.png"
@@ -1486,6 +1738,11 @@
     ],
     "borders": [
       "DOM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Haiti_National_Anthem.ogg",
+    "anthemName": "Lied von Dessalines",
+    "adjectives": [
+      "haitianisch"
     ]
   },
   {
@@ -1493,7 +1750,7 @@
     "longName": "Republik Honduras",
     "altNames": [],
     "capital": "Tegucigalpa",
-    "population": 8300000,
+    "population": 8900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/720px-Flag_of_Honduras.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1200px-Flag_of_Honduras.svg.png"
@@ -1511,6 +1768,11 @@
       "GTM",
       "SLV",
       "NIC"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Honduras_National_Anthem.ogg",
+    "anthemName": "Nationalhymne von Honduras",
+    "adjectives": [
+      "honduranisch"
     ]
   },
   {
@@ -1518,7 +1780,7 @@
     "longName": "Republik Indien",
     "altNames": [],
     "capital": "Neu-Delhi",
-    "population": 1314100000,
+    "population": 1352600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/720px-Flag_of_India.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
@@ -1542,6 +1804,11 @@
       "NPL",
       "PAK",
       "LKA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jana_Gana_Mana_instrumental.ogg",
+    "anthemName": "Herrscher über den Geist des Volkes",
+    "adjectives": [
+      "indisch"
     ]
   },
   {
@@ -1549,7 +1816,7 @@
     "longName": "Republik Indonesien",
     "altNames": [],
     "capital": "Jakarta",
-    "population": 255700000,
+    "population": 264000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/720px-Flag_of_Indonesia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1200px-Flag_of_Indonesia.svg.png"
@@ -1567,6 +1834,11 @@
       "TLS",
       "MYS",
       "PNG"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Indonesiaraya.ogg",
+    "anthemName": "Großes Indonesien",
+    "adjectives": [
+      "indonesisch"
     ]
   },
   {
@@ -1574,7 +1846,7 @@
     "longName": "Republik Irak",
     "altNames": [],
     "capital": "Bagdad",
-    "population": 37100000,
+    "population": 39200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/720px-Flag_of_Iraq.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1200px-Flag_of_Iraq.svg.png"
@@ -1596,6 +1868,11 @@
       "SAU",
       "SYR",
       "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/16/United_States_Navy_Band_-_Mawtini.ogg",
+    "anthemName": "Meine Heimat",
+    "adjectives": [
+      "irakisch"
     ]
   },
   {
@@ -1603,7 +1880,7 @@
     "longName": "Islamische Republik Iran",
     "altNames": [],
     "capital": "Teheran",
-    "population": 78500000,
+    "population": 80600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/720px-Flag_of_Iran.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1200px-Flag_of_Iran.svg.png"
@@ -1625,6 +1902,11 @@
       "PAK",
       "TUR",
       "TKM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/EY_IRAN_gholamHossein_banan_Version_-_1958.ogg/EY_IRAN_gholamHossein_banan_Version_-_1958.ogg.mp3",
+    "anthemName": "Nationalhymne der Islamischen Republik Iran",
+    "adjectives": [
+      "iranisch"
     ]
   },
   {
@@ -1632,7 +1914,7 @@
     "longName": "Irland",
     "altNames": [],
     "capital": "Dublin",
-    "population": 4600000,
+    "population": 4800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/720px-Flag_of_Ireland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png"
@@ -1649,6 +1931,11 @@
     ],
     "borders": [
       "GBR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/United_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg/United_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg.mp3",
+    "anthemName": "Das Soldatenlied",
+    "adjectives": [
+      "irisch"
     ]
   },
   {
@@ -1656,7 +1943,7 @@
     "longName": "Republik Island",
     "altNames": [],
     "capital": "Reykjavík",
-    "population": 330000,
+    "population": 350000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/720px-Flag_of_Iceland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1200px-Flag_of_Iceland.svg.png"
@@ -1670,14 +1957,19 @@
     "currencies": [
       "ISK"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4b/Lofs%C3%B6ngur.ogg/Lofs%C3%B6ngur.ogg.mp3",
+    "anthemName": "Lobgesang",
+    "adjectives": [
+      "isländisch"
+    ]
   },
   {
     "name": "Israel",
     "longName": "Staat Israel",
     "altNames": [],
     "capital": "Jerusalem",
-    "population": 8400000,
+    "population": 8600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/720px-Flag_of_Israel.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png"
@@ -1697,6 +1989,11 @@
       "JOR",
       "LBN",
       "SYR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hatikvah_instrumental.ogg",
+    "anthemName": "Die Hoffnung",
+    "adjectives": [
+      "israelisch"
     ]
   },
   {
@@ -1704,7 +2001,7 @@
     "longName": "Italienische Republik",
     "altNames": [],
     "capital": "Rom",
-    "population": 62500000,
+    "population": 60500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/720px-Flag_of_Italy.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png"
@@ -1725,6 +2022,11 @@
       "SVN",
       "CHE",
       "VAT"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/National_anthem_of_Italy_-_U.S._Navy_Band_%28long_version%29.ogg/National_anthem_of_Italy_-_U.S._Navy_Band_%28long_version%29.ogg.mp3",
+    "anthemName": "Brüder Italiens",
+    "adjectives": [
+      "italienisch"
     ]
   },
   {
@@ -1732,7 +2034,7 @@
     "longName": "Jamaika",
     "altNames": [],
     "capital": "Kingston",
-    "population": 2700000,
+    "population": 2900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/720px-Flag_of_Jamaica.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1200px-Flag_of_Jamaica.svg.png"
@@ -1746,14 +2048,19 @@
     "currencies": [
       "JMD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Anthems_-_National_Anthem_Of_Jamaica.ogg",
+    "anthemName": "Jamaika, das Land, das wir lieben",
+    "adjectives": [
+      "jamaikanisch"
+    ]
   },
   {
     "name": "Japan",
     "longName": "Japan",
     "altNames": [],
     "capital": "Tokio",
-    "population": 126900000,
+    "population": 126700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/720px-Flag_of_Japan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
@@ -1767,14 +2074,19 @@
     "currencies": [
       "JPY"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kimi_ga_Yo_instrumental.ogg",
+    "anthemName": "Deine Herrschaft",
+    "adjectives": [
+      "japanisch"
+    ]
   },
   {
     "name": "Jemen",
     "longName": "Republik Jemen",
     "altNames": [],
     "capital": "Sanaa (de jure)",
-    "population": 26700000,
+    "population": 28300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/720px-Flag_of_Yemen.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1200px-Flag_of_Yemen.svg.png"
@@ -1791,6 +2103,10 @@
     "borders": [
       "OMN",
       "SAU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/13/United_States_Navy_Band_-_United_Republic.ogg",
+    "adjectives": [
+      "jemenitisch"
     ]
   },
   {
@@ -1798,7 +2114,7 @@
     "longName": "Haschemitisches Königreich Jordanien",
     "altNames": [],
     "capital": "Amman",
-    "population": 8100000,
+    "population": 9700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/720px-Flag_of_Jordan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1200px-Flag_of_Jordan.svg.png"
@@ -1817,6 +2133,11 @@
       "ISR",
       "SAU",
       "SYR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_anthem_of_Jordan_instrumental.ogg",
+    "anthemName": "Lang lebe der König",
+    "adjectives": [
+      "jordanisch"
     ]
   },
   {
@@ -1824,7 +2145,7 @@
     "longName": "Königreich Kambodscha",
     "altNames": [],
     "capital": "Phnom Penh",
-    "population": 15400000,
+    "population": 15900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/720px-Flag_of_Cambodia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1200px-Flag_of_Cambodia.svg.png"
@@ -1842,6 +2163,11 @@
       "LAO",
       "THA",
       "VNM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/af/United_States_Navy_Band_-_Nokoreach.ogg",
+    "anthemName": "Königreich",
+    "adjectives": [
+      "kambodschanisch"
     ]
   },
   {
@@ -1849,7 +2175,7 @@
     "longName": "Republik Kamerun",
     "altNames": [],
     "capital": "Yaoundé",
-    "population": 23700000,
+    "population": 25000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/720px-Flag_of_Cameroon.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png"
@@ -1871,6 +2197,11 @@
       "GNQ",
       "GAB",
       "NGA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Chant_de_Ralliement.ogg",
+    "anthemName": "Versammlungslied",
+    "adjectives": [
+      "kamerunisch"
     ]
   },
   {
@@ -1878,7 +2209,7 @@
     "longName": "Kanada",
     "altNames": [],
     "capital": "Ottawa",
-    "population": 35800000,
+    "population": 36700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/720px-Flag_of_Canada.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1200px-Flag_of_Canada.svg.png"
@@ -1895,6 +2226,11 @@
     ],
     "borders": [
       "USA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/71/O_Canada_instrumental_1916.ogg",
+    "anthemName": "Oh Kanada",
+    "adjectives": [
+      "kanadisch"
     ]
   },
   {
@@ -1902,7 +2238,7 @@
     "longName": "Republik Cabo Verde",
     "altNames": [],
     "capital": "Praia",
-    "population": 509000,
+    "population": 517000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/720px-Flag_of_Cape_Verde.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png"
@@ -1916,14 +2252,18 @@
     "currencies": [
       "CVE"
     ],
-    "borders": []
+    "borders": [],
+    "adjectives": [
+      "kapverdisch",
+      "kap-verdisch"
+    ]
   },
   {
     "name": "Kasachstan",
     "longName": "Republik Kasachstan",
     "altNames": [],
     "capital": "Astana",
-    "population": 17500000,
+    "population": 18000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/720px-Flag_of_Kazakhstan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1200px-Flag_of_Kazakhstan.svg.png"
@@ -1944,6 +2284,11 @@
       "RUS",
       "TKM",
       "UZB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kazakhstan_National_Anthem_2012.ogg",
+    "anthemName": "Mein Kasachstan",
+    "adjectives": [
+      "kasachisch"
     ]
   },
   {
@@ -1951,7 +2296,7 @@
     "longName": "Staat Katar",
     "altNames": [],
     "capital": "Doha",
-    "population": 2400000,
+    "population": 2700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/720px-Flag_of_Qatar.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1200px-Flag_of_Qatar.svg.png"
@@ -1967,6 +2312,11 @@
     ],
     "borders": [
       "SAU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/National_anthem_of_Qatar.ogg",
+    "anthemName": "Es lebe der Emir",
+    "adjectives": [
+      "katarisch"
     ]
   },
   {
@@ -1974,7 +2324,7 @@
     "longName": "Republik Kenia",
     "altNames": [],
     "capital": "Nairobi",
-    "population": 44300000,
+    "population": 49700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/720px-Flag_of_Kenya.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1200px-Flag_of_Kenya.svg.png"
@@ -1995,6 +2345,11 @@
       "SSD",
       "TZA",
       "UGA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/49/National_Anthem_of_Kenya.ogg",
+    "anthemName": "Oh Gott allen Ursprungs",
+    "adjectives": [
+      "kenianisch"
     ]
   },
   {
@@ -2002,7 +2357,7 @@
     "longName": "Kirgisische Republik",
     "altNames": [],
     "capital": "Bischkek",
-    "population": 6000000,
+    "population": 6200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/720px-Flag_of_Kyrgyzstan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1200px-Flag_of_Kyrgyzstan.svg.png"
@@ -2022,6 +2377,11 @@
       "KAZ",
       "TJK",
       "UZB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/National_Anthem_of_Kyrgyzstan.ogg",
+    "anthemName": "Hohe Berge und Täler",
+    "adjectives": [
+      "kirgisisch"
     ]
   },
   {
@@ -2043,14 +2403,18 @@
     "currencies": [
       "AUD"
     ],
-    "borders": []
+    "borders": [],
+    "anthemName": "Steht auf, Kiribatier!",
+    "adjectives": [
+      "kiribatisch"
+    ]
   },
   {
     "name": "Kolumbien",
     "longName": "Republik Kolumbien",
     "altNames": [],
     "capital": "Bogotá",
-    "population": 48200000,
+    "population": 49300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/720px-Flag_of_Colombia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png"
@@ -2070,6 +2434,11 @@
       "PAN",
       "PER",
       "VEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg",
+    "anthemName": "Nationalhymne der Republik Kolumbien",
+    "adjectives": [
+      "kolumbianisch"
     ]
   },
   {
@@ -2092,14 +2461,19 @@
     "currencies": [
       "KMF"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/National_Anthem_of_Comoros_by_US_Navy_Band.ogg",
+    "anthemName": "Die Einheit der großen Inseln",
+    "adjectives": [
+      "komorisch"
+    ]
   },
   {
     "name": "Demokratische Republik Kongo",
     "longName": "Demokratische Republik Kongo",
     "altNames": [],
     "capital": "Kinshasa",
-    "population": 73300000,
+    "population": 81500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/720px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1200px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
@@ -2127,6 +2501,11 @@
       "TZA",
       "UGA",
       "ZMB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/70/National_Anthem_of_Democratic_Republic_of_the_Congo_by_US_Navy_Band.ogg",
+    "anthemName": "Stehe auf, Kongolese",
+    "adjectives": [
+      "kongolesisch"
     ]
   },
   {
@@ -2134,7 +2513,7 @@
     "longName": "Republik Kongo",
     "altNames": [],
     "capital": "Brazzaville",
-    "population": 4800000,
+    "population": 5000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/720px-Flag_of_the_Republic_of_the_Congo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1200px-Flag_of_the_Republic_of_the_Congo.svg.png"
@@ -2155,6 +2534,10 @@
       "CAF",
       "COD",
       "GAB"
+    ],
+    "anthemName": "Kongolied",
+    "adjectives": [
+      "kongolesisch"
     ]
   },
   {
@@ -2162,7 +2545,7 @@
     "longName": "Demokratische Volksrepublik Korea",
     "altNames": [],
     "capital": "Pjöngjang",
-    "population": 25000000,
+    "population": 25500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/720px-Flag_of_North_Korea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1200px-Flag_of_North_Korea.svg.png"
@@ -2180,6 +2563,10 @@
       "CHN",
       "KOR",
       "RUS"
+    ],
+    "anthemName": "Lass die Morgensonne scheinen",
+    "adjectives": [
+      "koreanisch"
     ]
   },
   {
@@ -2187,7 +2574,7 @@
     "longName": "Republik Korea",
     "altNames": [],
     "capital": "Seoul",
-    "population": 50700000,
+    "population": 51400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/720px-Flag_of_South_Korea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png"
@@ -2203,6 +2590,11 @@
     ],
     "borders": [
       "PRK"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav.ogg",
+    "anthemName": "Lied der Liebe für das Land",
+    "adjectives": [
+      "koreanisch"
     ]
   },
   {
@@ -2216,14 +2608,16 @@
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png"
     },
     "iso3": "RKS",
-    "iso2": false
+    "iso2": "XK",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/34/National_Anthem_of_Kosovo_by_US_Navy_Band.ogg",
+    "anthemName": "Europa"
   },
   {
     "name": "Kroatien",
     "longName": "Republik Kroatien",
     "altNames": [],
     "capital": "Zagreb",
-    "population": 4200000,
+    "population": 4100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/720px-Flag_of_Croatia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1200px-Flag_of_Croatia.svg.png"
@@ -2243,6 +2637,11 @@
       "MNE",
       "SRB",
       "SVN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lijepa_nasa_domovino_instrumental.ogg",
+    "anthemName": "Unser schönes Heimatland",
+    "adjectives": [
+      "kroatisch"
     ]
   },
   {
@@ -2250,7 +2649,7 @@
     "longName": "Republik Kuba",
     "altNames": [],
     "capital": "Havanna",
-    "population": 11100000,
+    "population": 11300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/720px-Flag_of_Cuba.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1200px-Flag_of_Cuba.svg.png"
@@ -2265,14 +2664,19 @@
       "CUC",
       "CUP"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/United_States_Navy_Band_-_La_Bayamesa.ogg",
+    "anthemName": "Bayamolied",
+    "adjectives": [
+      "kubanisch"
+    ]
   },
   {
     "name": "Kuwait",
     "longName": "Staat Kuwait",
     "altNames": [],
     "capital": "Kuwait-Stadt",
-    "population": 3800000,
+    "population": 4100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/720px-Flag_of_Kuwait.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1200px-Flag_of_Kuwait.svg.png"
@@ -2289,6 +2693,10 @@
     "borders": [
       "IRN",
       "SAU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kuwait.ogg",
+    "adjectives": [
+      "kuwaitisch"
     ]
   },
   {
@@ -2296,7 +2704,7 @@
     "longName": "Demokratische Volksrepublik Laos",
     "altNames": [],
     "capital": "Vientiane",
-    "population": 6900000,
+    "population": 7000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/720px-Flag_of_Laos.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1200px-Flag_of_Laos.svg.png"
@@ -2316,6 +2724,11 @@
       "CHN",
       "THA",
       "VNM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/National_Anthem_of_Laos.ogg/National_Anthem_of_Laos.ogg.mp3",
+    "anthemName": "Hymne des Volkes von Laos",
+    "adjectives": [
+      "laotisch"
     ]
   },
   {
@@ -2323,7 +2736,7 @@
     "longName": "Königreich Lesotho",
     "altNames": [],
     "capital": "Maseru",
-    "population": 1900000,
+    "population": 2200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/720px-Flag_of_Lesotho.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1200px-Flag_of_Lesotho.svg.png"
@@ -2341,6 +2754,10 @@
     ],
     "borders": [
       "ZAF"
+    ],
+    "anthemName": "Lesotho, das Land unserer Väter",
+    "adjectives": [
+      "lesothisch"
     ]
   },
   {
@@ -2348,7 +2765,7 @@
     "longName": "Republik Lettland",
     "altNames": [],
     "capital": "Riga",
-    "population": 2000000,
+    "population": 1900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/720px-Flag_of_Latvia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1200px-Flag_of_Latvia.svg.png"
@@ -2367,6 +2784,10 @@
       "EST",
       "LTU",
       "RUS"
+    ],
+    "anthemName": "Gott segne Lettland",
+    "adjectives": [
+      "lettisch"
     ]
   },
   {
@@ -2392,6 +2813,11 @@
     "borders": [
       "ISR",
       "SYR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/National_Anthem_of_Lebanon.ogg",
+    "anthemName": "Wir alle! Für das Vaterland, den Ruhm und die Flagge!",
+    "adjectives": [
+      "libanesisch"
     ]
   },
   {
@@ -2399,7 +2825,7 @@
     "longName": "Republik Liberia",
     "altNames": [],
     "capital": "Monrovia",
-    "population": 4500000,
+    "population": 4700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/720px-Flag_of_Liberia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1200px-Flag_of_Liberia.svg.png"
@@ -2417,6 +2843,11 @@
       "GIN",
       "CIV",
       "SLE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/All_Hail%2C_Liberia%2C_Hail_%28instrumental%29.oga",
+    "anthemName": "Heil dir, Liberia, heil!",
+    "adjectives": [
+      "liberianisch"
     ]
   },
   {
@@ -2424,7 +2855,7 @@
     "longName": "Libyen",
     "altNames": [],
     "capital": "Tripolis",
-    "population": 6300000,
+    "population": 6400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/720px-Flag_of_Libya.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1200px-Flag_of_Libya.svg.png"
@@ -2445,6 +2876,10 @@
       "NER",
       "SDN",
       "TUN"
+    ],
+    "anthemName": "Libyen, Libyen, Libyen",
+    "adjectives": [
+      "libysch"
     ]
   },
   {
@@ -2452,7 +2887,7 @@
     "longName": "Fürstentum Liechtenstein",
     "altNames": [],
     "capital": "Vaduz",
-    "population": 37100,
+    "population": 40000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/720px-Flag_of_Liechtenstein.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1200px-Flag_of_Liechtenstein.svg.png"
@@ -2469,6 +2904,10 @@
     "borders": [
       "AUT",
       "CHE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/Oben_am_jungen_Rhein%2C_by_the_U.S._Navy_Band.ogg/Oben_am_jungen_Rhein%2C_by_the_U.S._Navy_Band.ogg.mp3",
+    "adjectives": [
+      "liechtensteinisch"
     ]
   },
   {
@@ -2476,7 +2915,7 @@
     "longName": "Republik Litauen",
     "altNames": [],
     "capital": "Vilnius",
-    "population": 2900000,
+    "population": 2800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/720px-Flag_of_Lithuania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png"
@@ -2495,6 +2934,11 @@
       "LVA",
       "POL",
       "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tauti%C5%A1ka_giesme_instumental.ogg",
+    "anthemName": "Das Nationallied",
+    "adjectives": [
+      "litauisch"
     ]
   },
   {
@@ -2522,6 +2966,11 @@
       "BEL",
       "FRA",
       "DEU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_National_Anthem.ogg",
+    "anthemName": "Unsere Heimat",
+    "adjectives": [
+      "luxemburgisch"
     ]
   },
   {
@@ -2529,7 +2978,7 @@
     "longName": "Republik Madagaskar",
     "altNames": [],
     "capital": "Antananarivo",
-    "population": 23000000,
+    "population": 25500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/720px-Flag_of_Madagascar.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1200px-Flag_of_Madagascar.svg.png"
@@ -2544,14 +2993,19 @@
     "currencies": [
       "MGA"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/National_Anthem_of_Madagascar_by_US_Navy_Band.ogg",
+    "anthemName": "Oh, unser geliebtes Vaterland",
+    "adjectives": [
+      "madagassisch"
+    ]
   },
   {
     "name": "Malawi",
     "longName": "Republik Malawi",
     "altNames": [],
     "capital": "Lilongwe",
-    "population": 17200000,
+    "population": 18600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/720px-Flag_of_Malawi.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1200px-Flag_of_Malawi.svg.png"
@@ -2570,6 +3024,11 @@
       "MOZ",
       "TZA",
       "ZMB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Malawian_national_anthem.oga",
+    "anthemName": "Gott segne Malawi",
+    "adjectives": [
+      "malawisch"
     ]
   },
   {
@@ -2577,7 +3036,7 @@
     "longName": "Malaysia",
     "altNames": [],
     "capital": "Kuala Lumpur",
-    "population": 30800000,
+    "population": 31600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/720px-Flag_of_Malaysia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1200px-Flag_of_Malaysia.svg.png"
@@ -2593,6 +3052,11 @@
       "BRN",
       "IDN",
       "THA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Negaraku_instrumental.ogg",
+    "anthemName": "Mein Land",
+    "adjectives": [
+      "malaysisch"
     ]
   },
   {
@@ -2600,7 +3064,7 @@
     "longName": "Republik Malediven",
     "altNames": [],
     "capital": "Malé",
-    "population": 300000,
+    "population": 400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/720px-Flag_of_Maldives.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/1200px-Flag_of_Maldives.svg.png"
@@ -2614,14 +3078,19 @@
     "currencies": [
       "MVR"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gaumii_salaam.ogg",
+    "anthemName": "Nationaler Gruß",
+    "adjectives": [
+      "maledivisch"
+    ]
   },
   {
     "name": "Mali",
     "longName": "Republik Mali",
     "altNames": [],
     "capital": "Bamako",
-    "population": 16700000,
+    "population": 18900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/720px-Flag_of_Mali.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1200px-Flag_of_Mali.svg.png"
@@ -2643,6 +3112,10 @@
       "MRT",
       "NER",
       "SEN"
+    ],
+    "anthemName": "Mali",
+    "adjectives": [
+      "malisch"
     ]
   },
   {
@@ -2650,7 +3123,7 @@
     "longName": "Republik Malta",
     "altNames": [],
     "capital": "Valletta",
-    "population": 413000,
+    "population": 438000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/720px-Flag_of_Malta.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1200px-Flag_of_Malta.svg.png"
@@ -2665,14 +3138,19 @@
     "currencies": [
       "EUR"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malta_National_Anthem.ogg",
+    "anthemName": "Die Hymne Maltas",
+    "adjectives": [
+      "maltesisch"
+    ]
   },
   {
     "name": "Marokko",
     "longName": "Königreich Marokko",
     "altNames": [],
     "capital": "Rabat",
-    "population": 34100000,
+    "population": 35100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/720px-Flag_of_Morocco.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1200px-Flag_of_Morocco.svg.png"
@@ -2690,6 +3168,11 @@
       "DZA",
       "ESH",
       "ESP"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/National_Anthem_of_Morocco_by_US_Navy_Band.ogg",
+    "anthemName": "die Scherifische Hymne",
+    "adjectives": [
+      "marokkanisch"
     ]
   },
   {
@@ -2712,14 +3195,19 @@
     "currencies": [
       "USD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/National_Anthem_of_Marshall_Islands_by_US_Navy_Band.ogg",
+    "anthemName": "Die Marshallinseln über alles",
+    "adjectives": [
+      "marshallisch"
+    ]
   },
   {
     "name": "Mauretanien",
     "longName": "Islamische Republik Mauretanien",
     "altNames": [],
     "capital": "Nouakchott",
-    "population": 3600000,
+    "population": 4400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/720px-Flag_of_Mauritania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/1200px-Flag_of_Mauritania.svg.png"
@@ -2738,6 +3226,11 @@
       "MLI",
       "SEN",
       "ESH"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Former_national_anthem_of_Mauritania_%281960%E2%80%932017%29%2C_performed_by_the_U.S._Navy_Band.oga",
+    "anthemName": "Nationalhymne Mauretaniens",
+    "adjectives": [
+      "mauretanisch"
     ]
   },
   {
@@ -2759,7 +3252,12 @@
     "currencies": [
       "MUR"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/45/National_Anthem_of_Mauritius_by_US_Navy_Band.ogg",
+    "anthemName": "Mutterland",
+    "adjectives": [
+      "mauritisch"
+    ]
   },
   {
     "name": "Mazedonien",
@@ -2786,6 +3284,11 @@
       "GRC",
       "KOS",
       "SRB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/96/National_Anthem_of_Macedonia_by_US_Navy_Band.ogg",
+    "anthemName": "Heute über Mazedonien",
+    "adjectives": [
+      "mazedonisch"
     ]
   },
   {
@@ -2793,7 +3296,7 @@
     "longName": "Vereinigte Mexikanische Staaten",
     "altNames": [],
     "capital": "Mexiko-Stadt",
-    "population": 127000000,
+    "population": 129200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/720px-Flag_of_Mexico.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png"
@@ -2811,6 +3314,11 @@
       "BLZ",
       "GTM",
       "USA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg",
+    "anthemName": "Mexikanische Nationalhymne",
+    "adjectives": [
+      "mexikanisch"
     ]
   },
   {
@@ -2832,14 +3340,19 @@
     "currencies": [
       "USD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Micronesia_National_Anthem.ogg",
+    "anthemName": "Patrioten von Mikronesien",
+    "adjectives": [
+      "mikronesisch"
+    ]
   },
   {
-    "name": "Moldawien",
+    "name": "Moldau",
     "longName": "Republik Moldau",
     "altNames": [],
     "capital": "Chișinău",
-    "population": 4100000,
+    "population": 3900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/720px-Flag_of_Moldova.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1200px-Flag_of_Moldova.svg.png"
@@ -2856,6 +3369,12 @@
     "borders": [
       "ROU",
       "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Imnul_Republicii_Moldova_US_NAVY.ogg",
+    "anthemName": "Unsere Sprache",
+    "adjectives": [
+      "moldauisch",
+      "moldavisch"
     ]
   },
   {
@@ -2878,6 +3397,11 @@
     ],
     "borders": [
       "FRA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/Monaco_National_Anthem.ogg/Monaco_National_Anthem.ogg.mp3",
+    "anthemName": "Monegassische Hymne",
+    "adjectives": [
+      "monegassisch"
     ]
   },
   {
@@ -2885,7 +3409,7 @@
     "longName": "Mongolei",
     "altNames": [],
     "capital": "Ulaanbaatar",
-    "population": 3000000,
+    "population": 3200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/720px-Flag_of_Mongolia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1200px-Flag_of_Mongolia.svg.png"
@@ -2902,6 +3426,12 @@
     "borders": [
       "CHN",
       "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_anthem_of_Mongolia_2006_official-instrumental.ogg",
+    "anthemName": "Mongolische Nationalhymne",
+    "adjectives": [
+      "mongolisch",
+      "montenegrinisch"
     ]
   },
   {
@@ -2915,14 +3445,16 @@
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1200px-Flag_of_Montenegro.svg.png"
     },
     "iso3": "MNE",
-    "iso2": "ME"
+    "iso2": "ME",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_Anthem_of_Montenegro.ogg",
+    "anthemName": "Oh, du helle Morgenröte im Mai"
   },
   {
     "name": "Mosambik",
     "longName": "Republik Mosambik",
     "altNames": [],
     "capital": "Maputo",
-    "population": 25700000,
+    "population": 29700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/720px-Flag_of_Mozambique.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/1200px-Flag_of_Mozambique.svg.png"
@@ -2943,6 +3475,11 @@
       "TZA",
       "ZMB",
       "ZWE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/National_Anthem_of_Mozambique_by_US_Navy_Band.ogg",
+    "anthemName": "Geliebtes Vaterland",
+    "adjectives": [
+      "mosambikanisch"
     ]
   },
   {
@@ -2950,13 +3487,20 @@
     "longName": "Republik der Union Myanmar",
     "altNames": [],
     "capital": "Naypyidaw",
-    "population": 52100000,
+    "population": 53400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/720px-Flag_of_Myanmar.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png"
     },
     "iso3": "MMR",
-    "iso2": "MM"
+    "iso2": "MM",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga",
+    "anthemName": "Bis zum Ende der Welt",
+    "adjectives": [
+      "myanmarisch",
+      "birmanisch",
+      "burmesisch"
+    ]
   },
   {
     "name": "Namibia",
@@ -2984,6 +3528,10 @@
       "BWA",
       "ZAF",
       "ZMB"
+    ],
+    "anthemName": "Namibia, Land der Mutigen",
+    "adjectives": [
+      "namibisch"
     ]
   },
   {
@@ -3006,14 +3554,18 @@
     "currencies": [
       "AUD"
     ],
-    "borders": []
+    "borders": [],
+    "anthemName": "Nauru, unser Heimatland",
+    "adjectives": [
+      "nauruisch"
+    ]
   },
   {
     "name": "Nepal",
     "longName": "Demokratische Bundesrepublik Nepal",
     "altNames": [],
     "capital": "Kathmandu",
-    "population": 28000000,
+    "population": 29400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nepal_%28with_spacing%29.svg/720px-Flag_of_Nepal_%28with_spacing%29.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nepal_%28with_spacing%29.svg/1200px-Flag_of_Nepal_%28with_spacing%29.svg.png"
@@ -3030,6 +3582,11 @@
     "borders": [
       "CHN",
       "IND"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nepal_anthem.ogg",
+    "anthemName": "Hunderte von Blumen",
+    "adjectives": [
+      "nepalesisch"
     ]
   },
   {
@@ -3037,7 +3594,7 @@
     "longName": "Neuseeland",
     "altNames": [],
     "capital": "Wellington",
-    "population": 4600000,
+    "population": 4800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/720px-Flag_of_New_Zealand.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1200px-Flag_of_New_Zealand.svg.png"
@@ -3052,14 +3609,19 @@
     "currencies": [
       "NZD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg",
+    "anthemName": "Gott beschütze Neuseeland",
+    "adjectives": [
+      "neuseeländisch"
+    ]
   },
   {
     "name": "Nicaragua",
     "longName": "Republik Nicaragua",
     "altNames": [],
     "capital": "Managua",
-    "population": 6300000,
+    "population": 6200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/720px-Flag_of_Nicaragua.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/1200px-Flag_of_Nicaragua.svg.png"
@@ -3076,6 +3638,11 @@
     "borders": [
       "CRI",
       "HND"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/National_Anthem_of_Nicaragua_by_US_Navy_Band.ogg",
+    "anthemName": "Sei gegrüßt, Nicaragua",
+    "adjectives": [
+      "nicaraguanisch"
     ]
   },
   {
@@ -3083,7 +3650,7 @@
     "longName": "Königreich der Niederlande",
     "altNames": [],
     "capital": "Amsterdam",
-    "population": 16900000,
+    "population": 17100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/720px-Flag_of_the_Netherlands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
@@ -3100,6 +3667,11 @@
     "borders": [
       "BEL",
       "DEU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Wilhelmus_koor.oga",
+    "anthemName": "Wilhelmlied",
+    "adjectives": [
+      "niederländisch"
     ]
   },
   {
@@ -3107,7 +3679,7 @@
     "longName": "Republik Niger",
     "altNames": [],
     "capital": "Niamey",
-    "population": 18900000,
+    "population": 20600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/720px-Flag_of_Niger.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1200px-Flag_of_Niger.svg.png"
@@ -3129,6 +3701,10 @@
       "LBY",
       "MLI",
       "NGA"
+    ],
+    "anthemName": "Nigerlied",
+    "adjectives": [
+      "nigrisch"
     ]
   },
   {
@@ -3136,7 +3712,7 @@
     "longName": "Bundesrepublik Nigeria",
     "altNames": [],
     "capital": "Abuja",
-    "population": 181800000,
+    "population": 190900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/720px-Flag_of_Nigeria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png"
@@ -3155,6 +3731,11 @@
       "CMR",
       "TCD",
       "NER"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/86/United_States_Navy_Band_-_%22Arise_O%2C_Compatriots%22.oga",
+    "anthemName": "Erhebt euch, Landsleute, folgt Nigerias Ruf",
+    "adjectives": [
+      "nigerianisch"
     ]
   },
   {
@@ -3176,14 +3757,17 @@
     "currencies": [
       "NZD"
     ],
-    "borders": []
+    "borders": [],
+    "adjectives": [
+      "niueanisch"
+    ]
   },
   {
     "name": "Norwegen",
     "longName": "Königreich Norwegen",
     "altNames": [],
     "capital": "Oslo",
-    "population": 5200000,
+    "population": 5300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/720px-Flag_of_Norway.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png"
@@ -3203,6 +3787,11 @@
       "FIN",
       "SWE",
       "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Norway_%28National_Anthem%29.ogg",
+    "anthemName": "Ja, wir lieben dieses Land",
+    "adjectives": [
+      "norwegisch"
     ]
   },
   {
@@ -3210,7 +3799,7 @@
     "longName": "Sultanat Oman",
     "altNames": [],
     "capital": "Maskat",
-    "population": 4200000,
+    "population": 4700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/720px-Flag_of_Oman.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1200px-Flag_of_Oman.svg.png"
@@ -3228,6 +3817,11 @@
       "SAU",
       "ARE",
       "YEM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/National_Anthem_of_Oman_by_US_Navy_Band.ogg",
+    "anthemName": "Nationalhymne Omans",
+    "adjectives": [
+      "omanisch"
     ]
   },
   {
@@ -3235,7 +3829,7 @@
     "longName": "Republik Österreich",
     "altNames": [],
     "capital": "Wien",
-    "population": 8600000,
+    "population": 8800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/720px-Flag_of_Austria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png"
@@ -3258,14 +3852,16 @@
       "SVK",
       "SVN",
       "CHE"
-    ]
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg",
+    "anthemName": "Land der Berge,Land am Strome"
   },
   {
     "name": "Osttimor / Timor-Leste",
     "longName": "Demokratische Republik Timor-Leste",
     "altNames": [],
     "capital": "Dili",
-    "population": 1200000,
+    "population": 1300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/720px-Flag_of_East_Timor.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1200px-Flag_of_East_Timor.svg.png"
@@ -3281,6 +3877,10 @@
     ],
     "borders": [
       "IDN"
+    ],
+    "adjectives": [
+      "osttimoresisch",
+      "osttimorisch"
     ]
   },
   {
@@ -3288,7 +3888,7 @@
     "longName": "Islamische Republik Pakistan",
     "altNames": [],
     "capital": "Islamabad",
-    "population": 199000000,
+    "population": 207600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/720px-Flag_of_Pakistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png"
@@ -3308,6 +3908,9 @@
       "CHN",
       "IND",
       "IRN"
+    ],
+    "adjectives": [
+      "pakistanisch"
     ]
   },
   {
@@ -3315,7 +3918,7 @@
     "longName": "–",
     "altNames": [],
     "capital": "Gaza und Ramallah",
-    "population": 4500000,
+    "population": 4900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/720px-Flag_of_Palestine.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1200px-Flag_of_Palestine.svg.png"
@@ -3342,14 +3945,19 @@
     "currencies": [
       "USD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/National_Anthem_of_Palau_by_US_Navy_Band.ogg",
+    "anthemName": "Unser Belau",
+    "adjectives": [
+      "palauisch"
+    ]
   },
   {
     "name": "Panama",
     "longName": "Republik Panama",
     "altNames": [],
     "capital": "Panama-Stadt",
-    "population": 4000000,
+    "population": 4100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/720px-Flag_of_Panama.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png"
@@ -3367,6 +3975,11 @@
     "borders": [
       "COL",
       "CRI"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Panama_National_Anthem.ogg",
+    "anthemName": "Hymne des Isthmus",
+    "adjectives": [
+      "panamaisch"
     ]
   },
   {
@@ -3374,7 +3987,7 @@
     "longName": "Unabhängiger Staat Papua-Neuguinea",
     "altNames": [],
     "capital": "Port Moresby",
-    "population": 7700000,
+    "population": 8300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/720px-Flag_of_Papua_New_Guinea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png"
@@ -3390,6 +4003,11 @@
     ],
     "borders": [
       "IDN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/df/National_Anthem_of_Papua_New_Guinea_by_US_Navy_Band.ogg",
+    "anthemName": "Erhebt euch, Söhne dieses Landes",
+    "adjectives": [
+      "papua-neuguineisch"
     ]
   },
   {
@@ -3397,7 +4015,7 @@
     "longName": "Republik Paraguay",
     "altNames": [],
     "capital": "Asunción",
-    "population": 7000000,
+    "population": 6800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/720px-Flag_of_Paraguay.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1200px-Flag_of_Paraguay.svg.png"
@@ -3416,6 +4034,11 @@
       "ARG",
       "BOL",
       "BRA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/Paraguayan_National_Anthem.oga/Paraguayan_National_Anthem.oga.mp3",
+    "anthemName": "Paraguay, Republik oder Tod",
+    "adjectives": [
+      "paraguayisch"
     ]
   },
   {
@@ -3423,7 +4046,7 @@
     "longName": "Republik Peru",
     "altNames": [],
     "capital": "Lima",
-    "population": 31200000,
+    "population": 31800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/720px-Flag_of_Peru.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1200px-Flag_of_Peru.svg.png"
@@ -3443,6 +4066,11 @@
       "CHL",
       "COL",
       "ECU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg",
+    "anthemName": "Wir sind frei, lasst uns so für immer bleiben",
+    "adjectives": [
+      "peruanisch"
     ]
   },
   {
@@ -3450,7 +4078,7 @@
     "longName": "Republik der Philippinen",
     "altNames": [],
     "capital": "Manila",
-    "population": 103000000,
+    "population": 105000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/720px-Flag_of_the_Philippines.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1200px-Flag_of_the_Philippines.svg.png"
@@ -3464,14 +4092,19 @@
     "currencies": [
       "PHP"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lupang_Hinirang_instrumental.ogg",
+    "anthemName": "Auserwähltes Land",
+    "adjectives": [
+      "philippinisch"
+    ]
   },
   {
     "name": "Polen",
     "longName": "Republik Polen",
     "altNames": [],
     "capital": "Warschau",
-    "population": 38500000,
+    "population": 38400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/720px-Flag_of_Poland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1200px-Flag_of_Poland.svg.png"
@@ -3493,6 +4126,11 @@
       "RUS",
       "SVK",
       "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ignacy_dygas_-_mazurek_d%C4%85browskiego.ogg",
+    "anthemName": "Dąbrowski-Mazurka",
+    "adjectives": [
+      "polnisch"
     ]
   },
   {
@@ -3516,6 +4154,11 @@
     ],
     "borders": [
       "ESP"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg",
+    "anthemName": "Portugallied",
+    "adjectives": [
+      "portugiesisch"
     ]
   },
   {
@@ -3523,7 +4166,7 @@
     "longName": "Republik Ruanda",
     "altNames": [],
     "capital": "Kigali",
-    "population": 11300000,
+    "population": 12300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/720px-Flag_of_Rwanda.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1200px-Flag_of_Rwanda.svg.png"
@@ -3544,6 +4187,11 @@
       "COD",
       "TZA",
       "UGA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/Hymne_National_du_Rwanda.ogg/Hymne_National_du_Rwanda.ogg.mp3",
+    "anthemName": "Unser Ruanda",
+    "adjectives": [
+      "ruandisch"
     ]
   },
   {
@@ -3551,7 +4199,7 @@
     "longName": "Republik Rumänien",
     "altNames": [],
     "capital": "Bukarest",
-    "population": 19800000,
+    "population": 19600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/720px-Flag_of_Romania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1200px-Flag_of_Romania.svg.png"
@@ -3571,6 +4219,11 @@
       "MDA",
       "SRB",
       "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Desteapta-te%2C_romane%21.ogg",
+    "anthemName": "Erwache, Rumäne",
+    "adjectives": [
+      "rumänisch"
     ]
   },
   {
@@ -3578,7 +4231,7 @@
     "longName": "Russische Föderation",
     "altNames": [],
     "capital": "Moskau",
-    "population": 144300000,
+    "population": 144500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/720px-Flag_of_Russia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"
@@ -3607,6 +4260,11 @@
       "NOR",
       "POL",
       "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg.mp3",
+    "anthemName": "Hymne der Russischen Föderation",
+    "adjectives": [
+      "russisch"
     ]
   },
   {
@@ -3614,7 +4272,7 @@
     "longName": "Salomonen",
     "altNames": [],
     "capital": "Honiara",
-    "population": 600000,
+    "population": 700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/720px-Flag_of_the_Solomon_Islands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/1200px-Flag_of_the_Solomon_Islands.svg.png"
@@ -3628,14 +4286,18 @@
     "currencies": [
       "SDB"
     ],
-    "borders": []
+    "borders": [],
+    "anthemName": "Gott schütze unsere Salomonen",
+    "adjectives": [
+      "salomonisch"
+    ]
   },
   {
     "name": "Sambia",
     "longName": "Republik Sambia",
     "altNames": [],
     "capital": "Lusaka",
-    "population": 15500000,
+    "population": 16400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/720px-Flag_of_Zambia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1200px-Flag_of_Zambia.svg.png"
@@ -3658,6 +4320,10 @@
       "NAM",
       "TZA",
       "ZWE"
+    ],
+    "anthemName": "Steht und singt von Sambia, stolz und frei",
+    "adjectives": [
+      "sambisch"
     ]
   },
   {
@@ -3680,7 +4346,11 @@
     "currencies": [
       "WST"
     ],
-    "borders": []
+    "borders": [],
+    "anthemName": "Das Banner der Freiheit",
+    "adjectives": [
+      "samoanisch"
+    ]
   },
   {
     "name": "San Marino",
@@ -3703,6 +4373,9 @@
     ],
     "borders": [
       "ITA"
+    ],
+    "adjectives": [
+      "san-marinesisch"
     ]
   },
   {
@@ -3724,14 +4397,17 @@
     "currencies": [
       "STD"
     ],
-    "borders": []
+    "borders": [],
+    "adjectives": [
+      "são-toméisch"
+    ]
   },
   {
     "name": "Saudi-Arabien",
     "longName": "Königreich Saudi-Arabien",
     "altNames": [],
     "capital": "Riad",
-    "population": 31600000,
+    "population": 32600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/720px-Flag_of_Saudi_Arabia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1200px-Flag_of_Saudi_Arabia.svg.png"
@@ -3753,6 +4429,11 @@
       "QAT",
       "ARE",
       "YEM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/Aash_Al_Maleek_instrumental.ogg/Aash_Al_Maleek_instrumental.ogg.mp3",
+    "anthemName": "Saudische Nationalhymne",
+    "adjectives": [
+      "saudi-arabisch"
     ]
   },
   {
@@ -3760,7 +4441,7 @@
     "longName": "Königreich Schweden",
     "altNames": [],
     "capital": "Stockholm",
-    "population": 9800000,
+    "population": 10100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/720px-Flag_of_Sweden.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png"
@@ -3777,6 +4458,11 @@
     "borders": [
       "FIN",
       "NOR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/02/United_States_Navy_Band_-_Sweden.ogg",
+    "anthemName": "Du alter, du freier",
+    "adjectives": [
+      "schwedisch"
     ]
   },
   {
@@ -3784,7 +4470,7 @@
     "longName": "Schweizerische Eid­genossen­schaft",
     "altNames": [],
     "capital": "Bern",
-    "population": 8300000,
+    "population": 8500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/720px-Flag_of_Switzerland_within_2to3.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/1200px-Flag_of_Switzerland_within_2to3.svg.png"
@@ -3808,6 +4494,11 @@
       "ITA",
       "LIE",
       "DEU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Swiss_Psalm.ogg",
+    "adjectives": [
+      "Schweizer",
+      "schweizerisch"
     ]
   },
   {
@@ -3815,7 +4506,7 @@
     "longName": "Republik Senegal",
     "altNames": [],
     "capital": "Dakar",
-    "population": 14700000,
+    "population": 15800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/720px-Flag_of_Senegal.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1200px-Flag_of_Senegal.svg.png"
@@ -3835,6 +4526,11 @@
       "GNB",
       "MLI",
       "MRT"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/Hymne_National_du_S%C3%A9n%C3%A9gal.ogg/Hymne_National_du_S%C3%A9n%C3%A9gal.ogg.mp3",
+    "anthemName": "Zupft eure Koras, trommelt die Balafone",
+    "adjectives": [
+      "senegalesisch"
     ]
   },
   {
@@ -3842,13 +4538,18 @@
     "longName": "Republik Serbien",
     "altNames": [],
     "capital": "Belgrad",
-    "population": 7100000,
+    "population": 7000000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/720px-Flag_of_Serbia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png"
     },
     "iso3": "SRB",
-    "iso2": "RS"
+    "iso2": "RS",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/Serbian_national_anthem%2C_instrumental.oga/Serbian_national_anthem%2C_instrumental.oga.mp3",
+    "anthemName": "Gott der Gerechtigkeit",
+    "adjectives": [
+      "serbisch"
+    ]
   },
   {
     "name": "Seychellen",
@@ -3870,14 +4571,19 @@
     "currencies": [
       "SCR"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/66/National_Anthem_of_Seychelles_by_US_Navy_Band.ogg",
+    "anthemName": "Vereinigt euch, Seycheller",
+    "adjectives": [
+      "seychellisch"
+    ]
   },
   {
     "name": "Sierra Leone",
     "longName": "Republik Sierra Leone",
     "altNames": [],
     "capital": "Freetown",
-    "population": 6500000,
+    "population": 7600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/720px-Flag_of_Sierra_Leone.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1200px-Flag_of_Sierra_Leone.svg.png"
@@ -3894,6 +4600,9 @@
     "borders": [
       "GIN",
       "LBR"
+    ],
+    "adjectives": [
+      "sierra-leonisch"
     ]
   },
   {
@@ -3901,7 +4610,7 @@
     "longName": "Republik Simbabwe",
     "altNames": [],
     "capital": "Harare",
-    "population": 17400000,
+    "population": 16600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/720px-Flag_of_Zimbabwe.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1200px-Flag_of_Zimbabwe.svg.png"
@@ -3922,13 +4631,17 @@
       "MOZ",
       "ZAF",
       "ZMB"
+    ],
+    "anthemName": "Gesegnet sei das Land Simbabwe",
+    "adjectives": [
+      "simbabwisch"
     ]
   },
   {
     "name": "Singapur",
     "longName": "Republik Singapur",
     "altNames": [],
-    "population": 5500000,
+    "population": 5700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/720px-Flag_of_Singapore.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png"
@@ -3945,7 +4658,12 @@
     "currencies": [
       "SGD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/Majulah_Singapura.ogg/Majulah_Singapura.ogg.mp3",
+    "anthemName": "Vorwärts Singapur!",
+    "adjectives": [
+      "singapurisch"
+    ]
   },
   {
     "name": "Slowakei",
@@ -3972,6 +4690,10 @@
       "HUN",
       "POL",
       "UKR"
+    ],
+    "anthemName": "Es blitzt über der Tatra",
+    "adjectives": [
+      "slowakisch"
     ]
   },
   {
@@ -3998,6 +4720,11 @@
       "HRV",
       "ITA",
       "HUN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zdravljica.ogg",
+    "anthemName": "Prost",
+    "adjectives": [
+      "slowenisch"
     ]
   },
   {
@@ -4005,7 +4732,7 @@
     "longName": "Bundesrepublik Somalia",
     "altNames": [],
     "capital": "Mogadischu",
-    "population": 11100000,
+    "population": 14700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/720px-Flag_of_Somalia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1200px-Flag_of_Somalia.svg.png"
@@ -4024,6 +4751,10 @@
       "DJI",
       "ETH",
       "KEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/86/National_anthem_of_somalia.ogg",
+    "adjectives": [
+      "somalisch"
     ]
   },
   {
@@ -4031,7 +4762,7 @@
     "longName": "Königreich Spanien",
     "altNames": [],
     "capital": "Madrid",
-    "population": 46400000,
+    "population": 46600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/720px-Flag_of_Spain.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
@@ -4051,6 +4782,11 @@
       "GIB",
       "PRT",
       "MAR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg",
+    "anthemName": "Königlicher Marsch",
+    "adjectives": [
+      "spanisch"
     ]
   },
   {
@@ -4058,7 +4794,7 @@
     "longName": "Demokratische Sozialistische Republik Sri Lanka",
     "altNames": [],
     "capital": "Colombo",
-    "population": 20900000,
+    "population": 21400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/720px-Flag_of_Sri_Lanka.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png"
@@ -4075,6 +4811,9 @@
     ],
     "borders": [
       "IND"
+    ],
+    "adjectives": [
+      "sri-lankisch"
     ]
   },
   {
@@ -4096,7 +4835,9 @@
     "currencies": [
       "XCD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/United_States_Navy_Band_-_O_Land_of_Beauty.ogg",
+    "anthemName": "Oh Land der Schönheit"
   },
   {
     "name": "St. Lucia",
@@ -4117,7 +4858,10 @@
     "currencies": [
       "XCD"
     ],
-    "borders": []
+    "borders": [],
+    "adjectives": [
+      "lucianisch"
+    ]
   },
   {
     "name": "St. Vincent und die Grenadinen",
@@ -4138,14 +4882,17 @@
     "currencies": [
       "XCD"
     ],
-    "borders": []
+    "borders": [],
+    "adjectives": [
+      "vincentisch"
+    ]
   },
   {
     "name": "Südafrika",
     "longName": "Republik Südafrika",
     "altNames": [],
     "capital": "Pretoria",
-    "population": 55000000,
+    "population": 56500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/720px-Flag_of_South_Africa.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png"
@@ -4175,6 +4922,11 @@
       "NAM",
       "SWZ",
       "ZWE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga",
+    "anthemName": "Nationalhymne von Südafrika",
+    "adjectives": [
+      "südafrikanisch"
     ]
   },
   {
@@ -4182,7 +4934,7 @@
     "longName": "Republik Sudan",
     "altNames": [],
     "capital": "Khartum",
-    "population": 40900000,
+    "population": 40600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/720px-Flag_of_Sudan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1200px-Flag_of_Sudan.svg.png"
@@ -4205,6 +4957,11 @@
       "ETH",
       "LBY",
       "SSD"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Sudan.ogg/Sudan.ogg.mp3",
+    "anthemName": "Wir sind die Soldaten Gottes und der Heimat",
+    "adjectives": [
+      "sudanesisch"
     ]
   },
   {
@@ -4225,7 +4982,7 @@
     "longName": "Republik Südsudan",
     "altNames": [],
     "capital": "Juba",
-    "population": 12200000,
+    "population": 12600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/720px-Flag_of_South_Sudan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/1200px-Flag_of_South_Sudan.svg.png"
@@ -4246,6 +5003,11 @@
       "KEN",
       "SDN",
       "UGA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/South_Sudan_Oyee%21.ogg/South_Sudan_Oyee%21.ogg.mp3",
+    "anthemName": "Südsudan hurra",
+    "adjectives": [
+      "südsudanesisch"
     ]
   },
   {
@@ -4272,6 +5034,10 @@
       "GUF",
       "FRA",
       "GUY"
+    ],
+    "anthemName": "Gott sei mit unserem Suriname",
+    "adjectives": [
+      "surinamisch"
     ]
   },
   {
@@ -4279,7 +5045,7 @@
     "longName": "Königreich Swasiland",
     "altNames": [],
     "capital": "Mbabane",
-    "population": 1300000,
+    "population": 1400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/720px-Flag_of_Swaziland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/1200px-Flag_of_Swaziland.svg.png"
@@ -4297,6 +5063,11 @@
     "borders": [
       "MOZ",
       "ZAF"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Swaziland.ogg",
+    "anthemName": "O Herr unser Gott, der Du die Segnungen an die Swasi verteilst",
+    "adjectives": [
+      "swasiländisch"
     ]
   },
   {
@@ -4304,7 +5075,7 @@
     "longName": "Arabische Republik Syrien",
     "altNames": [],
     "capital": "Damaskus",
-    "population": 17100000,
+    "population": 18300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/720px-Flag_of_Syria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1200px-Flag_of_Syria.svg.png"
@@ -4324,6 +5095,11 @@
       "JOR",
       "LBN",
       "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/National_Anthem_of_Syria_by_US_Navy_Band.ogg",
+    "anthemName": "Hüter der Heimat",
+    "adjectives": [
+      "syrisch"
     ]
   },
   {
@@ -4331,7 +5107,7 @@
     "longName": "Republik Tadschikistan",
     "altNames": [],
     "capital": "Duschanbe",
-    "population": 8500000,
+    "population": 8800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/720px-Flag_of_Tajikistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1200px-Flag_of_Tajikistan.svg.png"
@@ -4351,6 +5127,10 @@
       "CHN",
       "KGZ",
       "UZB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/Tajikistan_anthem.ogg/Tajikistan_anthem.ogg.mp3",
+    "adjectives": [
+      "tadschikisch"
     ]
   },
   {
@@ -4358,7 +5138,7 @@
     "longName": "Vereinigte Republik Tansania",
     "altNames": [],
     "capital": "Dodoma",
-    "population": 52300000,
+    "population": 57500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/720px-Flag_of_Tanzania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1200px-Flag_of_Tanzania.svg.png"
@@ -4382,6 +5162,11 @@
       "RWA",
       "UGA",
       "ZMB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga",
+    "anthemName": "Gott segne Afrika",
+    "adjectives": [
+      "tansanisch"
     ]
   },
   {
@@ -4389,7 +5174,7 @@
     "longName": "Königreich Thailand",
     "altNames": [],
     "capital": "Bangkok",
-    "population": 65100000,
+    "population": 66100000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/720px-Flag_of_Thailand.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png"
@@ -4408,6 +5193,10 @@
       "KHM",
       "LAO",
       "MYS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Thai_National_Anthem_-_US_Navy_Band.ogg",
+    "adjectives": [
+      "thailändisch"
     ]
   },
   {
@@ -4415,7 +5204,7 @@
     "longName": "Republik Togo",
     "altNames": [],
     "capital": "Lomé",
-    "population": 7200000,
+    "population": 7800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/720px-Flag_of_Togo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1200px-Flag_of_Togo.svg.png"
@@ -4433,6 +5222,11 @@
       "BEN",
       "BFA",
       "GHA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/84/National_Anthem_of_Togo_by_US_Navy_Band.ogg/National_Anthem_of_Togo_by_US_Navy_Band.ogg.mp3",
+    "anthemName": "Gegrüßt seist du, Land unserer Vorväter",
+    "adjectives": [
+      "togoisch"
     ]
   },
   {
@@ -4455,7 +5249,11 @@
     "currencies": [
       "TOP"
     ],
-    "borders": []
+    "borders": [],
+    "anthemName": "Lied des Königs der Tonga-Inseln",
+    "adjectives": [
+      "tongaisch"
+    ]
   },
   {
     "name": "Trinidad und Tobago",
@@ -4476,14 +5274,16 @@
     "currencies": [
       "TTD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/National_Anthem_of_Trinidad_and_Tobago_by_US_Navy_Band.ogg",
+    "anthemName": "Geschmiedet aus der Liebe zur Freiheit"
   },
   {
     "name": "Tschad",
     "longName": "Republik Tschad",
     "altNames": [],
     "capital": "N’Djamena",
-    "population": 13700000,
+    "population": 14900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/720px-Flag_of_Chad.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1200px-Flag_of_Chad.svg.png"
@@ -4505,6 +5305,10 @@
       "NER",
       "NGA",
       "SSD"
+    ],
+    "anthemName": "Tschadlied",
+    "adjectives": [
+      "tschadisch"
     ]
   },
   {
@@ -4532,6 +5336,11 @@
       "DEU",
       "POL",
       "SVK"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Czech_anthem.ogg",
+    "anthemName": "Wo ist mein Heimatland?",
+    "adjectives": [
+      "tschechisch"
     ]
   },
   {
@@ -4539,7 +5348,7 @@
     "longName": "Tunesische Republik",
     "altNames": [],
     "capital": "Tunis",
-    "population": 11000000,
+    "population": 11500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/720px-Flag_of_Tunisia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png"
@@ -4556,6 +5365,11 @@
     "borders": [
       "DZA",
       "LBY"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Humat_al-Hima.ogg",
+    "anthemName": "Verteidiger des Vaterlandes",
+    "adjectives": [
+      "tunesisch"
     ]
   },
   {
@@ -4563,7 +5377,7 @@
     "longName": "Republik Türkei",
     "altNames": [],
     "capital": "Ankara",
-    "population": 78200000,
+    "population": 80900000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/720px-Flag_of_Turkey.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png"
@@ -4586,6 +5400,11 @@
       "IRN",
       "IRQ",
       "SYR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg",
+    "anthemName": "Unabhängigkeitsmarsch",
+    "adjectives": [
+      "türkisch"
     ]
   },
   {
@@ -4593,7 +5412,7 @@
     "longName": "Turkmenistan",
     "altNames": [],
     "capital": "Aschgabad",
-    "population": 5400000,
+    "population": 5800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/720px-Flag_of_Turkmenistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1200px-Flag_of_Turkmenistan.svg.png"
@@ -4613,6 +5432,11 @@
       "IRN",
       "KAZ",
       "UZB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/US_Navy_Band_-_National_Anthem_of_Turkmenistan.ogg",
+    "anthemName": "Die Staatshymne des unabhängigen und neutralen Turkmenistans",
+    "adjectives": [
+      "turkmenisch"
     ]
   },
   {
@@ -4634,14 +5458,18 @@
     "currencies": [
       "AUD"
     ],
-    "borders": []
+    "borders": [],
+    "anthemName": "Tuvalu dem Allmächtigen",
+    "adjectives": [
+      "tuvaluisch"
+    ]
   },
   {
     "name": "Uganda",
     "longName": "Republik Uganda",
     "altNames": [],
     "capital": "Kampala",
-    "population": 40100000,
+    "population": 42800000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/720px-Flag_of_Uganda.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1200px-Flag_of_Uganda.svg.png"
@@ -4662,6 +5490,11 @@
       "RWA",
       "SSD",
       "TZA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uganda_national_anthem.ogg",
+    "anthemName": "Oh Uganda, Land der Schönheit",
+    "adjectives": [
+      "ugandisch"
     ]
   },
   {
@@ -4669,7 +5502,7 @@
     "longName": "Ukraine",
     "altNames": [],
     "capital": "Kiew",
-    "population": 42800000,
+    "population": 42300000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/720px-Flag_of_Ukraine.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1200px-Flag_of_Ukraine.svg.png"
@@ -4691,6 +5524,11 @@
       "ROU",
       "RUS",
       "SVK"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/Anthem_of_Ukraine_instrumental.ogg/Anthem_of_Ukraine_instrumental.ogg.mp3",
+    "anthemName": "Noch sind der Ukraine Ruhm und Freiheit nicht gestorben",
+    "adjectives": [
+      "ukrainisch"
     ]
   },
   {
@@ -4720,6 +5558,11 @@
       "SVK",
       "SVN",
       "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Erkel_Ferenc_Magyar_Himnusz.ogg",
+    "anthemName": "Hymne",
+    "adjectives": [
+      "ungarisch"
     ]
   },
   {
@@ -4727,7 +5570,7 @@
     "longName": "Republik Östlich des Uruguay",
     "altNames": [],
     "capital": "Montevideo",
-    "population": 3600000,
+    "population": 3500000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/720px-Flag_of_Uruguay.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
@@ -4745,6 +5588,11 @@
     "borders": [
       "ARG",
       "BRA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg",
+    "anthemName": "Uruguayer, Vaterland oder Tod!",
+    "adjectives": [
+      "uruguayisch"
     ]
   },
   {
@@ -4752,7 +5600,7 @@
     "longName": "Republik Usbekistan",
     "altNames": [],
     "capital": "Taschkent",
-    "population": 31300000,
+    "population": 32600000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/720px-Flag_of_Uzbekistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1200px-Flag_of_Uzbekistan.svg.png"
@@ -4773,6 +5621,11 @@
       "KGZ",
       "TJK",
       "TKM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Uzbekistan_anthem.ogg",
+    "anthemName": "Bleib’ stark, mein freies Land, Glück und Rettung dir",
+    "adjectives": [
+      "usbekisch"
     ]
   },
   {
@@ -4796,7 +5649,12 @@
     "currencies": [
       "VUV"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/United_States_Navy_Band_-_Yumi%2C_Yumi%2C_Yumi.ogg",
+    "anthemName": "Wir, wir, wir",
+    "adjectives": [
+      "vanuatuisch"
+    ]
   },
   {
     "name": "Vatikanstadt",
@@ -4808,14 +5666,19 @@
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/1200px-Flag_of_the_Vatican_City.svg.png"
     },
     "iso3": "VAT",
-    "iso2": "VA"
+    "iso2": "VA",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg",
+    "anthemName": "Hymne und Pontifikalmarsch",
+    "adjectives": [
+      "vatikanisch"
+    ]
   },
   {
     "name": "Venezuela",
     "longName": "Bolivarische Republik Venezuela",
     "altNames": [],
     "capital": "Caracas",
-    "population": 30600000,
+    "population": 31400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/720px-Flag_of_Venezuela.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1200px-Flag_of_Venezuela.svg.png"
@@ -4833,6 +5696,11 @@
       "BRA",
       "COL",
       "GUY"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg",
+    "anthemName": "Ruhm dem tapferen Volke",
+    "adjectives": [
+      "venezolanisch"
     ]
   },
   {
@@ -4840,7 +5708,7 @@
     "longName": "Vereinigte Arabische Emirate",
     "altNames": [],
     "capital": "Abu Dhabi",
-    "population": 9600000,
+    "population": 9400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/720px-Flag_of_the_United_Arab_Emirates.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1200px-Flag_of_the_United_Arab_Emirates.svg.png"
@@ -4857,7 +5725,8 @@
     "borders": [
       "OMN",
       "SAU"
-    ]
+    ],
+    "anthemName": "Lang lebe mein Land"
   },
   {
     "name": "Vereinigte Staaten",
@@ -4866,7 +5735,7 @@
       "USA"
     ],
     "capital": "Washington, D.C.",
-    "population": 321200000,
+    "population": 325400000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/720px-Flag_of_the_United_States.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"
@@ -4885,6 +5754,12 @@
     "borders": [
       "CAN",
       "MEX"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/Star_Spangled_Banner_instrumental.ogg/Star_Spangled_Banner_instrumental.ogg.mp3",
+    "anthemName": "Das sternenbesetzte Banner",
+    "adjectives": [
+      "amerikanisch",
+      "US-amerikanisch"
     ]
   },
   {
@@ -4895,7 +5770,7 @@
       "Großbritannien"
     ],
     "capital": "London",
-    "population": 65100000,
+    "population": 66200000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/720px-Flag_of_the_United_Kingdom.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
@@ -4911,6 +5786,11 @@
     ],
     "borders": [
       "IRL"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg",
+    "anthemName": "Gott schütze die Königin",
+    "adjectives": [
+      "britisch"
     ]
   },
   {
@@ -4918,7 +5798,7 @@
     "longName": "Sozialistische Republik Vietnam",
     "altNames": [],
     "capital": "Hanoi",
-    "population": 91700000,
+    "population": 93700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/720px-Flag_of_Vietnam.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png"
@@ -4936,6 +5816,11 @@
       "KHM",
       "CHN",
       "LAO"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/73/United_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg",
+    "anthemName": "Marschiert an die Front",
+    "adjectives": [
+      "vietnamesisch"
     ]
   },
   {
@@ -4964,6 +5849,12 @@
       "POL",
       "RUS",
       "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/46/My_Belarusy.ogg",
+    "anthemName": "Wir Weißrussen",
+    "adjectives": [
+      "belarussisch",
+      "weißrussisch"
     ]
   },
   {
@@ -4991,6 +5882,9 @@
       "DZA",
       "MRT",
       "MAR"
+    ],
+    "adjectives": [
+      "saharauisch"
     ]
   },
   {
@@ -4998,7 +5892,7 @@
     "longName": "Zentral­afrikanische Republik",
     "altNames": [],
     "capital": "Bangui",
-    "population": 5600000,
+    "population": 4700000,
     "flag": {
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/720px-Flag_of_the_Central_African_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png"
@@ -5020,6 +5914,9 @@
       "COG",
       "SSD",
       "SDN"
+    ],
+    "adjectives": [
+      "zentralafrikanisch"
     ]
   },
   {
@@ -5045,6 +5942,11 @@
     ],
     "borders": [
       "GBR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga",
+    "anthemName": "Ode an die Freiheit",
+    "adjectives": [
+      "zyprisch"
     ]
   }
 ]
