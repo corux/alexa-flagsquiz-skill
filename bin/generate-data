@@ -111,28 +111,61 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
       };
     }).get();
 
-    // amend with information from countryjs and national anthems
-    for (let country of data) {
-      const countryJsData = countryjs.info(country.iso3, 'ISO3');
-      if (countryJsData) {
-        country.region = continent.getTranslation(countryJsData.region);
-        country.languages = countryJsData.languages;
-        country.currencies = countryJsData.currencies;
-        country.borders = countryJsData.borders;
+    request('https://de.wikipedia.org/wiki/Wikipedia:Namenskonventionen/Staaten', (error, response, body) => {
+      var $ = cheerio.load(body);
+      var adjectiveRows = $('.wikitable tbody').find('tr:not(.hintergrundfarbe6)').get();
+      let isoCode;
+      let adjectiveMapping = {};
+      for (let row of adjectiveRows) {
+        const td = $(row).find('td');
+        const match = td.first().text().trim().match(/^[A-Z]{2}\/([A-Z]{3})/i);
+        if (match && match[1]) {
+          isoCode = match[1];
+          adjectiveMapping[isoCode] = [];
+        }
+        if (isoCode && td.length >= 4) {
+          let adjectives = adjectiveMapping[isoCode];
+          const adjective = td.last().text().trim()
+            .replace(/\((.*)\)/, ',$1,')
+            .replace(/\[(.*)\]/, ',$1,')
+            .replace(' oder ', ',')
+            .replace(/bis [0-9]*:/i, '');
+          adjectives = adjectives.concat(adjective.split(','));
+
+          adjectiveMapping[isoCode] = adjectives
+            .map(val => val.trim())
+            .filter(val => val.length > 0 && val.match(/^[a-z]/i));
+        }
       }
 
-      const anthem = anthemData.filter(val => val.name == country.name);
-      if (anthem.length === 1) {
-        country.anthemName = anthem[0].anthemNameGerman;
-        country.anthem = anthem[0].audio;
+      // amend with information from countryjs, national anthems and adjectives
+      for (let country of data) {
+        const countryJsData = countryjs.info(country.iso3, 'ISO3');
+        if (countryJsData) {
+          country.region = continent.getTranslation(countryJsData.region);
+          country.languages = countryJsData.languages;
+          country.currencies = countryJsData.currencies;
+          country.borders = countryJsData.borders;
+        }
+
+        const anthem = anthemData.filter(val => val.name == country.name);
+        if (anthem.length === 1) {
+          country.anthemName = anthem[0].anthemNameGerman;
+          country.anthem = anthem[0].audio;
+        }
+
+        const adjectives = adjectiveMapping[country.iso3];
+        if (adjectives && adjectives.length > 0) {
+          country.adjectives = adjectives;
+        }
       }
-    }
 
-    // filter out countries without enough information
-    data = data.filter(val => val.iso3);
+      // filter out countries without enough information
+      data = data.filter(val => val.iso3);
 
-    // write data.json file
-    writeFile(data);
+      // write data.json file
+      writeFile(data);
+    });
   });
 });
 
