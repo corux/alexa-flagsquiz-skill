@@ -46,12 +46,22 @@ function fixCapitalName(name) {
   return name;
 }
 
+function fixAnthemName(name) {
+  if (name.toLowerCase() === "nationalhymne") {
+    return;
+  }
+
+  return name;
+}
+
 request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, response, body) => {
   // parse wikipedia table
   var $ = cheerio.load(body);
   var data = $('.wikitable tbody tr:not([class])').map((i, elem) => {
     const get = position => {
-      let text = $(elem).children().eq(position).text();
+      let text = $(elem).children().eq(position);
+      text.find('br').replaceWith('\n');
+      text = text.text();
       text = text.split('\n')[0];
       text = text.replace(/\[.*\]/, '');
       return text;
@@ -106,7 +116,7 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
       return {
         name: fixCountryName(getName()),
         anthemName: get(1),
-        anthemNameGerman: get(2),
+        anthemNameGerman: fixAnthemName(get(2)),
         audio: getAudio()
       };
     }).get();
@@ -150,8 +160,10 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
 
         const anthem = anthemData.filter(val => val.name == country.name);
         if (anthem.length === 1) {
-          country.anthemName = anthem[0].anthemNameGerman;
           country.anthem = anthem[0].audio;
+          if (anthem[0].anthemNameGerman) {
+            country.anthemName = anthem[0].anthemNameGerman;
+          }
         }
 
         const adjectives = adjectiveMapping[country.iso3];
