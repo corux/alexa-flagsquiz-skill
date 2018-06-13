@@ -1,11 +1,9 @@
 #!/usr/bin/env babel-node
 
 import fs from 'fs';
-import request from 'request';
 import path from 'path';
 import nomnom from 'nomnom';
 import process from 'process';
-import cheerio from 'cheerio';
 import countries from '../src/countries';
 
 const exists = (filename) => fs.existsSync(filename)
@@ -58,7 +56,7 @@ continent.values = [...new Set(all.map(country => country.region))]
     }
   }));
 
-schema.types = [continent, country];
+schema.interactionModel.languageModel.types = [continent, country];
 
 const schemaFile = path.join(process.cwd(), file);
 fs.writeFile(schemaFile, JSON.stringify(schema, null, 2), 'utf8', (err) => {
