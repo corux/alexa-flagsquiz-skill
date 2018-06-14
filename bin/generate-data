@@ -172,6 +172,11 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
         }
       }
 
+      // get missing anthems from nationalanthems.info
+      for (let country of data.filter(val => !val.anthem && val.iso2)) {
+        country.anthem = `http://www.nationalanthems.info/${country.iso2.toLowerCase()}.mp3`;
+      }
+
       // filter out countries without enough information
       data = data.filter(val => val.iso3);
 

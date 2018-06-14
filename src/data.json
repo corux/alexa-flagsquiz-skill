@@ -41,6 +41,7 @@
       "TJK",
       "CHN"
     ],
+    "anthem": "http://www.nationalanthems.info/af.mp3",
     "adjectives": [
       "afghanisch"
     ]
@@ -131,6 +132,7 @@
       "MLI",
       "MAR"
     ],
+    "anthem": "http://www.nationalanthems.info/dz.mp3",
     "anthemName": "Wir geloben",
     "adjectives": [
       "algerisch"
@@ -148,6 +150,7 @@
     },
     "iso3": "AND",
     "iso2": "AD",
+    "anthem": "http://www.nationalanthems.info/ad.mp3",
     "anthemName": "Der große Karl der Große",
     "adjectives": [
       "andorranisch"
@@ -178,6 +181,7 @@
       "ZMB",
       "NAM"
     ],
+    "anthem": "http://www.nationalanthems.info/ao.mp3",
     "anthemName": "Vorwärts Angola",
     "adjectives": [
       "angolanisch"
@@ -203,6 +207,7 @@
       "XCD"
     ],
     "borders": [],
+    "anthem": "http://www.nationalanthems.info/ag.mp3",
     "anthemName": "Schönes Antigua und Barbuda",
     "adjectives": [
       "antiguanisch"
@@ -232,6 +237,7 @@
       "CMR",
       "GAB"
     ],
+    "anthem": "http://www.nationalanthems.info/gq.mp3",
     "anthemName": "Lasst uns den Weg unserer großen Freude gehen"
   },
   {
@@ -613,6 +619,7 @@
       "CHN",
       "IND"
     ],
+    "anthem": "http://www.nationalanthems.info/bt.mp3",
     "adjectives": [
       "bhutanisch"
     ]
@@ -678,6 +685,7 @@
       "MNE",
       "SRB"
     ],
+    "anthem": "http://www.nationalanthems.info/ba.mp3",
     "adjectives": [
       "bosnisch-herzegowinisch"
     ]
@@ -842,7 +850,8 @@
     ],
     "adjectives": [
       "burkinisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/bf.mp3"
   },
   {
     "name": "Burundi",
@@ -869,6 +878,7 @@
       "RWA",
       "TZA"
     ],
+    "anthem": "http://www.nationalanthems.info/bi.mp3",
     "anthemName": "Geliebtes Burundi",
     "adjectives": [
       "burundisch"
@@ -929,7 +939,8 @@
     "borders": [],
     "adjectives": [
       "taiwanisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/tw.mp3"
   },
   {
     "name": "Volksrepublik China",
@@ -994,7 +1005,8 @@
     "currencies": [
       "NZD"
     ],
-    "borders": []
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/ck.mp3"
   },
   {
     "name": "Costa Rica",
@@ -1021,7 +1033,8 @@
     ],
     "adjectives": [
       "costa-ricanisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/cr.mp3"
   },
   {
     "name": "Dänemark",
@@ -1225,7 +1238,8 @@
     ],
     "adjectives": [
       "salvadorianisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/sv.mp3"
   },
   {
     "name": "Elfenbeinküste",
@@ -2256,7 +2270,8 @@
     "adjectives": [
       "kapverdisch",
       "kap-verdisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/cv.mp3"
   },
   {
     "name": "Kasachstan",
@@ -2404,6 +2419,7 @@
       "AUD"
     ],
     "borders": [],
+    "anthem": "http://www.nationalanthems.info/ki.mp3",
     "anthemName": "Steht auf, Kiribatier!",
     "adjectives": [
       "kiribatisch"
@@ -2535,6 +2551,7 @@
       "COD",
       "GAB"
     ],
+    "anthem": "http://www.nationalanthems.info/cg.mp3",
     "anthemName": "Kongolied",
     "adjectives": [
       "kongolesisch"
@@ -2564,6 +2581,7 @@
       "KOR",
       "RUS"
     ],
+    "anthem": "http://www.nationalanthems.info/kp.mp3",
     "anthemName": "Lass die Morgensonne scheinen",
     "adjectives": [
       "koreanisch"
@@ -2755,6 +2773,7 @@
     "borders": [
       "ZAF"
     ],
+    "anthem": "http://www.nationalanthems.info/ls.mp3",
     "anthemName": "Lesotho, das Land unserer Väter",
     "adjectives": [
       "lesothisch"
@@ -2785,6 +2804,7 @@
       "LTU",
       "RUS"
     ],
+    "anthem": "http://www.nationalanthems.info/lv.mp3",
     "anthemName": "Gott segne Lettland",
     "adjectives": [
       "lettisch"
@@ -2877,6 +2897,7 @@
       "SDN",
       "TUN"
     ],
+    "anthem": "http://www.nationalanthems.info/ly.mp3",
     "anthemName": "Libyen, Libyen, Libyen",
     "adjectives": [
       "libysch"
@@ -3113,6 +3134,7 @@
       "NER",
       "SEN"
     ],
+    "anthem": "http://www.nationalanthems.info/ml.mp3",
     "anthemName": "Mali",
     "adjectives": [
       "malisch"
@@ -3529,6 +3551,7 @@
       "ZAF",
       "ZMB"
     ],
+    "anthem": "http://www.nationalanthems.info/na.mp3",
     "anthemName": "Namibia, Land der Mutigen",
     "adjectives": [
       "namibisch"
@@ -3555,6 +3578,7 @@
       "AUD"
     ],
     "borders": [],
+    "anthem": "http://www.nationalanthems.info/nr.mp3",
     "anthemName": "Nauru, unser Heimatland",
     "adjectives": [
       "nauruisch"
@@ -3702,6 +3726,7 @@
       "MLI",
       "NGA"
     ],
+    "anthem": "http://www.nationalanthems.info/ne.mp3",
     "anthemName": "Nigerlied",
     "adjectives": [
       "nigrisch"
@@ -3760,7 +3785,8 @@
     "borders": [],
     "adjectives": [
       "niueanisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/nu.mp3"
   },
   {
     "name": "Norwegen",
@@ -3909,6 +3935,7 @@
       "IND",
       "IRN"
     ],
+    "anthem": "http://www.nationalanthems.info/pk.mp3",
     "adjectives": [
       "pakistanisch"
     ]
@@ -3924,7 +3951,8 @@
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1200px-Flag_of_Palestine.svg.png"
     },
     "iso3": "PSE",
-    "iso2": "PS"
+    "iso2": "PS",
+    "anthem": "http://www.nationalanthems.info/ps.mp3"
   },
   {
     "name": "Palau",
@@ -4287,6 +4315,7 @@
       "SDB"
     ],
     "borders": [],
+    "anthem": "http://www.nationalanthems.info/sb.mp3",
     "anthemName": "Gott schütze unsere Salomonen",
     "adjectives": [
       "salomonisch"
@@ -4321,6 +4350,7 @@
       "TZA",
       "ZWE"
     ],
+    "anthem": "http://www.nationalanthems.info/zm.mp3",
     "anthemName": "Steht und singt von Sambia, stolz und frei",
     "adjectives": [
       "sambisch"
@@ -4347,6 +4377,7 @@
       "WST"
     ],
     "borders": [],
+    "anthem": "http://www.nationalanthems.info/ws.mp3",
     "anthemName": "Das Banner der Freiheit",
     "adjectives": [
       "samoanisch"
@@ -4376,7 +4407,8 @@
     ],
     "adjectives": [
       "san-marinesisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/sm.mp3"
   },
   {
     "name": "São Tomé und Príncipe",
@@ -4400,7 +4432,8 @@
     "borders": [],
     "adjectives": [
       "são-toméisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/st.mp3"
   },
   {
     "name": "Saudi-Arabien",
@@ -4603,7 +4636,8 @@
     ],
     "adjectives": [
       "sierra-leonisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/sl.mp3"
   },
   {
     "name": "Simbabwe",
@@ -4632,6 +4666,7 @@
       "ZAF",
       "ZMB"
     ],
+    "anthem": "http://www.nationalanthems.info/zw.mp3",
     "anthemName": "Gesegnet sei das Land Simbabwe",
     "adjectives": [
       "simbabwisch"
@@ -4691,6 +4726,7 @@
       "POL",
       "UKR"
     ],
+    "anthem": "http://www.nationalanthems.info/sk.mp3",
     "anthemName": "Es blitzt über der Tatra",
     "adjectives": [
       "slowakisch"
@@ -4814,7 +4850,8 @@
     ],
     "adjectives": [
       "sri-lankisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/lk.mp3"
   },
   {
     "name": "St. Kitts und Nevis",
@@ -4861,7 +4898,8 @@
     "borders": [],
     "adjectives": [
       "lucianisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/lc.mp3"
   },
   {
     "name": "St. Vincent und die Grenadinen",
@@ -4885,7 +4923,8 @@
     "borders": [],
     "adjectives": [
       "vincentisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/vc.mp3"
   },
   {
     "name": "Südafrika",
@@ -5035,6 +5074,7 @@
       "FRA",
       "GUY"
     ],
+    "anthem": "http://www.nationalanthems.info/sr.mp3",
     "anthemName": "Gott sei mit unserem Suriname",
     "adjectives": [
       "surinamisch"
@@ -5250,6 +5290,7 @@
       "TOP"
     ],
     "borders": [],
+    "anthem": "http://www.nationalanthems.info/to.mp3",
     "anthemName": "Lied des Königs der Tonga-Inseln",
     "adjectives": [
       "tongaisch"
@@ -5306,6 +5347,7 @@
       "NGA",
       "SSD"
     ],
+    "anthem": "http://www.nationalanthems.info/td.mp3",
     "anthemName": "Tschadlied",
     "adjectives": [
       "tschadisch"
@@ -5459,6 +5501,7 @@
       "AUD"
     ],
     "borders": [],
+    "anthem": "http://www.nationalanthems.info/tv.mp3",
     "anthemName": "Tuvalu dem Allmächtigen",
     "adjectives": [
       "tuvaluisch"
@@ -5726,6 +5769,7 @@
       "OMN",
       "SAU"
     ],
+    "anthem": "http://www.nationalanthems.info/ae.mp3",
     "anthemName": "Lang lebe mein Land"
   },
   {
@@ -5885,7 +5929,8 @@
     ],
     "adjectives": [
       "saharauisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/eh.mp3"
   },
   {
     "name": "Zentral­afrikanische Republik",
@@ -5917,7 +5962,8 @@
     ],
     "adjectives": [
       "zentralafrikanisch"
-    ]
+    ],
+    "anthem": "http://www.nationalanthems.info/cf.mp3"
   },
   {
     "name": "Zypern",
