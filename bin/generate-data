@@ -47,7 +47,7 @@ function fixCapitalName(name) {
 }
 
 function fixAnthemName(name) {
-  if (name.toLowerCase() === "nationalhymne") {
+  if (['nationalhymne', 'hymne'].indexOf(name.toLowerCase()) !== -1) {
     return;
   }
 
