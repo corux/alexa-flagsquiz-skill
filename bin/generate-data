@@ -73,7 +73,7 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
     const getFlag = size => 'https:' + $(elem).children().eq(6).find('img').attr('src').replace(/\/[0-9]*px-/, '/' + size + 'px-');
     const getFlagSvg = () => 'https:' + $(elem).children().eq(6).find('img').attr('src').replace('/thumb/', '/').replace(/\/[^\/]*$/, '');
     const name = fixCountryName(get(0));
-    return {
+    const data = {
       name: name,
       longName: get(1),
       altNames: getAlternativeNames(name),
@@ -92,6 +92,10 @@ request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, resp
       //englishName: get(10),
       //localeNames: get(11).split(',').map(Function.prototype.call, String.prototype.trim)
     };
+    if (!data.iso2) {
+      delete data.iso2;
+    }
+    return data;
   }).get();
 
   // retrieve nation anthems

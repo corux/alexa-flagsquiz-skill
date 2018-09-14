@@ -10,8 +10,7 @@
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/720px-Flag_of_the_Republic_of_Abkhazia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/1200px-Flag_of_the_Republic_of_Abkhazia.svg.png"
     },
-    "iso3": "ABC",
-    "iso2": false
+    "iso3": "ABC"
   },
   {
     "name": "Afghanistan",
@@ -1421,7 +1420,6 @@
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png"
     },
     "iso3": "FIN",
-    "iso2": false,
     "region": "Europa",
     "languages": [
       "fi",
@@ -4024,7 +4022,6 @@
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1200px-Flag_of_East_Timor.svg.png"
     },
     "iso3": "TLS",
-    "iso2": false,
     "region": "Asien",
     "languages": [
       "pt"
@@ -5182,8 +5179,7 @@
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/720px-Flag_of_South_Ossetia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1200px-Flag_of_South_Ossetia.svg.png"
     },
-    "iso3": "SOS",
-    "iso2": false
+    "iso3": "SOS"
   },
   {
     "name": "Südsudan",
@@ -6015,7 +6011,6 @@
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
     },
     "iso3": "GBR",
-    "iso2": false,
     "region": "Europa",
     "languages": [
       "en"
