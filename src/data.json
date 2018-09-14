@@ -6,8 +6,9 @@
     "capital": "Sochumi",
     "population": 240000,
     "flag": {
-      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Abkhazia.svg/720px-Flag_of_Abkhazia.svg.png",
-      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Abkhazia.svg/1200px-Flag_of_Abkhazia.svg.png"
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_the_Republic_of_Abkhazia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/720px-Flag_of_the_Republic_of_Abkhazia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/1200px-Flag_of_the_Republic_of_Abkhazia.svg.png"
     },
     "iso3": "ABC",
     "iso2": false
@@ -19,6 +20,7 @@
     "capital": "Kabul",
     "population": 35500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/720px-Flag_of_Afghanistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/1200px-Flag_of_Afghanistan.svg.png"
     },
@@ -53,6 +55,7 @@
     "capital": "Kairo",
     "population": 93400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/720px-Flag_of_Egypt.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
     },
@@ -80,6 +83,7 @@
     "capital": "Tirana",
     "population": 2900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/720px-Flag_of_Albania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1200px-Flag_of_Albania.svg.png"
     },
@@ -111,6 +115,7 @@
     "capital": "Algier",
     "population": 42200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/720px-Flag_of_Algeria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png"
     },
@@ -145,6 +150,7 @@
     "capital": "Andorra la Vella",
     "population": 80000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/720px-Flag_of_Andorra.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png"
     },
@@ -163,6 +169,7 @@
     "capital": "Luanda",
     "population": 28600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/720px-Flag_of_Angola.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png"
     },
@@ -194,6 +201,7 @@
     "capital": "Saint John’s",
     "population": 100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/720px-Flag_of_Antigua_and_Barbuda.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png"
     },
@@ -220,6 +228,7 @@
     "capital": "Malabo",
     "population": 1300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/720px-Flag_of_Equatorial_Guinea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/1200px-Flag_of_Equatorial_Guinea.svg.png"
     },
@@ -247,6 +256,7 @@
     "capital": "Buenos Aires",
     "population": 44300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/720px-Flag_of_Argentina.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
     },
@@ -280,6 +290,7 @@
     "capital": "Jerewan",
     "population": 3000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/720px-Flag_of_Armenia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1200px-Flag_of_Armenia.svg.png"
     },
@@ -312,6 +323,7 @@
     "capital": "Baku",
     "population": 9900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/720px-Flag_of_Azerbaijan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png"
     },
@@ -345,6 +357,7 @@
     "capital": "Addis Abeba",
     "population": 105000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/720px-Flag_of_Ethiopia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1200px-Flag_of_Ethiopia.svg.png"
     },
@@ -375,6 +388,7 @@
     "capital": "Canberra",
     "population": 24500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/720px-Flag_of_Australia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1200px-Flag_of_Australia.svg.png"
     },
@@ -401,6 +415,7 @@
     "capital": "Nassau",
     "population": 400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/720px-Flag_of_the_Bahamas.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1200px-Flag_of_the_Bahamas.svg.png"
     },
@@ -427,6 +442,7 @@
     "capital": "Manama",
     "population": 1500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/720px-Flag_of_Bahrain.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1200px-Flag_of_Bahrain.svg.png"
     },
@@ -453,6 +469,7 @@
     "capital": "Dhaka",
     "population": 164700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/720px-Flag_of_Bangladesh.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png"
     },
@@ -482,6 +499,7 @@
     "capital": "Bridgetown",
     "population": 300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/720px-Flag_of_Barbados.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/1200px-Flag_of_Barbados.svg.png"
     },
@@ -508,6 +526,7 @@
     "capital": "Brüssel",
     "population": 11300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/720px-Flag_of_Belgium_%28civil%29.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/1200px-Flag_of_Belgium_%28civil%29.svg.png"
     },
@@ -541,6 +560,7 @@
     "capital": "Belmopan",
     "population": 400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/720px-Flag_of_Belize.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1200px-Flag_of_Belize.svg.png"
     },
@@ -571,6 +591,7 @@
     "capital": "Porto-Novo",
     "population": 11200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/720px-Flag_of_Benin.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/1200px-Flag_of_Benin.svg.png"
     },
@@ -602,6 +623,7 @@
     "capital": "Thimphu",
     "population": 800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/720px-Flag_of_Bhutan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1200px-Flag_of_Bhutan.svg.png"
     },
@@ -631,6 +653,7 @@
     "capital": "Sucre",
     "population": 11100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/720px-Flag_of_Bolivia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1200px-Flag_of_Bolivia.svg.png"
     },
@@ -666,6 +689,7 @@
     "capital": "Sarajevo",
     "population": 3500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/720px-Flag_of_Bosnia_and_Herzegovina.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1200px-Flag_of_Bosnia_and_Herzegovina.svg.png"
     },
@@ -697,6 +721,7 @@
     "capital": "Gaborone",
     "population": 2300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/720px-Flag_of_Botswana.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1200px-Flag_of_Botswana.svg.png"
     },
@@ -730,6 +755,7 @@
     "capital": "Brasília",
     "population": 207900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
     },
@@ -767,6 +793,7 @@
     "capital": "Bandar Seri Begawan",
     "population": 400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/720px-Flag_of_Brunei.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1200px-Flag_of_Brunei.svg.png"
     },
@@ -795,6 +822,7 @@
     "capital": "Sofia",
     "population": 7100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/720px-Flag_of_Bulgaria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1200px-Flag_of_Bulgaria.svg.png"
     },
@@ -827,6 +855,7 @@
     "capital": "Ouagadougou",
     "population": 19600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/720px-Flag_of_Burkina_Faso.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1200px-Flag_of_Burkina_Faso.svg.png"
     },
@@ -860,6 +889,7 @@
     "capital": "Bujumbura",
     "population": 10400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/720px-Flag_of_Burundi.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1200px-Flag_of_Burundi.svg.png"
     },
@@ -891,6 +921,7 @@
     "capital": "Santiago de Chile",
     "population": 18400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/720px-Flag_of_Chile.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png"
     },
@@ -924,6 +955,7 @@
     "capital": "Taipeh",
     "population": 23600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/720px-Flag_of_the_Republic_of_China.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png"
     },
@@ -951,6 +983,7 @@
     "capital": "Peking",
     "population": 1386800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/720px-Flag_of_the_People%27s_Republic_of_China.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png"
     },
@@ -993,6 +1026,7 @@
     "capital": "Avarua",
     "population": 11500,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/720px-Flag_of_the_Cook_Islands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/1200px-Flag_of_the_Cook_Islands.svg.png"
     },
@@ -1015,6 +1049,7 @@
     "capital": "San José",
     "population": 4900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/720px-Flag_of_Costa_Rica.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1200px-Flag_of_Costa_Rica.svg.png"
     },
@@ -1043,6 +1078,7 @@
     "capital": "Kopenhagen",
     "population": 5748769,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/720px-Flag_of_Denmark.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png"
     },
@@ -1071,6 +1107,7 @@
     "capital": "Berlin",
     "population": 83100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/720px-Flag_of_Germany.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
     },
@@ -1106,6 +1143,7 @@
     "capital": "Roseau",
     "population": 73000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/720px-Flag_of_Dominica.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1200px-Flag_of_Dominica.svg.png"
     },
@@ -1132,6 +1170,7 @@
     "capital": "Santo Domingo",
     "population": 10700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/720px-Flag_of_the_Dominican_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1200px-Flag_of_the_Dominican_Republic.svg.png"
     },
@@ -1160,6 +1199,7 @@
     "capital": "Dschibuti-Stadt",
     "population": 1000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/720px-Flag_of_Djibouti.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1200px-Flag_of_Djibouti.svg.png"
     },
@@ -1190,6 +1230,7 @@
     "capital": "Quito",
     "population": 16800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/720px-Flag_of_Ecuador.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1200px-Flag_of_Ecuador.svg.png"
     },
@@ -1219,6 +1260,7 @@
     "capital": "San Salvador",
     "population": 6400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/720px-Flag_of_El_Salvador.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1200px-Flag_of_El_Salvador.svg.png"
     },
@@ -1248,6 +1290,7 @@
     "capital": "Yamoussoukro",
     "population": 24400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/720px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
     },
@@ -1280,6 +1323,7 @@
     "capital": "Asmara",
     "population": 5900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/720px-Flag_of_Eritrea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1200px-Flag_of_Eritrea.svg.png"
     },
@@ -1312,6 +1356,7 @@
     "capital": "Tallinn",
     "population": 1300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/720px-Flag_of_Estonia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1200px-Flag_of_Estonia.svg.png"
     },
@@ -1341,6 +1386,7 @@
     "capital": "Suva",
     "population": 900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/720px-Flag_of_Fiji.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/1200px-Flag_of_Fiji.svg.png"
     },
@@ -1370,6 +1416,7 @@
     "capital": "Helsinki",
     "population": 5500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/720px-Flag_of_Finland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png"
     },
@@ -1401,6 +1448,7 @@
     "capital": "Paris",
     "population": 65000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/720px-Flag_of_France.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
     },
@@ -1436,6 +1484,7 @@
     "capital": "Libreville",
     "population": 2000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/720px-Flag_of_Gabon.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1200px-Flag_of_Gabon.svg.png"
     },
@@ -1466,6 +1515,7 @@
     "capital": "Banjul",
     "population": 2100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/720px-Flag_of_The_Gambia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1200px-Flag_of_The_Gambia.svg.png"
     },
@@ -1494,6 +1544,7 @@
     "capital": "Tiflis",
     "population": 3900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/720px-Flag_of_Georgia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png"
     },
@@ -1525,6 +1576,7 @@
     "capital": "Accra",
     "population": 28800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/720px-Flag_of_Ghana.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png"
     },
@@ -1555,6 +1607,7 @@
     "capital": "St. George’s",
     "population": 108000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/720px-Flag_of_Grenada.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1200px-Flag_of_Grenada.svg.png"
     },
@@ -1581,6 +1634,7 @@
     "capital": "Athen",
     "population": 10700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/720px-Flag_of_Greece.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png"
     },
@@ -1612,6 +1666,7 @@
     "capital": "Guatemala-Stadt",
     "population": 16900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/720px-Flag_of_Guatemala.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1200px-Flag_of_Guatemala.svg.png"
     },
@@ -1643,6 +1698,7 @@
     "capital": "Conakry",
     "population": 11500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/720px-Flag_of_Guinea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/1200px-Flag_of_Guinea.svg.png"
     },
@@ -1677,6 +1733,7 @@
     "capital": "Bissau",
     "population": 1900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/720px-Flag_of_Guinea-Bissau.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1200px-Flag_of_Guinea-Bissau.svg.png"
     },
@@ -1706,6 +1763,7 @@
     "capital": "Georgetown",
     "population": 800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/720px-Flag_of_Guyana.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1200px-Flag_of_Guyana.svg.png"
     },
@@ -1736,6 +1794,7 @@
     "capital": "Port-au-Prince",
     "population": 10600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/720px-Flag_of_Haiti.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1200px-Flag_of_Haiti.svg.png"
     },
@@ -1766,6 +1825,7 @@
     "capital": "Tegucigalpa",
     "population": 8900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/720px-Flag_of_Honduras.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1200px-Flag_of_Honduras.svg.png"
     },
@@ -1796,6 +1856,7 @@
     "capital": "Neu-Delhi",
     "population": 1352600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/720px-Flag_of_India.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
     },
@@ -1832,6 +1893,7 @@
     "capital": "Jakarta",
     "population": 264000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/720px-Flag_of_Indonesia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1200px-Flag_of_Indonesia.svg.png"
     },
@@ -1862,6 +1924,7 @@
     "capital": "Bagdad",
     "population": 39200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/720px-Flag_of_Iraq.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1200px-Flag_of_Iraq.svg.png"
     },
@@ -1896,6 +1959,7 @@
     "capital": "Teheran",
     "population": 80600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/720px-Flag_of_Iran.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1200px-Flag_of_Iran.svg.png"
     },
@@ -1930,6 +1994,7 @@
     "capital": "Dublin",
     "population": 4800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/720px-Flag_of_Ireland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png"
     },
@@ -1959,6 +2024,7 @@
     "capital": "Reykjavík",
     "population": 350000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/720px-Flag_of_Iceland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1200px-Flag_of_Iceland.svg.png"
     },
@@ -1985,6 +2051,7 @@
     "capital": "Jerusalem",
     "population": 8600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/720px-Flag_of_Israel.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png"
     },
@@ -2017,6 +2084,7 @@
     "capital": "Rom",
     "population": 60500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/720px-Flag_of_Italy.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png"
     },
@@ -2050,6 +2118,7 @@
     "capital": "Kingston",
     "population": 2900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/720px-Flag_of_Jamaica.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1200px-Flag_of_Jamaica.svg.png"
     },
@@ -2076,6 +2145,7 @@
     "capital": "Tokio",
     "population": 126700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/720px-Flag_of_Japan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
     },
@@ -2102,6 +2172,7 @@
     "capital": "Sanaa (de jure)",
     "population": 28300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/720px-Flag_of_Yemen.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1200px-Flag_of_Yemen.svg.png"
     },
@@ -2130,6 +2201,7 @@
     "capital": "Amman",
     "population": 9700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/720px-Flag_of_Jordan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1200px-Flag_of_Jordan.svg.png"
     },
@@ -2161,6 +2233,7 @@
     "capital": "Phnom Penh",
     "population": 15900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/720px-Flag_of_Cambodia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1200px-Flag_of_Cambodia.svg.png"
     },
@@ -2191,6 +2264,7 @@
     "capital": "Yaoundé",
     "population": 25000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/720px-Flag_of_Cameroon.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png"
     },
@@ -2225,6 +2299,7 @@
     "capital": "Ottawa",
     "population": 36700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/720px-Flag_of_Canada.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1200px-Flag_of_Canada.svg.png"
     },
@@ -2254,6 +2329,7 @@
     "capital": "Praia",
     "population": 517000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/720px-Flag_of_Cape_Verde.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png"
     },
@@ -2280,6 +2356,7 @@
     "capital": "Astana",
     "population": 18000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/720px-Flag_of_Kazakhstan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1200px-Flag_of_Kazakhstan.svg.png"
     },
@@ -2313,6 +2390,7 @@
     "capital": "Doha",
     "population": 2700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/720px-Flag_of_Qatar.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1200px-Flag_of_Qatar.svg.png"
     },
@@ -2341,6 +2419,7 @@
     "capital": "Nairobi",
     "population": 49700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/720px-Flag_of_Kenya.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1200px-Flag_of_Kenya.svg.png"
     },
@@ -2374,6 +2453,7 @@
     "capital": "Bischkek",
     "population": 6200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/720px-Flag_of_Kyrgyzstan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1200px-Flag_of_Kyrgyzstan.svg.png"
     },
@@ -2406,6 +2486,7 @@
     "capital": "South Tarawa",
     "population": 100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/720px-Flag_of_Kiribati.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1200px-Flag_of_Kiribati.svg.png"
     },
@@ -2432,6 +2513,7 @@
     "capital": "Bogotá",
     "population": 49300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/720px-Flag_of_Colombia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png"
     },
@@ -2464,6 +2546,7 @@
     "capital": "Moroni",
     "population": 800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/720px-Flag_of_the_Comoros.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1200px-Flag_of_the_Comoros.svg.png"
     },
@@ -2491,6 +2574,7 @@
     "capital": "Kinshasa",
     "population": 81500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/720px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1200px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
     },
@@ -2531,6 +2615,7 @@
     "capital": "Brazzaville",
     "population": 5000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/720px-Flag_of_the_Republic_of_the_Congo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1200px-Flag_of_the_Republic_of_the_Congo.svg.png"
     },
@@ -2564,6 +2649,7 @@
     "capital": "Pjöngjang",
     "population": 25500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/720px-Flag_of_North_Korea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1200px-Flag_of_North_Korea.svg.png"
     },
@@ -2594,6 +2680,7 @@
     "capital": "Seoul",
     "population": 51400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/720px-Flag_of_South_Korea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png"
     },
@@ -2622,12 +2709,13 @@
     "capital": "Pristina",
     "population": 1800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/720px-Flag_of_Kosovo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png"
     },
     "iso3": "RKS",
     "iso2": "XK",
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/34/National_Anthem_of_Kosovo_by_US_Navy_Band.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg",
     "anthemName": "Europa"
   },
   {
@@ -2637,6 +2725,7 @@
     "capital": "Zagreb",
     "population": 4100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/720px-Flag_of_Croatia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1200px-Flag_of_Croatia.svg.png"
     },
@@ -2669,6 +2758,7 @@
     "capital": "Havanna",
     "population": 11300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/720px-Flag_of_Cuba.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1200px-Flag_of_Cuba.svg.png"
     },
@@ -2696,6 +2786,7 @@
     "capital": "Kuwait-Stadt",
     "population": 4100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/720px-Flag_of_Kuwait.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1200px-Flag_of_Kuwait.svg.png"
     },
@@ -2724,6 +2815,7 @@
     "capital": "Vientiane",
     "population": 7000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/720px-Flag_of_Laos.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1200px-Flag_of_Laos.svg.png"
     },
@@ -2756,6 +2848,7 @@
     "capital": "Maseru",
     "population": 2200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/720px-Flag_of_Lesotho.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1200px-Flag_of_Lesotho.svg.png"
     },
@@ -2786,6 +2879,7 @@
     "capital": "Riga",
     "population": 1900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/720px-Flag_of_Latvia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1200px-Flag_of_Latvia.svg.png"
     },
@@ -2817,6 +2911,7 @@
     "capital": "Beirut",
     "population": 6200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/720px-Flag_of_Lebanon.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/1200px-Flag_of_Lebanon.svg.png"
     },
@@ -2847,6 +2942,7 @@
     "capital": "Monrovia",
     "population": 4700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/720px-Flag_of_Liberia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1200px-Flag_of_Liberia.svg.png"
     },
@@ -2877,6 +2973,7 @@
     "capital": "Tripolis",
     "population": 6400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/720px-Flag_of_Libya.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1200px-Flag_of_Libya.svg.png"
     },
@@ -2910,6 +3007,7 @@
     "capital": "Vaduz",
     "population": 40000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/720px-Flag_of_Liechtenstein.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1200px-Flag_of_Liechtenstein.svg.png"
     },
@@ -2938,6 +3036,7 @@
     "capital": "Vilnius",
     "population": 2800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/720px-Flag_of_Lithuania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png"
     },
@@ -2969,6 +3068,7 @@
     "capital": "Luxemburg",
     "population": 600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/720px-Flag_of_Luxembourg.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1200px-Flag_of_Luxembourg.svg.png"
     },
@@ -3001,6 +3101,7 @@
     "capital": "Antananarivo",
     "population": 25500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/720px-Flag_of_Madagascar.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1200px-Flag_of_Madagascar.svg.png"
     },
@@ -3028,6 +3129,7 @@
     "capital": "Lilongwe",
     "population": 18600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/720px-Flag_of_Malawi.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1200px-Flag_of_Malawi.svg.png"
     },
@@ -3059,6 +3161,7 @@
     "capital": "Kuala Lumpur",
     "population": 31600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/720px-Flag_of_Malaysia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1200px-Flag_of_Malaysia.svg.png"
     },
@@ -3087,6 +3190,7 @@
     "capital": "Malé",
     "population": 400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/720px-Flag_of_Maldives.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/1200px-Flag_of_Maldives.svg.png"
     },
@@ -3113,6 +3217,7 @@
     "capital": "Bamako",
     "population": 18900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/720px-Flag_of_Mali.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1200px-Flag_of_Mali.svg.png"
     },
@@ -3147,6 +3252,7 @@
     "capital": "Valletta",
     "population": 438000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/720px-Flag_of_Malta.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1200px-Flag_of_Malta.svg.png"
     },
@@ -3174,6 +3280,7 @@
     "capital": "Rabat",
     "population": 35100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/720px-Flag_of_Morocco.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1200px-Flag_of_Morocco.svg.png"
     },
@@ -3204,6 +3311,7 @@
     "capital": "Majuro",
     "population": 60000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/720px-Flag_of_the_Marshall_Islands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1200px-Flag_of_the_Marshall_Islands.svg.png"
     },
@@ -3231,6 +3339,7 @@
     "capital": "Nouakchott",
     "population": 4400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/720px-Flag_of_Mauritania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/1200px-Flag_of_Mauritania.svg.png"
     },
@@ -3262,6 +3371,7 @@
     "capital": "Port Louis",
     "population": 1300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/720px-Flag_of_Mauritius.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1200px-Flag_of_Mauritius.svg.png"
     },
@@ -3288,6 +3398,7 @@
     "capital": "Skopje",
     "population": 2100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Macedonia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/720px-Flag_of_Macedonia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/1200px-Flag_of_Macedonia.svg.png"
     },
@@ -3307,7 +3418,7 @@
       "KOS",
       "SRB"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/96/National_Anthem_of_Macedonia_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/mk.mp3",
     "anthemName": "Heute über Mazedonien",
     "adjectives": [
       "mazedonisch"
@@ -3320,6 +3431,7 @@
     "capital": "Mexiko-Stadt",
     "population": 129200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/720px-Flag_of_Mexico.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png"
     },
@@ -3350,6 +3462,7 @@
     "capital": "Palikir",
     "population": 107000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/720px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1200px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
     },
@@ -3376,6 +3489,7 @@
     "capital": "Chișinău",
     "population": 3900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/720px-Flag_of_Moldova.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1200px-Flag_of_Moldova.svg.png"
     },
@@ -3405,6 +3519,7 @@
     "altNames": [],
     "population": 37800,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/720px-Flag_of_Monaco.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/1200px-Flag_of_Monaco.svg.png"
     },
@@ -3433,6 +3548,7 @@
     "capital": "Ulaanbaatar",
     "population": 3200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/720px-Flag_of_Mongolia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1200px-Flag_of_Mongolia.svg.png"
     },
@@ -3463,6 +3579,7 @@
     "capital": "Podgorica",
     "population": 600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/720px-Flag_of_Montenegro.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1200px-Flag_of_Montenegro.svg.png"
     },
@@ -3478,6 +3595,7 @@
     "capital": "Maputo",
     "population": 29700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/720px-Flag_of_Mozambique.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/1200px-Flag_of_Mozambique.svg.png"
     },
@@ -3498,7 +3616,7 @@
       "ZMB",
       "ZWE"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/National_Anthem_of_Mozambique_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/mz.mp3",
     "anthemName": "Geliebtes Vaterland",
     "adjectives": [
       "mosambikanisch"
@@ -3511,6 +3629,7 @@
     "capital": "Naypyidaw",
     "population": 53400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/720px-Flag_of_Myanmar.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png"
     },
@@ -3531,6 +3650,7 @@
     "capital": "Windhoek",
     "population": 2500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/720px-Flag_of_Namibia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png"
     },
@@ -3564,6 +3684,7 @@
     "capital": "Yaren",
     "population": 10000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/720px-Flag_of_Nauru.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/1200px-Flag_of_Nauru.svg.png"
     },
@@ -3591,8 +3712,9 @@
     "capital": "Kathmandu",
     "population": 29400000,
     "flag": {
-      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nepal_%28with_spacing%29.svg/720px-Flag_of_Nepal_%28with_spacing%29.svg.png",
-      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nepal_%28with_spacing%29.svg/1200px-Flag_of_Nepal_%28with_spacing%29.svg.png"
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg/720px-Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg/1200px-Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg.png"
     },
     "iso3": "NPL",
     "iso2": "NP",
@@ -3607,7 +3729,7 @@
       "CHN",
       "IND"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nepal_anthem.ogg",
+    "anthem": "http://www.nationalanthems.info/np.mp3",
     "anthemName": "Hunderte von Blumen",
     "adjectives": [
       "nepalesisch"
@@ -3620,6 +3742,7 @@
     "capital": "Wellington",
     "population": 4800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/720px-Flag_of_New_Zealand.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1200px-Flag_of_New_Zealand.svg.png"
     },
@@ -3647,6 +3770,7 @@
     "capital": "Managua",
     "population": 6200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/720px-Flag_of_Nicaragua.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/1200px-Flag_of_Nicaragua.svg.png"
     },
@@ -3676,6 +3800,7 @@
     "capital": "Amsterdam",
     "population": 17100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/720px-Flag_of_the_Netherlands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
     },
@@ -3705,6 +3830,7 @@
     "capital": "Niamey",
     "population": 20600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/720px-Flag_of_Niger.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1200px-Flag_of_Niger.svg.png"
     },
@@ -3739,6 +3865,7 @@
     "capital": "Abuja",
     "population": 190900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/720px-Flag_of_Nigeria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png"
     },
@@ -3770,6 +3897,7 @@
     "capital": "Alofi",
     "population": 1229,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/720px-Flag_of_Niue.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/1200px-Flag_of_Niue.svg.png"
     },
@@ -3795,6 +3923,7 @@
     "capital": "Oslo",
     "population": 5300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/720px-Flag_of_Norway.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png"
     },
@@ -3827,6 +3956,7 @@
     "capital": "Maskat",
     "population": 4700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/720px-Flag_of_Oman.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1200px-Flag_of_Oman.svg.png"
     },
@@ -3844,7 +3974,7 @@
       "ARE",
       "YEM"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/National_Anthem_of_Oman_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/om.mp3",
     "anthemName": "Nationalhymne Omans",
     "adjectives": [
       "omanisch"
@@ -3857,6 +3987,7 @@
     "capital": "Wien",
     "population": 8800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/720px-Flag_of_Austria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png"
     },
@@ -3879,8 +4010,7 @@
       "SVN",
       "CHE"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg",
-    "anthemName": "Land der Berge,Land am Strome"
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg"
   },
   {
     "name": "Osttimor / Timor-Leste",
@@ -3889,6 +4019,7 @@
     "capital": "Dili",
     "population": 1300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/720px-Flag_of_East_Timor.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1200px-Flag_of_East_Timor.svg.png"
     },
@@ -3916,6 +4047,7 @@
     "capital": "Islamabad",
     "population": 207600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/720px-Flag_of_Pakistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png"
     },
@@ -3947,6 +4079,7 @@
     "capital": "Gaza und Ramallah",
     "population": 4900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/720px-Flag_of_Palestine.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1200px-Flag_of_Palestine.svg.png"
     },
@@ -3961,6 +4094,7 @@
     "capital": "Ngerulmud",
     "population": 21000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/720px-Flag_of_Palau.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/1200px-Flag_of_Palau.svg.png"
     },
@@ -3974,7 +4108,7 @@
       "USD"
     ],
     "borders": [],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/ac/National_Anthem_of_Palau_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/pw.mp3",
     "anthemName": "Unser Belau",
     "adjectives": [
       "palauisch"
@@ -3987,6 +4121,7 @@
     "capital": "Panama-Stadt",
     "population": 4100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/720px-Flag_of_Panama.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png"
     },
@@ -4017,6 +4152,7 @@
     "capital": "Port Moresby",
     "population": 8300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/720px-Flag_of_Papua_New_Guinea.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png"
     },
@@ -4032,7 +4168,7 @@
     "borders": [
       "IDN"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/df/National_Anthem_of_Papua_New_Guinea_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/pg.mp3",
     "anthemName": "Erhebt euch, Söhne dieses Landes",
     "adjectives": [
       "papua-neuguineisch"
@@ -4045,6 +4181,7 @@
     "capital": "Asunción",
     "population": 6800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/720px-Flag_of_Paraguay.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1200px-Flag_of_Paraguay.svg.png"
     },
@@ -4076,6 +4213,7 @@
     "capital": "Lima",
     "population": 31800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/720px-Flag_of_Peru.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1200px-Flag_of_Peru.svg.png"
     },
@@ -4108,6 +4246,7 @@
     "capital": "Manila",
     "population": 105000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/720px-Flag_of_the_Philippines.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1200px-Flag_of_the_Philippines.svg.png"
     },
@@ -4134,6 +4273,7 @@
     "capital": "Warschau",
     "population": 38400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/720px-Flag_of_Poland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1200px-Flag_of_Poland.svg.png"
     },
@@ -4168,6 +4308,7 @@
     "capital": "Lissabon",
     "population": 10300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/720px-Flag_of_Portugal.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png"
     },
@@ -4196,6 +4337,7 @@
     "capital": "Kigali",
     "population": 12300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/720px-Flag_of_Rwanda.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1200px-Flag_of_Rwanda.svg.png"
     },
@@ -4229,6 +4371,7 @@
     "capital": "Bukarest",
     "population": 19600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/720px-Flag_of_Romania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1200px-Flag_of_Romania.svg.png"
     },
@@ -4261,6 +4404,7 @@
     "capital": "Moskau",
     "population": 144500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/720px-Flag_of_Russia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"
     },
@@ -4302,6 +4446,7 @@
     "capital": "Honiara",
     "population": 700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/720px-Flag_of_the_Solomon_Islands.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/1200px-Flag_of_the_Solomon_Islands.svg.png"
     },
@@ -4328,6 +4473,7 @@
     "capital": "Lusaka",
     "population": 16400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/720px-Flag_of_Zambia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1200px-Flag_of_Zambia.svg.png"
     },
@@ -4363,6 +4509,7 @@
     "capital": "Apia",
     "population": 200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/720px-Flag_of_Samoa.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1200px-Flag_of_Samoa.svg.png"
     },
@@ -4390,6 +4537,7 @@
     "capital": "San Marino",
     "population": 32800,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/720px-Flag_of_San_Marino.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/1200px-Flag_of_San_Marino.svg.png"
     },
@@ -4417,6 +4565,7 @@
     "capital": "São Tomé",
     "population": 200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/720px-Flag_of_Sao_Tome_and_Principe.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/1200px-Flag_of_Sao_Tome_and_Principe.svg.png"
     },
@@ -4442,6 +4591,7 @@
     "capital": "Riad",
     "population": 32600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/720px-Flag_of_Saudi_Arabia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1200px-Flag_of_Saudi_Arabia.svg.png"
     },
@@ -4476,6 +4626,7 @@
     "capital": "Stockholm",
     "population": 10100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/720px-Flag_of_Sweden.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png"
     },
@@ -4505,6 +4656,7 @@
     "capital": "Bern",
     "population": 8500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Switzerland_within_2to3.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/720px-Flag_of_Switzerland_within_2to3.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/1200px-Flag_of_Switzerland_within_2to3.svg.png"
     },
@@ -4541,6 +4693,7 @@
     "capital": "Dakar",
     "population": 15800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/720px-Flag_of_Senegal.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1200px-Flag_of_Senegal.svg.png"
     },
@@ -4573,6 +4726,7 @@
     "capital": "Belgrad",
     "population": 7000000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/720px-Flag_of_Serbia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png"
     },
@@ -4591,6 +4745,7 @@
     "capital": "Victoria",
     "population": 90000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/720px-Flag_of_Seychelles.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1200px-Flag_of_Seychelles.svg.png"
     },
@@ -4605,7 +4760,7 @@
       "SCR"
     ],
     "borders": [],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/66/National_Anthem_of_Seychelles_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/sc.mp3",
     "anthemName": "Vereinigt euch, Seycheller",
     "adjectives": [
       "seychellisch"
@@ -4618,6 +4773,7 @@
     "capital": "Freetown",
     "population": 7600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/720px-Flag_of_Sierra_Leone.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1200px-Flag_of_Sierra_Leone.svg.png"
     },
@@ -4646,6 +4802,7 @@
     "capital": "Harare",
     "population": 16600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/720px-Flag_of_Zimbabwe.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1200px-Flag_of_Zimbabwe.svg.png"
     },
@@ -4678,6 +4835,7 @@
     "altNames": [],
     "population": 5700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/720px-Flag_of_Singapore.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png"
     },
@@ -4707,6 +4865,7 @@
     "capital": "Bratislava",
     "population": 5400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/720px-Flag_of_Slovakia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png"
     },
@@ -4739,6 +4898,7 @@
     "capital": "Ljubljana",
     "population": 2100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/720px-Flag_of_Slovenia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1200px-Flag_of_Slovenia.svg.png"
     },
@@ -4770,6 +4930,7 @@
     "capital": "Mogadischu",
     "population": 14700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/720px-Flag_of_Somalia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1200px-Flag_of_Somalia.svg.png"
     },
@@ -4800,6 +4961,7 @@
     "capital": "Madrid",
     "population": 46600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/720px-Flag_of_Spain.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
     },
@@ -4832,6 +4994,7 @@
     "capital": "Colombo",
     "population": 21400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/720px-Flag_of_Sri_Lanka.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png"
     },
@@ -4860,6 +5023,7 @@
     "capital": "Basseterre",
     "population": 50000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/720px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1200px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
     },
@@ -4883,6 +5047,7 @@
     "capital": "Castries",
     "population": 200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/720px-Flag_of_Saint_Lucia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/1200px-Flag_of_Saint_Lucia.svg.png"
     },
@@ -4908,6 +5073,7 @@
     "capital": "Kingstown",
     "population": 104000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/720px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1200px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
     },
@@ -4933,6 +5099,7 @@
     "capital": "Pretoria",
     "population": 56500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/720px-Flag_of_South_Africa.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png"
     },
@@ -4975,6 +5142,7 @@
     "capital": "Khartum",
     "population": 40600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/720px-Flag_of_Sudan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1200px-Flag_of_Sudan.svg.png"
     },
@@ -5010,6 +5178,7 @@
     "capital": "Zchinwali",
     "population": 51000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_South_Ossetia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/720px-Flag_of_South_Ossetia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1200px-Flag_of_South_Ossetia.svg.png"
     },
@@ -5023,6 +5192,7 @@
     "capital": "Juba",
     "population": 12600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/720px-Flag_of_South_Sudan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/1200px-Flag_of_South_Sudan.svg.png"
     },
@@ -5043,7 +5213,7 @@
       "SDN",
       "UGA"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/South_Sudan_Oyee%21.ogg/South_Sudan_Oyee%21.ogg.mp3",
+    "anthem": "http://www.nationalanthems.info/ss.mp3",
     "anthemName": "Südsudan hurra",
     "adjectives": [
       "südsudanesisch"
@@ -5056,6 +5226,7 @@
     "capital": "Paramaribo",
     "population": 600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/720px-Flag_of_Suriname.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1200px-Flag_of_Suriname.svg.png"
     },
@@ -5087,6 +5258,7 @@
     "capital": "Mbabane",
     "population": 1400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Swaziland.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/720px-Flag_of_Swaziland.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/1200px-Flag_of_Swaziland.svg.png"
     },
@@ -5104,7 +5276,7 @@
       "MOZ",
       "ZAF"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Swaziland.ogg",
+    "anthem": "http://www.nationalanthems.info/sz.mp3",
     "anthemName": "O Herr unser Gott, der Du die Segnungen an die Swasi verteilst",
     "adjectives": [
       "swasiländisch"
@@ -5117,6 +5289,7 @@
     "capital": "Damaskus",
     "population": 18300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/720px-Flag_of_Syria.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1200px-Flag_of_Syria.svg.png"
     },
@@ -5136,7 +5309,7 @@
       "LBN",
       "TUR"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/National_Anthem_of_Syria_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/sy.mp3",
     "anthemName": "Hüter der Heimat",
     "adjectives": [
       "syrisch"
@@ -5149,6 +5322,7 @@
     "capital": "Duschanbe",
     "population": 8800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/720px-Flag_of_Tajikistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1200px-Flag_of_Tajikistan.svg.png"
     },
@@ -5180,6 +5354,7 @@
     "capital": "Dodoma",
     "population": 57500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/720px-Flag_of_Tanzania.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1200px-Flag_of_Tanzania.svg.png"
     },
@@ -5216,6 +5391,7 @@
     "capital": "Bangkok",
     "population": 66100000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/720px-Flag_of_Thailand.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png"
     },
@@ -5246,6 +5422,7 @@
     "capital": "Lomé",
     "population": 7800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/720px-Flag_of_Togo.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1200px-Flag_of_Togo.svg.png"
     },
@@ -5263,7 +5440,7 @@
       "BFA",
       "GHA"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/84/National_Anthem_of_Togo_by_US_Navy_Band.ogg/National_Anthem_of_Togo_by_US_Navy_Band.ogg.mp3",
+    "anthem": "http://www.nationalanthems.info/tg.mp3",
     "anthemName": "Gegrüßt seist du, Land unserer Vorväter",
     "adjectives": [
       "togoisch"
@@ -5276,6 +5453,7 @@
     "capital": "Nukuʻalofa",
     "population": 123000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/720px-Flag_of_Tonga.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/1200px-Flag_of_Tonga.svg.png"
     },
@@ -5303,6 +5481,7 @@
     "capital": "Port of Spain",
     "population": 1400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/720px-Flag_of_Trinidad_and_Tobago.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1200px-Flag_of_Trinidad_and_Tobago.svg.png"
     },
@@ -5316,7 +5495,7 @@
       "TTD"
     ],
     "borders": [],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/National_Anthem_of_Trinidad_and_Tobago_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/tt.mp3",
     "anthemName": "Geschmiedet aus der Liebe zur Freiheit"
   },
   {
@@ -5326,6 +5505,7 @@
     "capital": "N’Djamena",
     "population": 14900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/720px-Flag_of_Chad.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1200px-Flag_of_Chad.svg.png"
     },
@@ -5360,6 +5540,7 @@
     "capital": "Prag",
     "population": 10600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/720px-Flag_of_the_Czech_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1200px-Flag_of_the_Czech_Republic.svg.png"
     },
@@ -5392,6 +5573,7 @@
     "capital": "Tunis",
     "population": 11500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/720px-Flag_of_Tunisia.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png"
     },
@@ -5421,6 +5603,7 @@
     "capital": "Ankara",
     "population": 80900000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/720px-Flag_of_Turkey.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png"
     },
@@ -5456,6 +5639,7 @@
     "capital": "Aschgabad",
     "population": 5800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/720px-Flag_of_Turkmenistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1200px-Flag_of_Turkmenistan.svg.png"
     },
@@ -5488,6 +5672,7 @@
     "capital": "Funafuti",
     "population": 10000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/720px-Flag_of_Tuvalu.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/1200px-Flag_of_Tuvalu.svg.png"
     },
@@ -5514,6 +5699,7 @@
     "capital": "Kampala",
     "population": 42800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/720px-Flag_of_Uganda.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1200px-Flag_of_Uganda.svg.png"
     },
@@ -5547,6 +5733,7 @@
     "capital": "Kiew",
     "population": 42300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/720px-Flag_of_Ukraine.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1200px-Flag_of_Ukraine.svg.png"
     },
@@ -5581,6 +5768,7 @@
     "capital": "Budapest",
     "population": 9800000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/720px-Flag_of_Hungary.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1200px-Flag_of_Hungary.svg.png"
     },
@@ -5602,7 +5790,7 @@
       "SVN",
       "UKR"
     ],
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Erkel_Ferenc_Magyar_Himnusz.ogg",
+    "anthem": "http://www.nationalanthems.info/hu.mp3",
     "adjectives": [
       "ungarisch"
     ]
@@ -5614,6 +5802,7 @@
     "capital": "Montevideo",
     "population": 3500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/720px-Flag_of_Uruguay.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
     },
@@ -5644,6 +5833,7 @@
     "capital": "Taschkent",
     "population": 32600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/720px-Flag_of_Uzbekistan.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1200px-Flag_of_Uzbekistan.svg.png"
     },
@@ -5677,6 +5867,7 @@
     "capital": "Port Vila",
     "population": 300000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/720px-Flag_of_Vanuatu.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/1200px-Flag_of_Vanuatu.svg.png"
     },
@@ -5704,6 +5895,7 @@
     "altNames": [],
     "population": 829,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/720px-Flag_of_the_Vatican_City.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/1200px-Flag_of_the_Vatican_City.svg.png"
     },
@@ -5722,6 +5914,7 @@
     "capital": "Caracas",
     "population": 31400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/720px-Flag_of_Venezuela.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1200px-Flag_of_Venezuela.svg.png"
     },
@@ -5752,6 +5945,7 @@
     "capital": "Abu Dhabi",
     "population": 9400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/720px-Flag_of_the_United_Arab_Emirates.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1200px-Flag_of_the_United_Arab_Emirates.svg.png"
     },
@@ -5780,6 +5974,7 @@
     "capital": "Washington, D.C.",
     "population": 325400000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/720px-Flag_of_the_United_States.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"
     },
@@ -5815,6 +6010,7 @@
     "capital": "London",
     "population": 66200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/720px-Flag_of_the_United_Kingdom.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
     },
@@ -5843,6 +6039,7 @@
     "capital": "Hanoi",
     "population": 93700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/720px-Flag_of_Vietnam.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png"
     },
@@ -5873,6 +6070,7 @@
     "capital": "Minsk",
     "population": 9500000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/720px-Flag_of_Belarus.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1200px-Flag_of_Belarus.svg.png"
     },
@@ -5907,6 +6105,7 @@
     "capital": "El Aaiún",
     "population": 600000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/720px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/1200px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
     },
@@ -5938,6 +6137,7 @@
     "capital": "Bangui",
     "population": 4700000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/720px-Flag_of_the_Central_African_Republic.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png"
     },
@@ -5971,6 +6171,7 @@
     "capital": "Nikosia",
     "population": 1200000,
     "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/720px-Flag_of_Cyprus.svg.png",
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1200px-Flag_of_Cyprus.svg.png"
     },
