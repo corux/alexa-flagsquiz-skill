@@ -26,7 +26,7 @@ export async function getResponse(handlerInput: HandlerInput, successText: strin
       correct: correctAnswers,
       points: calculatePoints(attributes.history),
       region: attributes.region,
-      time: new Date().getDate(),
+      time: new Date().getTime(),
       total: totalAnswers,
     });
     attributesManager.savePersistentAttributes();
