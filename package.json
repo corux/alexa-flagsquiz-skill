@@ -22,7 +22,7 @@
   "devDependencies": {
     "@corux/country-data": "1.0.2",
     "@types/jest": "24.0.11",
-    "@types/node": "10.12.30",
+    "@types/node": "10.14.0",
     "ask-cli": "1.6.2",
     "ask-sdk-core": "2.5.1",
     "ask-sdk-dynamodb-persistence-adapter": "2.5.1",
