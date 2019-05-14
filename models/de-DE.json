@@ -115,6 +115,12 @@
               }
             },
             {
+              "id": "AN",
+              "name": {
+                "value": "Antarktika"
+              }
+            },
+            {
               "id": "AS",
               "name": {
                 "value": "Asien"
@@ -1093,15 +1099,6 @@
               }
             },
             {
-              "id": "MKD",
-              "name": {
-                "value": "Mazedonien",
-                "synonyms": [
-                  "Ehemalige jugoslawische Republik Mazedonien"
-                ]
-              }
-            },
-            {
               "id": "MEX",
               "name": {
                 "value": "Mexiko",
@@ -1245,6 +1242,16 @@
               }
             },
             {
+              "id": "MKD",
+              "name": {
+                "value": "Nordmazedonien",
+                "synonyms": [
+                  "Republik Nordmazedonien",
+                  "Mazedonien"
+                ]
+              }
+            },
+            {
               "id": "NOR",
               "name": {
                 "value": "Norwegen",
@@ -1293,7 +1300,10 @@
             {
               "id": "PSE",
               "name": {
-                "value": "Palästina"
+                "value": "Palästina",
+                "synonyms": [
+                  "Staat Palästina"
+                ]
               }
             },
             {
@@ -1595,7 +1605,8 @@
               "name": {
                 "value": "Sudan",
                 "synonyms": [
-                  "Republik Sudan"
+                  "Republik Sudan",
+                  "Nordsudan"
                 ]
               }
             },
@@ -1709,7 +1720,8 @@
               "name": {
                 "value": "Tschechien",
                 "synonyms": [
-                  "Tschechische Republik"
+                  "Tschechische Republik",
+                  "Tschechei"
                 ]
               }
             },

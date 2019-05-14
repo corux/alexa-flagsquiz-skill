@@ -1,4 +1,4 @@
-import { ICountry, IRegion, Region } from "@corux/country-data";
+import { ContinentCode, IContinent, ICountry } from "@corux/country-data";
 import { HandlerInput } from "ask-sdk-core";
 import { Response } from "ask-sdk-model";
 import { ISessionAttributes } from "./attributes";
@@ -68,9 +68,9 @@ function createNeighbourQuestions(allCountries: ICountry[], num: number): IQuest
   } as IQuestion));
 }
 
-function createCapitalQuestions(allCountries: ICountry[], num: number, region?: Region): IQuestion[] {
+function createCapitalQuestions(allCountries: ICountry[], num: number, region?: ContinentCode): IQuestion[] {
   const knownCountries = allCountries.filter((item) =>
-    item.region === (region || Region.EUROPE)
+    item.continent.code === (region || ContinentCode.EUROPE)
     && item.name !== item.capital);
   const selected = shuffle(knownCountries).slice(0, num);
 
@@ -80,11 +80,11 @@ function createCapitalQuestions(allCountries: ICountry[], num: number, region?: 
   } as IQuestion));
 }
 
-function createQuestions(handlerInput: HandlerInput, region?: IRegion): IQuestion[] {
+function createQuestions(handlerInput: HandlerInput, region?: IContinent): IQuestion[] {
   const locale = getLocale(handlerInput);
   let all = countries.getAll(locale);
   if (region) {
-    all = all.filter((item) => item.region === region.code);
+    all = all.filter((item) => item.continent.code === region.code);
   }
 
   let questions: IQuestion[];
@@ -120,7 +120,7 @@ export function isAnswerCorrect(question: IQuestion): boolean {
     case "capital":
       return question.answer === question.iso;
     case "continent":
-      return question.answer === country.region;
+      return question.answer === country.continent.code;
     case "neighbour":
       return country.borders.indexOf(question.answer) !== -1;
   }
@@ -142,7 +142,7 @@ export function getAnswerText(question: IQuestion, locale: string): string {
     case "capital":
       return country.name;
     case "continent":
-      return countries.getRegionByCode(country.region, locale).name;
+      return countries.getRegionByCode(country.continent.code, locale).name;
     case "neighbour":
       const neighbours = country.borders.map((iso) => countries.getByIso3(iso, locale).name);
       if (neighbours.length <= 2) {
@@ -178,7 +178,7 @@ export function getQuestion(handlerInput: HandlerInput,
   return response.getResponse();
 }
 
-export function startQuiz(handlerInput: HandlerInput, region?: IRegion): Response {
+export function startQuiz(handlerInput: HandlerInput, region?: IContinent): Response {
   const attributes = handlerInput.attributesManager.getSessionAttributes() as ISessionAttributes;
 
   attributes.state = States.QuizInProgress;

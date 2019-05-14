@@ -1,4 +1,4 @@
-import { CountryData, ICountry, IRegion, Region } from "@corux/country-data";
+import { CountryData, IContinent, ICountry } from "@corux/country-data";
 
 const cache: { [lang: string]: CountryData } = {};
 
@@ -15,8 +15,8 @@ export default {
     return getInstance(lang).getCountries()
       .find((value) => value.iso3 && iso && value.iso3.toUpperCase() === iso.toUpperCase());
   },
-  getRegionByCode: (code: string, lang: string): IRegion => {
-    const regions = getInstance(lang).getRegions().filter((item) => item.code === code);
+  getRegionByCode: (code: string, lang: string): IContinent => {
+    const regions = getInstance(lang).getContinents().filter((item) => item.code === code);
     return regions.length ? regions[0] : undefined;
   },
 };

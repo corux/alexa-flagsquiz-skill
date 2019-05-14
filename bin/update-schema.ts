@@ -1,4 +1,4 @@
-import { getRegions } from "@corux/country-data/dist/regions";
+import { CountryData } from "@corux/country-data";
 import * as program from "commander";
 import * as fs from "fs";
 import * as path from "path";
@@ -44,7 +44,7 @@ countryOutput.values = all.filter((country) => country && country.iso3 && countr
 const continentOutput: any = {
   name: "CONTINENT",
 };
-continentOutput.values = getRegions(lang)
+continentOutput.values = new CountryData(lang).getContinents()
   .map((region) => ({
     id: region.code,
     name: {
