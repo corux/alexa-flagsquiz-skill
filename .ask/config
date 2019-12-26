@@ -34,7 +34,7 @@
             "functionName": "alexa-countryquiz-skill-production",
             "handler": "index.handler",
             "revisionId": "0895ac06-417a-4adb-b739-2cd4094a7844",
-            "runtime": "nodejs8.10"
+            "runtime": "nodejs12.x"
           }
         ]
       }
