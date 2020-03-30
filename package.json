@@ -25,11 +25,11 @@
     "@types/node": "12.12.22",
     "ask-cli": "1.7.23",
     "ask-sdk": "2.7.0",
-    "aws-sdk": "2.643.0",
+    "aws-sdk": "2.648.0",
     "class.extend": "0.9.2",
     "commander": "5.0.0",
     "cross-env": "7.0.2",
-    "jest": "25.1.0",
+    "jest": "25.2.4",
     "raw-loader": "4.0.0",
     "ts-jest": "25.2.1",
     "ts-loader": "6.2.2",
@@ -38,7 +38,7 @@
     "typescript": "3.8.3",
     "underscore": "1.9.2",
     "virtual-alexa": "0.7.5",
-    "webpack": "4.42.0",
+    "webpack": "4.42.1",
     "webpack-command": "0.5.0"
   }
 }
