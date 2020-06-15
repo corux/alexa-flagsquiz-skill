@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@corux/country-data": "2.0.3",
-    "@types/jest": "25.2.3",
+    "@types/jest": "26.0.0",
     "@types/node": "12.12.22",
     "ask-cli": "2.10.2",
     "ask-sdk": "2.8.0",
