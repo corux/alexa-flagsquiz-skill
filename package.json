@@ -13,7 +13,7 @@
     "build:dev": "npm run build -- --mode development --watch",
     "build:prod": "npm run build -- --mode production",
     "deploy:prod": "ask deploy --force --profile default --target lambda",
-    "update-schema": "ts-node ./bin/update-schema.ts --lang de --file ./models/de-DE.json",
+    "update-schema": "ts-node ./bin/update-schema.ts --lang de --file ./models/de-DE.json && npm run format",
     "convert-assets": "rsvg-convert -w 108 -o assets/icon108.png assets/icon.svg && rsvg-convert -w 512 -o assets/icon512.png assets/icon.svg",
     "create-s3-bucket": "aws s3 ls s3://alexa-countryquiz-skill > /dev/null 2>&1 || aws s3 mb s3://alexa-countryquiz-skill --region eu-west-1",
     "deploy:assets": "aws s3 sync ./assets s3://alexa-countryquiz-skill/ --acl public-read"
