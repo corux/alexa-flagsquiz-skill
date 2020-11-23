@@ -1,6 +1,12 @@
 import { HandlerInput } from "ask-sdk-core";
 import { Response } from "ask-sdk-model";
-import { BaseIntentHandler, getQuestion, Intents, isAnswerCorrect, ISessionAttributes } from "../../../utils";
+import {
+  BaseIntentHandler,
+  getQuestion,
+  Intents,
+  isAnswerCorrect,
+  ISessionAttributes,
+} from "../../../utils";
 
 @Intents("InfoIntent", "AMAZON.HelpIntent")
 export class InfoIntentHandler extends BaseIntentHandler {

@@ -37,50 +37,78 @@ export function shuffle<T>(array: T[]): T[] {
   return array;
 }
 
-function createContinentQuestions(allCountries: ICountry[], num: number): IQuestion[] {
+function createContinentQuestions(
+  allCountries: ICountry[],
+  num: number
+): IQuestion[] {
   const knownCountries = allCountries.filter((item) => item.region);
   const selected = shuffle(knownCountries).slice(0, num);
 
-  const questions = selected.map((item) => ({
-    iso: item.iso3,
-    type: "continent",
-  } as IQuestion));
+  const questions = selected.map(
+    (item) =>
+      ({
+        iso: item.iso3,
+        type: "continent",
+      } as IQuestion)
+  );
 
   return questions;
 }
 
-function createNeighbourQuestions(allCountries: ICountry[], num: number): IQuestion[] {
-  const knownCountries = shuffle(allCountries.filter((item) => item.borders.length > 0));
+function createNeighbourQuestions(
+  allCountries: ICountry[],
+  num: number
+): IQuestion[] {
+  const knownCountries = shuffle(
+    allCountries.filter((item) => item.borders.length > 0)
+  );
   const selected: ICountry[] = [];
   for (let i = 0; i < knownCountries.length && selected.length < num; i++) {
     const current = knownCountries[i];
-    const neighbourAlreadySelected = selected
-      .reduce((a, b) => a.concat(b.borders), [] as string[])
-      .indexOf(current.iso3) !== -1;
+    const neighbourAlreadySelected =
+      selected
+        .reduce((a, b) => a.concat(b.borders), [] as string[])
+        .indexOf(current.iso3) !== -1;
     if (!neighbourAlreadySelected) {
       selected.push(current);
     }
   }
 
-  return selected.map((country) => ({
-    iso: country.iso3,
-    type: "neighbour",
-  } as IQuestion));
+  return selected.map(
+    (country) =>
+      ({
+        iso: country.iso3,
+        type: "neighbour",
+      } as IQuestion)
+  );
 }
 
-function createCapitalQuestions(allCountries: ICountry[], num: number, region?: ContinentCode): IQuestion[] {
-  const knownCountries = allCountries.filter((item) =>
-    item.continent.code === (region || ContinentCode.EUROPE)
-    && item.name !== item.capital && item.capital);
+function createCapitalQuestions(
+  allCountries: ICountry[],
+  num: number,
+  region?: ContinentCode
+): IQuestion[] {
+  const knownCountries = allCountries.filter(
+    (item) =>
+      item.continent.code === (region || ContinentCode.EUROPE) &&
+      item.name !== item.capital &&
+      item.capital
+  );
   const selected = shuffle(knownCountries).slice(0, num);
 
-  return selected.map((country) => ({
-    iso: country.iso3,
-    type: "capital",
-  } as IQuestion));
+  return selected.map(
+    (country) =>
+      ({
+        iso: country.iso3,
+        type: "capital",
+      } as IQuestion)
+  );
 }
 
-function createQuestions(handlerInput: HandlerInput, region?: IContinent): IQuestion[] {
+function createQuestions(
+  handlerInput: HandlerInput,
+  region?: IContinent
+): IQuestion[] {
   const locale = getLocale(handlerInput);
   let all = countries.getAll(locale);
   if (region) {
@@ -91,13 +119,13 @@ function createQuestions(handlerInput: HandlerInput, region?: IContinent): IQues
   if (region) {
     questions = [].concat(
       createNeighbourQuestions(all, 7),
-      createCapitalQuestions(all, 4, region.code),
+      createCapitalQuestions(all, 4, region.code)
     );
   } else {
     questions = [].concat(
       createContinentQuestions(all, 4),
       createNeighbourQuestions(all, 4),
-      createCapitalQuestions(all, 3),
+      createCapitalQuestions(all, 3)
     );
   }
   return shuffle(questions).slice(0, getNumberOfQuestions());
@@ -130,7 +158,9 @@ export function calculatePoints(questions: IQuestion[]): number {
   const correctAnswers = questions.map(isAnswerCorrect);
   const allAnswersCorrect = correctAnswers.filter((item) => !item).length === 0;
 
-  const pointsForQuestions = correctAnswers.map((item) => item ? 5 : 0).reduce((a, b) => a + b, 0);
+  const pointsForQuestions = correctAnswers
+    .map((item) => (item ? 5 : 0))
+    .reduce((a, b) => a + b, 0);
   const bonus = allAnswersCorrect ? 10 : 0;
 
   return pointsForQuestions + bonus;
@@ -144,7 +174,9 @@ export function getAnswerText(question: IQuestion, locale: string): string {
     case "continent":
       return countries.getRegionByCode(country.continent.code, locale).name;
     case "neighbour":
-      const neighbours = country.borders.map((iso) => countries.getByIso3(iso, locale).name);
+      const neighbours = country.borders.map(
+        (iso) => countries.getByIso3(iso, locale).name
+      );
       if (neighbours.length <= 2) {
         return neighbours.join(" oder ");
       } else {
@@ -153,9 +185,11 @@ export function getAnswerText(question: IQuestion, locale: string): string {
   }
 }
 
-export function getQuestion(handlerInput: HandlerInput,
-                            includeQuestionPrefix: boolean,
-                            textPrefix?: string): Response {
+export function getQuestion(
+  handlerInput: HandlerInput,
+  includeQuestionPrefix: boolean,
+  textPrefix?: string
+): Response {
   const locale = getLocale(handlerInput);
   const attributes = handlerInput.attributesManager.getSessionAttributes() as ISessionAttributes;
   const current = attributes.history.filter((item) => !item.answer)[0];
@@ -164,27 +198,36 @@ export function getQuestion(handlerInput: HandlerInput,
   const reprompt = questionToText(current, country);
   let text = `${textPrefix || ""} `;
   if (includeQuestionPrefix) {
-    const isFirstQuestion = attributes.history.filter((item) => item.answer).length === 0;
-    const isLastQuestion = attributes.history.filter((item) => !item.answer).length === 1;
-    const num = isFirstQuestion ? "erste" : (isLastQuestion ? "letzte" : "nächste");
+    const isFirstQuestion =
+      attributes.history.filter((item) => item.answer).length === 0;
+    const isLastQuestion =
+      attributes.history.filter((item) => !item.answer).length === 1;
+    const num = isFirstQuestion
+      ? "erste"
+      : isLastQuestion
+      ? "letzte"
+      : "nächste";
     text += `Hier ist die ${num} Frage. `;
   }
   text += reprompt;
 
-  const response = handlerInput.responseBuilder
-    .speak(text)
-    .reprompt(reprompt);
+  const response = handlerInput.responseBuilder.speak(text).reprompt(reprompt);
 
   return response.getResponse();
 }
 
-export function startQuiz(handlerInput: HandlerInput, region?: IContinent): Response {
+export function startQuiz(
+  handlerInput: HandlerInput,
+  region?: IContinent
+): Response {
   const attributes = handlerInput.attributesManager.getSessionAttributes() as ISessionAttributes;
 
   attributes.state = States.QuizInProgress;
   attributes.region = region ? region.code : undefined;
   attributes.history = createQuestions(handlerInput, region);
 
-  const text = region ? `Das Quiz wird mit Ländern aus ${region.name} gestartet.` : "";
+  const text = region
+    ? `Das Quiz wird mit Ländern aus ${region.name} gestartet.`
+    : "";
   return getQuestion(handlerInput, true, text);
 }

@@ -5,7 +5,6 @@ import { BaseIntentHandler, Request } from "../utils";
 @Request("SessionEndedRequest")
 export class SessionEndedHandler extends BaseIntentHandler {
   public handle(handlerInput: HandlerInput): Response {
-    return handlerInput.responseBuilder
-      .getResponse();
+    return handlerInput.responseBuilder.getResponse();
   }
 }

@@ -20,7 +20,9 @@ export function Request(...types: string[]) {
   };
 }
 
-export abstract class BaseIntentHandler extends StateManagement implements RequestHandler {
+export abstract class BaseIntentHandler
+  extends StateManagement
+  implements RequestHandler {
   private readonly types: string[];
   private readonly intents: string[];
   private readonly isFallback: boolean;
@@ -39,5 +41,7 @@ export abstract class BaseIntentHandler extends StateManagement implements Reque
     return (this.types || []).indexOf(request.type) !== -1;
   }
 
-  public abstract handle(handlerInput: HandlerInput): Promise<Response> | Response;
+  public abstract handle(
+    handlerInput: HandlerInput
+  ): Promise<Response> | Response;
 }

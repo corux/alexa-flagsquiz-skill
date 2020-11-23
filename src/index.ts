@@ -24,17 +24,13 @@ export const handler = SkillBuilders.custom()
     new SessionEndedHandler(),
     new SessionStartedStateHandler(),
     new QuizInProgressStateHandler(),
-    new QuizFinishedStateHandler(),
+    new QuizFinishedStateHandler()
   )
-  .addErrorHandlers(
-    new CustomErrorHandler(),
-  )
-  .addRequestInterceptors(
-    new LogInterceptor(),
-  )
+  .addErrorHandlers(new CustomErrorHandler())
+  .addRequestInterceptors(new LogInterceptor())
   .addResponseInterceptors(
     new LogInterceptor(),
-    new InitializeSessionInterceptor(),
+    new InitializeSessionInterceptor()
   )
   .withPersistenceAdapter(dynamodbAdapter)
   .lambda();

@@ -16,9 +16,12 @@ export class LaunchRequestHandler extends BaseIntentHandler {
 
   public async handle(handlerInput: HandlerInput): Promise<Response> {
     let text: string;
-    const attributes = await handlerInput.attributesManager.getPersistentAttributes() as IPersistentAttributes;
+    const attributes = (await handlerInput.attributesManager.getPersistentAttributes()) as IPersistentAttributes;
     const oneWeekMs = 7 * 24 * 60 * 60 * 1000;
-    if (!attributes.lastAccess || attributes.lastAccess < new Date().getTime() - oneWeekMs) {
+    if (
+      !attributes.lastAccess ||
+      attributes.lastAccess < new Date().getTime() - oneWeekMs
+    ) {
       text = `Willkommen beim Länder Quiz!
         Ich stelle dir ${getNumberOfQuestions()} Fragen zu den Ländern der Welt.
         Versuche möglichst viele richtige Antworten zu erzielen.`;

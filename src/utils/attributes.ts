@@ -12,5 +12,11 @@ export interface ISessionAttributes {
 
 export interface IPersistentAttributes {
   lastAccess: number;
-  scores: Array<{ time: number, total: number, correct: number, region: string, points: number }>;
+  scores: Array<{
+    time: number;
+    total: number;
+    correct: number;
+    region: string;
+    points: number;
+  }>;
 }

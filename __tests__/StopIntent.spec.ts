@@ -23,5 +23,4 @@ describe("AMAZON.StopIntent, AMAZON.CancelIntent", () => {
     expect(result.response.outputSpeech.ssml).toContain("Bis bald");
     expect(result.response.shouldEndSession).toBe(true);
   });
-
 });

@@ -10,7 +10,9 @@ export class InfoIntentHandler extends BaseIntentHandler {
     let textVal = "";
     if (attributes.round > 0) {
       const round = attributes.round === 1 ? "eine" : attributes.round;
-      textVal = `Du hast bereits ${round} Runde${attributes.round > 1 ? "n" : ""} gespielt.`;
+      textVal = `Du hast bereits ${round} Runde${
+        attributes.round > 1 ? "n" : ""
+      } gespielt.`;
     }
     return handlerInput.responseBuilder
       .speak(`${textVal} ${reprompt}`)

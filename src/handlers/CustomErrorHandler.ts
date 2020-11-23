@@ -7,10 +7,17 @@ export class CustomErrorHandler implements ErrorHandler {
   }
 
   public handle(handlerInput: HandlerInput, error: Error): Response {
-    console.log(`Error handled: ${JSON.stringify(error, Object.getOwnPropertyNames(error))}`);
+    console.log(
+      `Error handled: ${JSON.stringify(
+        error,
+        Object.getOwnPropertyNames(error)
+      )}`
+    );
 
     return handlerInput.responseBuilder
-      .speak("Ich habe Schwierigkeiten auf den Skill zuzugreifen. Bitte starte den Skill erneut.")
+      .speak(
+        "Ich habe Schwierigkeiten auf den Skill zuzugreifen. Bitte starte den Skill erneut."
+      )
       .getResponse();
   }
 }

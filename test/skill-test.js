@@ -1,137 +1,159 @@
-import test from 'ava';
-import { handler as Skill } from '../build/skill';
-import Request from 'alexa-request';
-import chai from 'chai';
-import chaiSubset from 'chai-subset';
+import test from "ava";
+import { handler as Skill } from "../build/skill";
+import Request from "alexa-request";
+import chai from "chai";
+import chaiSubset from "chai-subset";
 
 const expect = chai.expect;
 chai.use(chaiSubset);
 
-test('LaunchRequest', async () => {
+test("LaunchRequest", async () => {
   const event = Request.launchRequest().build();
 
   const response = await Skill(event);
-  expect(response.response.outputSpeech.text).to.contain('Willkommen');
+  expect(response.response.outputSpeech.text).to.contain("Willkommen");
   expect(response).to.containSubset({
     response: {
       shouldEndSession: false,
-      outputSpeech: { type: 'PlainText' }
-    }
+      outputSpeech: { type: "PlainText" },
+    },
   });
 });
 
-test('AMAZON.StopIntent', async () => {
-  const event = Request.intent('AMAZON.StopIntent').build();
+test("AMAZON.StopIntent", async () => {
+  const event = Request.intent("AMAZON.StopIntent").build();
 
   const response = await Skill(event);
   expect(response).to.containSubset({
     response: {
       shouldEndSession: true,
-      outputSpeech: { type: 'PlainText', text: 'Bis bald!' }
-    }
+      outputSpeech: { type: "PlainText", text: "Bis bald!" },
+    },
   });
 });
 
-test('AMAZON.CancelIntent', async () => {
-  const event = Request.intent('AMAZON.CancelIntent').build();
+test("AMAZON.CancelIntent", async () => {
+  const event = Request.intent("AMAZON.CancelIntent").build();
 
   const response = await Skill(event);
   expect(response).to.containSubset({
     response: {
       shouldEndSession: true,
-      outputSpeech: { type: 'PlainText', text: 'Bis bald!' }
-    }
+      outputSpeech: { type: "PlainText", text: "Bis bald!" },
+    },
   });
 });
 
-test('Skip response contains solution', async () => {
-  const event = Request.intent('SkipIntent').session({
-    attributes: {
-      iso: 'DEU',
-      answer: 'Europa',
-      type: 'continent'
-    }
-  }).build();
+test("Skip response contains solution", async () => {
+  const event = Request.intent("SkipIntent")
+    .session({
+      attributes: {
+        iso: "DEU",
+        answer: "Europa",
+        type: "continent",
+      },
+    })
+    .build();
 
   const response = await Skill(event);
-  expect(response.response.outputSpeech.text).to.contain('Die Lösung war Europa.');
+  expect(response.response.outputSpeech.text).to.contain(
+    "Die Lösung war Europa."
+  );
 });
 
-test('Response to 3rd incorrect answer contains solution', async () => {
-  const event = Request.intent('CountryIntent', { country: 'deutschland' }).session({
-    attributes: {
-      iso: 'DEU',
-      answer: 'zum Beispiel Belgien',
-      try: 2,
-      type: 'neighbour'
-    }
-  }).build();
+test("Response to 3rd incorrect answer contains solution", async () => {
+  const event = Request.intent("CountryIntent", { country: "deutschland" })
+    .session({
+      attributes: {
+        iso: "DEU",
+        answer: "zum Beispiel Belgien",
+        try: 2,
+        type: "neighbour",
+      },
+    })
+    .build();
 
   const response = await Skill(event);
-  expect(response.response.outputSpeech.text).to.contain('Die Lösung war zum Beispiel Belgien');
+  expect(response.response.outputSpeech.text).to.contain(
+    "Die Lösung war zum Beispiel Belgien"
+  );
 });
 
-test('Continent answer', async () => {
-  const event = Request.intent('ContinentIntent', { continent: 'europa' }).session({
-    attributes: {
-      iso: 'DEU',
-      type: 'continent'
-    }
-  }).build();
+test("Continent answer", async () => {
+  const event = Request.intent("ContinentIntent", { continent: "europa" })
+    .session({
+      attributes: {
+        iso: "DEU",
+        type: "continent",
+      },
+    })
+    .build();
 
   const response = await Skill(event);
-  expect(response.response.outputSpeech.text).to.contain('Das war richtig!');
+  expect(response.response.outputSpeech.text).to.contain("Das war richtig!");
 });
 
-test('Neighbour answer', async () => {
-  const event = Request.intent('CountryIntent', { country: 'belgien' }).session({
-    attributes: {
-      iso: 'DEU',
-      type: 'neighbour'
-    }
-  }).build();
+test("Neighbour answer", async () => {
+  const event = Request.intent("CountryIntent", { country: "belgien" })
+    .session({
+      attributes: {
+        iso: "DEU",
+        type: "neighbour",
+      },
+    })
+    .build();
 
   const response = await Skill(event);
-  expect(response.response.outputSpeech.text).to.contain('Das war richtig!');
+  expect(response.response.outputSpeech.text).to.contain("Das war richtig!");
 });
 
-test('Capital answer', async () => {
-  const event = Request.intent('CountryIntent', { country: 'deutschland' }).session({
-    attributes: {
-      iso: 'DEU',
-      type: 'capital'
-    }
-  }).build();
+test("Capital answer", async () => {
+  const event = Request.intent("CountryIntent", { country: "deutschland" })
+    .session({
+      attributes: {
+        iso: "DEU",
+        type: "capital",
+      },
+    })
+    .build();
 
   const response = await Skill(event);
-  expect(response.response.outputSpeech.text).to.contain('Das war richtig!');
+  expect(response.response.outputSpeech.text).to.contain("Das war richtig!");
 });
 
-test('Country answer to continent question', async () => {
-  const event = Request.intent('CountryIntent', { country: 'deutschland' }).session({
-    attributes: {
-      iso: 'DEU',
-      type: 'continent'
-    }
-  }).build();
+test("Country answer to continent question", async () => {
+  const event = Request.intent("CountryIntent", { country: "deutschland" })
+    .session({
+      attributes: {
+        iso: "DEU",
+        type: "continent",
+      },
+    })
+    .build();
 
   const response = await Skill(event);
-  expect(response.response.outputSpeech.text).to.contain('Ich habe dich nicht verstanden.');
+  expect(response.response.outputSpeech.text).to.contain(
+    "Ich habe dich nicht verstanden."
+  );
 });
 
-test('Continent answer to country question', async () => {
-  const event = Request.intent('ContinentIntent', { continent: 'europa' }).session({
-    attributes: {
-      iso: 'DEU',
-      type: 'capital'
-    }
-  }).build();
+test("Continent answer to country question", async () => {
+  const event = Request.intent("ContinentIntent", { continent: "europa" })
+    .session({
+      attributes: {
+        iso: "DEU",
+        type: "capital",
+      },
+    })
+    .build();
 
   const response = await Skill(event);
-  expect(response.response.outputSpeech.text).to.contain('Ich habe dich nicht verstanden.');
+  expect(response.response.outputSpeech.text).to.contain(
+    "Ich habe dich nicht verstanden."
+  );
 });
 
-test('SessionEndedRequest', async () => {
+test("SessionEndedRequest", async () => {
   const event = Request.sessionEndedRequest().build();
   const response = await Skill(event);
   expect(response).to.deep.equal({});

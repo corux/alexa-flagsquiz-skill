@@ -19,12 +19,15 @@ const all = countries.getAll(lang);
 const countryOutput: any = {
   name: "COUNTRY",
 };
-countryOutput.values = all.filter((country) => country && country.iso3 && country.name)
+countryOutput.values = all
+  .filter((country) => country && country.iso3 && country.name)
   .map((country) => {
-    let synonyms = [].concat(
-      country.longName !== country.name ? [country.longName] : [],
-      country.altNames || [],
-    ).filter((n) => !!n);
+    let synonyms = []
+      .concat(
+        country.longName !== country.name ? [country.longName] : [],
+        country.altNames || []
+      )
+      .filter((n) => !!n);
     synonyms = synonyms.filter((n, i) => synonyms.indexOf(n) === i);
     return {
       iso3: country.iso3,
@@ -44,7 +47,8 @@ countryOutput.values = all.filter((country) => country && country.iso3 && countr
 const continentOutput: any = {
   name: "CONTINENT",
 };
-continentOutput.values = new CountryData(lang).getContinents()
+continentOutput.values = new CountryData(lang)
+  .getContinents()
   .map((region) => ({
     id: region.code,
     name: {

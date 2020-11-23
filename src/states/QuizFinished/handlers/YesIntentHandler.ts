@@ -1,6 +1,13 @@
 import { HandlerInput } from "ask-sdk-core";
 import { Response } from "ask-sdk-model";
-import { BaseIntentHandler, getLocale, Intents, ISessionAttributes, startQuiz, States } from "../../../utils";
+import {
+  BaseIntentHandler,
+  getLocale,
+  Intents,
+  ISessionAttributes,
+  startQuiz,
+  States,
+} from "../../../utils";
 import countries from "../../../utils/countries";
 
 @Intents("AMAZON.YesIntent")

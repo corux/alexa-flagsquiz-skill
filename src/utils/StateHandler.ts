@@ -9,7 +9,9 @@ export function State(state: States) {
   };
 }
 
-export abstract class StateHandler extends StateManagement implements RequestHandler {
+export abstract class StateHandler
+  extends StateManagement
+  implements RequestHandler {
   private readonly state: States;
 
   public abstract get handlers(): RequestHandler[];

@@ -8,7 +8,7 @@ export class InitializeSessionInterceptor implements ResponseInterceptor {
       sessionAttributes.round = 0;
       sessionAttributes.stateData = {};
 
-      const attributes = await handlerInput.attributesManager.getPersistentAttributes() as IPersistentAttributes;
+      const attributes = (await handlerInput.attributesManager.getPersistentAttributes()) as IPersistentAttributes;
       attributes.lastAccess = new Date().getTime();
       handlerInput.attributesManager.savePersistentAttributes();
     }

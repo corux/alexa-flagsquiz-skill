@@ -4,11 +4,7 @@
     "sourceMap": true,
     "target": "es5",
     "resolveJsonModule": true,
-    "lib": [
-      "es2015"
-    ]
+    "lib": ["es2015"]
   },
-  "exclude": [
-    "**/*.spec.*"
-  ]
+  "exclude": ["**/*.spec.*"]
 }

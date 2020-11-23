@@ -12,7 +12,9 @@ import {
 @State(States.SessionStarted)
 export class SessionStartedStateHandler extends StateHandler {
   public canHandle(handlerInput: HandlerInput): boolean {
-    const newSession = handlerInput.requestEnvelope.session && handlerInput.requestEnvelope.session.new;
+    const newSession =
+      handlerInput.requestEnvelope.session &&
+      handlerInput.requestEnvelope.session.new;
     if (newSession) {
       this.setState(handlerInput, States.SessionStarted);
     }
