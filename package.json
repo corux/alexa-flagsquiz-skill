@@ -9,7 +9,7 @@
     "test": "cross-env AWS_REGION=us-east-1 jest --config lambda/jest.config.js",
     "test:watch": "npm run test -- --watch",
     "format": "prettier --write .",
-    "build": "webpack --config lambda/webpack.config.ts --require ts-node/register",
+    "build": "webpack --config lambda/webpack.config.ts",
     "build:dev": "npm run build -- --mode development --watch",
     "build:prod": "npm run build -- --mode production",
     "deploy:prod": "ask deploy --ignore-hash --profile default --target skill-infrastructure",
@@ -38,6 +38,6 @@
     "underscore": "1.11.0",
     "virtual-alexa": "0.7.5",
     "webpack": "5.6.0",
-    "webpack-command": "0.5.0"
+    "webpack-cli": "4.2.0"
   }
 }
