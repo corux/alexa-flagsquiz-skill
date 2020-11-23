@@ -19,7 +19,7 @@ const config = {
   output: {
     filename: "index.js",
     library: "handler",
-    libraryTarget: "commonjs2",
+    libraryTarget: "umd",
     path: path.resolve(__dirname, "dist"),
   },
   performance: {
