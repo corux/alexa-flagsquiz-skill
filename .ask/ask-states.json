@@ -1,0 +1,30 @@
+{
+  "askcliStatesVersion": "2020-03-31",
+  "profiles": {
+    "default": {
+      "skillId": "amzn1.ask.skill.f6a1e125-65ca-4c7a-9c8c-b781cad37b40",
+      "skillMetadata": {
+        "lastDeployHash": "/EO97YObf0sutHsrQLQOxIqXnKo="
+      },
+      "code": {
+        "default": {
+          "lastDeployHash": "3Y+Y7N2QU87EspDBL6l6mIjOFmc="
+        }
+      },
+      "skillInfrastructure": {
+        "@ask-cli/lambda-deployer": {
+          "deployState": {
+            "default": {
+              "lambda": {
+                "arn": "arn:aws:lambda:eu-west-1:347839150037:function:alexa-countryquiz-skill-production",
+                "lastModified": "2020-11-23T22:31:39.174+0000",
+                "revisionId": "b11ff9d6-aeb2-4c26-8e1e-1d7417d0ccf9"
+              },
+              "iamRole": "arn:aws:iam::347839150037:role/alexa-countryquiz-skill-production"
+            }
+          }
+        }
+      }
+    }
+  }
+}

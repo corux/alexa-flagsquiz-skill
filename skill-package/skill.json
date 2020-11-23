@@ -9,8 +9,6 @@
             "Wie ist meine Statistik",
             "Nächste Frage"
           ],
-          "name": "Länder Quiz",
-          "description": "Dieser Skill enthält verschiedene Fragen zu Ländern und Kontinenten. Aktiviere den Skill und versuche so viele Fragen wie möglich zu beantworten. Es sind Fragen zu allen 5 Kontinenten und zu über 190 Ländern enthalten.\n\nDie Fragen lauten z.B.:\n- Zu welchem Land gehört die Hauptstadt Washington D.C.?\n- Nenne ein Nachbarland von Laos.\n- Auf welchem Kontinent liegt Bulgarien?",
           "keywords": [
             "Länder",
             "Quiz",
@@ -18,8 +16,10 @@
             "Kontinente",
             "Hauptstädte"
           ],
-          "smallIconUri": "https://s3-eu-west-1.amazonaws.com/alexa-countryquiz-skill/icon108.png",
-          "largeIconUri": "https://s3-eu-west-1.amazonaws.com/alexa-countryquiz-skill/icon512.png"
+          "name": "Länder Quiz",
+          "description": "Dieser Skill enthält verschiedene Fragen zu Ländern und Kontinenten. Aktiviere den Skill und versuche so viele Fragen wie möglich zu beantworten. Es sind Fragen zu allen 5 Kontinenten und zu über 190 Ländern enthalten.\n\nDie Fragen lauten z.B.:\n- Zu welchem Land gehört die Hauptstadt Washington D.C.?\n- Nenne ein Nachbarland von Laos.\n- Auf welchem Kontinent liegt Bulgarien?",
+          "smallIconUri": "file://assets/images/icon108.png",
+          "largeIconUri": "file://assets/images/icon512.png"
         }
       },
       "isAvailableWorldwide": true,
@@ -30,7 +30,6 @@
     "apis": {
       "custom": {
         "endpoint": {
-          "sourceDir": "dist",
           "uri": "arn:aws:lambda:eu-west-1:347839150037:function:alexa-countryquiz-skill-production"
         },
         "interfaces": []
@@ -39,8 +38,8 @@
     "manifestVersion": "1.0",
     "privacyAndCompliance": {
       "allowsPurchases": false,
-      "isExportCompliant": true,
       "containsAds": false,
+      "isExportCompliant": true,
       "isChildDirected": false,
       "usesPersonalInfo": false
     }

@@ -3,7 +3,7 @@ import * as program from "commander";
 import * as fs from "fs";
 import * as path from "path";
 import * as process from "process";
-import countries from "../src/utils/countries";
+import countries from "../lambda/src/utils/countries";
 
 program
   .option("--file <path>", "Schema file to update.")
@@ -39,7 +39,6 @@ countryOutput.values = all
     id: country.iso3,
     name: {
       value: country.name,
-      // tslint:disable-next-line:object-literal-sort-keys
       synonyms: country.synonyms,
     },
   }));

@@ -1,7 +1,7 @@
 import * as path from "path";
 
 const config = {
-  entry: "./src/index.ts",
+  entry: "./lambda/src/index.ts",
   externals: ["aws-sdk"],
   module: {
     rules: [

@@ -26,6 +26,12 @@
         },
         {
           "name": "ContinentIntent",
+          "slots": [
+            {
+              "name": "continent",
+              "type": "CONTINENT"
+            }
+          ],
           "samples": [
             "das ist der Kontinent {continent}",
             "der Kontinent {continent}",
@@ -33,27 +39,21 @@
             "auf {continent}",
             "in {continent}",
             "{continent}"
-          ],
-          "slots": [
-            {
-              "name": "continent",
-              "type": "CONTINENT"
-            }
           ]
         },
         {
           "name": "CountryIntent",
-          "samples": [
-            "das ist das Land {country}",
-            "das Land {country}",
-            "das ist {country}",
-            "{country}"
-          ],
           "slots": [
             {
               "name": "country",
               "type": "COUNTRY"
             }
+          ],
+          "samples": [
+            "das ist das Land {country}",
+            "das Land {country}",
+            "das ist {country}",
+            "{country}"
           ]
         },
         {
@@ -96,11 +96,14 @@
             "wie viele Antworten waren richtig",
             "wie viele Antworten waren falsch"
           ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
         }
       ],
       "types": [
         {
-          "name": "CONTINENT",
           "values": [
             {
               "id": "AF",
@@ -112,12 +115,6 @@
               "id": "AM",
               "name": {
                 "value": "Amerika"
-              }
-            },
-            {
-              "id": "AN",
-              "name": {
-                "value": "Antarktika"
               }
             },
             {
@@ -150,10 +147,10 @@
                 "value": "Südamerika"
               }
             }
-          ]
+          ],
+          "name": "CONTINENT"
         },
         {
-          "name": "COUNTRY",
           "values": [
             {
               "id": "ABC",
@@ -910,6 +907,13 @@
               }
             },
             {
+              "id": "MKD",
+              "name": {
+                "value": "Mazedonien",
+                "synonyms": ["Ehemalige jugoslawische Republik Mazedonien"]
+              }
+            },
+            {
               "id": "MEX",
               "name": {
                 "value": "Mexiko",
@@ -1025,13 +1029,6 @@
               }
             },
             {
-              "id": "MKD",
-              "name": {
-                "value": "Nordmazedonien",
-                "synonyms": ["Republik Nordmazedonien", "Mazedonien"]
-              }
-            },
-            {
               "id": "NOR",
               "name": {
                 "value": "Norwegen",
@@ -1072,8 +1069,7 @@
             {
               "id": "PSE",
               "name": {
-                "value": "Palästina",
-                "synonyms": ["Staat Palästina"]
+                "value": "Palästina"
               }
             },
             {
@@ -1314,7 +1310,7 @@
               "id": "SDN",
               "name": {
                 "value": "Sudan",
-                "synonyms": ["Republik Sudan", "Nordsudan"]
+                "synonyms": ["Republik Sudan"]
               }
             },
             {
@@ -1404,7 +1400,7 @@
               "id": "CZE",
               "name": {
                 "value": "Tschechien",
-                "synonyms": ["Tschechische Republik", "Tschechei"]
+                "synonyms": ["Tschechische Republik"]
               }
             },
             {
@@ -1545,9 +1541,11 @@
                 "synonyms": ["Republik Zypern"]
               }
             }
-          ]
+          ],
+          "name": "COUNTRY"
         }
       ]
     }
-  }
+  },
+  "version": "1"
 }

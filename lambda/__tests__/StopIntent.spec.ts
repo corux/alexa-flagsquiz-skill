@@ -7,7 +7,7 @@ describe("AMAZON.StopIntent, AMAZON.CancelIntent", () => {
   beforeEach(() => {
     alexa = VirtualAlexa.Builder()
       .handler(handler)
-      .interactionModelFile("models/de-DE.json")
+      .interactionModelFile("skill-package/interactionModels/custom/de-DE.json")
       .create();
     alexa.dynamoDB().mock();
   });

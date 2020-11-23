@@ -6,17 +6,17 @@
   "license": "Apache-2.0",
   "scripts": {
     "pretest": "npm run build:prod",
-    "test": "cross-env AWS_REGION=us-east-1 jest",
-    "test:watch": "cross-env AWS_REGION=us-east-1 jest --watch",
+    "test": "cross-env AWS_REGION=us-east-1 jest --config lambda/jest.config.js",
+    "test:watch": "npm run test -- --watch",
     "format": "prettier --write .",
-    "build": "webpack --config webpack.config.ts --require ts-node/register",
+    "build": "webpack --config lambda/webpack.config.ts --require ts-node/register",
     "build:dev": "npm run build -- --mode development --watch",
     "build:prod": "npm run build -- --mode production",
-    "deploy:prod": "ask deploy --force --profile default --target lambda",
+    "deploy:prod": "ask deploy --ignore-hash --profile default --target skill-infrastructure",
     "update-schema": "ts-node ./bin/update-schema.ts --lang de --file ./models/de-DE.json && npm run format",
-    "convert-assets": "rsvg-convert -w 108 -o assets/icon108.png assets/icon.svg && rsvg-convert -w 512 -o assets/icon512.png assets/icon.svg",
+    "convert-assets": "rsvg-convert -w 108 -o skill-package/assets/images/icon108.png skill-package/assets/images/icon.svg && rsvg-convert -w 512 -o skill-package/assets/images/icon512.png skill-package/assets/images/icon.svg",
     "create-s3-bucket": "aws s3 ls s3://alexa-countryquiz-skill > /dev/null 2>&1 || aws s3 mb s3://alexa-countryquiz-skill --region eu-west-1",
-    "deploy:assets": "aws s3 sync ./assets s3://alexa-countryquiz-skill/ --acl public-read"
+    "deploy:assets": "aws s3 sync ./skill-package/assets/images s3://alexa-countryquiz-skill/ --acl public-read"
   },
   "devDependencies": {
     "@corux/country-data": "2.0.3",
