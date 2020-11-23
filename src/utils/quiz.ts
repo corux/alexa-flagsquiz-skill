@@ -71,7 +71,7 @@ function createNeighbourQuestions(allCountries: ICountry[], num: number): IQuest
 function createCapitalQuestions(allCountries: ICountry[], num: number, region?: ContinentCode): IQuestion[] {
   const knownCountries = allCountries.filter((item) =>
     item.continent.code === (region || ContinentCode.EUROPE)
-    && item.name !== item.capital);
+    && item.name !== item.capital && item.capital);
   const selected = shuffle(knownCountries).slice(0, num);
 
   return selected.map((country) => ({
